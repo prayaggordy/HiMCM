@@ -1,2 +1,4 @@
-# HiMCM
-Gautom Das, Prayag Gordy, Bryan Li, Peter Zhang
+# HiMCM 2018
+
+A project by Gautom Das, Prayag Gordy, Bryan Li, and Peter Zhang.
+Montgomery Blair High School
