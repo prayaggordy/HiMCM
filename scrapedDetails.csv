@@ -1,4 +1,21 @@
-name park designer track trains type year g_force height inversions length ride_time top_speed angle_of_descent
-"Abandon Mine" "Uncle Bernie's Amusement Park" "Molina & Sons" Steel "1 - 10 passenger" "Junior Oval" 2002 NA NA NA NA NA NA NA
-Acrobat "Nagashima Spa Land" "Bolliger & Mabillard" Steel "3 - 32 passenger" "Flying, Multielement" 2015 "4.1 G's" "141 feet" 4 "3350 feet" "3 minutes" "56 mph" NA
-"Adrenaline Peak" "Oaks Park" Gerstlauer Steel "2 - 8 Passenger" Euro-Fighter 2018 NA "72 feet" 3 "1,050 feet" NA "45 mph" 97°
+name park designer track trains type year g_force height inversions length ride_time top_speed angle_of_descent train_mfg drop
+"Abandon Mine" "Uncle Bernie's Amusement Park" "Molina & Sons" Steel "1 - 10 passenger" "Junior Oval" 2002 NA NA NA NA NA NA NA NA NA
+Acrobat "Nagashima Spa Land" "Bolliger & Mabillard" Steel "3 - 32 passenger" "Flying, Multielement" 2015 "4.1 G's" "141 feet" 4 "3350 feet" "3 minutes" "56 mph" NA NA NA
+"Adrenaline Peak" "Oaks Park" Gerstlauer Steel "2 - 8 Passenger" Euro-Fighter 2018 NA "72 feet" 3 "1,050 feet" NA "45 mph" 97° NA NA
+"Adventure Express" "Kings Island" "Arrow Dynamics" Steel "3 - 30 passenger" "Mine Train" 1991 NA "63 feet" NA "2,963 feet" "2 minutes, 30 seconds" "35 mph" NA Arrow NA
+Afterburn Carowinds "Bolliger & Mabillard" Steel "2 - 32 passenger" "Inverted Multielement" 1999 NA "113 feet" 6 "2,956 feet" "2 minutes, 30 seconds" "62 mph" NA NA "125 feet"
+Aftershock "Silverwood Theme Park" Vekoma Steel "1 - 32 passenger" "Multielement Inverted Shuttle" 2008 "4.5 G's" "196 feet" 6 "1,204 feet" "1 minute, 32 seconds" "65 mph" 90° NA "177 feet"
+Air "Alton Towers" "Bolliger & Mabillard" Steel "3 - 28 passenger" "Flying, Multielement" 2002 "3.5 G's" "66 feet" NA "2,756 feet" NA "47 mph" NA "Bolliger & Mabillard" NA
+"Air Grover" "Busch Gardens Tampa" Zierer Steel "1 - 16 passenger" Family 2010 NA "24 feet" NA "600 feet" NA NA NA NA NA
+"All American Coaster" "Exchange Club Fair" Schiff Steel "1 - 10 passenger" "Junior Oval" 1974 NA NA NA NA NA NA NA NA NA
+Alpenexpress "Europa Park" "Mack, Blauer Enzian" Steel "1 - 38 passenger" "Mine Train, Powered" 1984 NA "20 feet" NA "866 feet" NA "28 mph" NA NA NA
+Alpengeist "Busch Gardens Williamsburg" "Bolliger & Mabillard" Steel "3 - 32 passenger" "Inverted Terrain" 1997 "3.7 G's" "195 feet" 6 "3,828 feet" "3 minutes, 10 seconds" "67 mph" NA NA "170 feet"
+"Alpine Bobsled" "The Great Escape & Splashwater Kingdom" "Intamin AG" Steel "6 - 8 passenger" Bobsled 1984 NA "64 feet" NA "1,490 feet" NA "32 mph" NA "Intamin AG" NA
+Alucinakis "Terra Mítica" Zamperla Steel "1 - 32 passenger" Family 2000 NA NA NA "820 feet" NA "19 mph" NA NA NA
+"American Eagle" "Six Flags Great America" "Intamin AG, Curtis D. Summers" Wood "4 - 30 passenger" "Racing, Out and Back" 1981 NA "127 feet" NA "4,650 feet" "2 minutes, 35 seconds" "66 mph" 55° "Philadelphia Toboggan Co." "147 feet"
+"American Flyer" "O.D. Pavilion Amusement Park" Schiff Steel "1 - 10 passenger" "Junior Oval" 2010 NA NA NA NA NA NA NA NA NA
+"American Thunder" "Six Flags St. Louis" "Great Coasters International" Wood "2 - 24 passenger" Twister 2008 NA "82 feet" NA "2,700 feet" NA "50 mph" NA "Great Coasters International" "80 feet"
+Anaconda "Kings Dominion" "Arrow Dynamics" Steel "2 - 28 passenger" Multielement 1991 NA "128 feet" 4 "2,700 feet" "1 minute, 50 seconds" "50 mph" NA NA "144 feet"
+"Ant Farm Express" "Wild Adventures" Vekoma Steel "1 - 16 passenger" "Family Twister" 2000 NA "28 feet" NA "679 feet" "44 seconds" "22 mph" NA NA "20 feet"
+Antelope "Gulliver's World Theme Park" "Allott and Lomax" Wood "2 - 16 passenger" "Family Figure-8" 1995 NA NA NA NA "1 minute, 50 seconds" NA NA NA NA
+Apocalypse "Six Flags Magic Mountain" "Great Coasters International" Wood "2 - 22 passenger" Twister 2009 NA "95 feet" NA "2,877 feet" "3 minutes" "50.1 mph" NA "Great Coasters International" "87 feet"

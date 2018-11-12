@@ -52,7 +52,7 @@ urc <- read_html("https://www.ultimaterollercoaster.com/coasters/browse/a-to-z")
 	magrittr::extract(. != "#top") %>%
 	paste("https://www.ultimaterollercoaster.com", ., sep = '')
 
-details <- lapply(head(urc, 3), getDF) %>%
+details <- lapply(head(urc, 20), getDF) %>%
 	bind_rows() %>%
 	rename_all(tolower) %>%
 	set_colnames(gsub(gsub(names(.), pattern = "[()]", replacement = ""), pattern = "([[:punct:]])|\\s+", replacement = "_"))

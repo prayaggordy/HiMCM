@@ -1,4 +1,21 @@
-name,park,designer,construction,type,year_opened,g_force,height,inversions,length,speed,angle,max_passenger,duration_sec
-Abandon Mine,Uncle Bernie's Amusement Park,Molina & Sons,Steel,Junior Oval,2002,NA,NA,NA,NA,NA,NA,10,NA
-Acrobat,Nagashima Spa Land,Bolliger & Mabillard,Steel,"Flying, Multielement",2015,4.1,141,4,3350,56,NA,32,180
-Adrenaline Peak,Oaks Park,Gerstlauer,Steel,Euro-Fighter,2018,NA,72,3,NA,45,97,8,NA
+name,park,designer,construction,type,year_opened,g_force,height,inversions,length,speed,angle,train_mfg,drop,max_passenger,duration_sec
+Abandon Mine,Uncle Bernie's Amusement Park,Molina & Sons,Steel,Junior Oval,2002,NA,NA,NA,NA,NA,NA,NA,NA,10,NA
+Acrobat,Nagashima Spa Land,Bolliger & Mabillard,Steel,"Flying, Multielement",2015,4.1,141,4,3350,56,NA,NA,NA,32,180
+Adrenaline Peak,Oaks Park,Gerstlauer,Steel,Euro-Fighter,2018,NA,72,3,NA,45,97,NA,NA,8,NA
+Adventure Express,Kings Island,Arrow Dynamics,Steel,Mine Train,1991,NA,63,NA,NA,35,NA,Arrow,NA,30,120
+Afterburn,Carowinds,Bolliger & Mabillard,Steel,Inverted Multielement,1999,NA,113,6,NA,62,NA,NA,125,32,120
+Aftershock,Silverwood Theme Park,Vekoma,Steel,Multielement Inverted Shuttle,2008,4.5,196,6,NA,65,90,NA,177,32,60
+Air,Alton Towers,Bolliger & Mabillard,Steel,"Flying, Multielement",2002,3.5,66,NA,NA,47,NA,Bolliger & Mabillard,NA,28,NA
+Air Grover,Busch Gardens Tampa,Zierer,Steel,Family,2010,NA,24,NA,600,NA,NA,NA,NA,16,NA
+All American Coaster,Exchange Club Fair,Schiff,Steel,Junior Oval,1974,NA,NA,NA,NA,NA,NA,NA,NA,10,NA
+Alpenexpress,Europa Park,"Mack, Blauer Enzian",Steel,"Mine Train, Powered",1984,NA,20,NA,866,28,NA,NA,NA,38,NA
+Alpengeist,Busch Gardens Williamsburg,Bolliger & Mabillard,Steel,Inverted Terrain,1997,3.7,195,6,NA,67,NA,NA,170,32,180
+Alpine Bobsled,The Great Escape & Splashwater Kingdom,Intamin AG,Steel,Bobsled,1984,NA,64,NA,NA,32,NA,Intamin AG,NA,8,NA
+Alucinakis,Terra Mítica,Zamperla,Steel,Family,2e3,NA,NA,NA,820,19,NA,NA,NA,32,NA
+American Eagle,Six Flags Great America,"Intamin AG, Curtis D. Summers",Wood,"Racing, Out and Back",1981,NA,127,NA,NA,66,55,Philadelphia Toboggan Co.,147,30,120
+American Flyer,O.D. Pavilion Amusement Park,Schiff,Steel,Junior Oval,2010,NA,NA,NA,NA,NA,NA,NA,NA,10,NA
+American Thunder,Six Flags St. Louis,Great Coasters International,Wood,Twister,2008,NA,82,NA,NA,50,NA,Great Coasters International,80,24,NA
+Anaconda,Kings Dominion,Arrow Dynamics,Steel,Multielement,1991,NA,128,4,NA,50,NA,NA,144,28,60
+Ant Farm Express,Wild Adventures,Vekoma,Steel,Family Twister,2e3,NA,28,NA,679,22,NA,NA,20,16,2640
+Antelope,Gulliver's World Theme Park,Allott and Lomax,Wood,Family Figure-8,1995,NA,NA,NA,NA,NA,NA,NA,NA,16,60
+Apocalypse,Six Flags Magic Mountain,Great Coasters International,Wood,Twister,2009,NA,95,NA,NA,50.1,NA,Great Coasters International,87,22,180

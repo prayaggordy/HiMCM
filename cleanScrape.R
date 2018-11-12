@@ -16,7 +16,7 @@ getMaxPassenger <- function(cl) {
 
 details <- details %>%
 	dplyr::rename(construction = track, year_opened = year, speed = top_speed, angle = angle_of_descent) %>%
-	mutate_at(c("height", "g_force", "length", "ride_time", "speed"), onlyNumber) %>%
+	mutate_at(c("height", "g_force", "length", "ride_time", "speed", "drop"), onlyNumber) %>%
 	mutate(angle = as.numeric(str_replace_all(angle, pattern = "°", replacement = "")),
 				 max_passenger = getMaxPassenger(trains),
 				 year_opened = as.numeric(year_opened),
