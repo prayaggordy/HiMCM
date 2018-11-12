@@ -19,5 +19,9 @@ details <- details %>%
 	mutate_at(c("height", "g_force", "length", "ride_time", "speed"), onlyNumber) %>%
 	mutate(angle = as.numeric(str_replace_all(angle, pattern = "°", replacement = "")),
 				 max_passenger = getMaxPassenger(trains),
-				 year_opened = as.numeric(year_opened)) %>%
-	select(-trains)
+				 year_opened = as.numeric(year_opened),
+				 duration_sec = 60*ride_time,
+				 inversions = as.numeric(inversions)) %>%
+	select(-trains, -ride_time)
+
+write_csv(details, "exampleDetails.csv")
