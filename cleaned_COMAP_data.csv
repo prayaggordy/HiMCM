@@ -1,4 +1,4 @@
-name,park,city,state,country,region,construction,type,year_opened,height_feet,speed_mph,length_feet,number_of_inversions,drop_feet,g_force,vertical_angle_degrees,duration_sec
+name,park,city,state,country,region,construction,type,year_opened,height,speed,length,inversions,drop_feet,g_force,angle,duration_sec
 10 Inversion Roller Coaster,Chimelong Paradise,Panyu,"Guangzhou, Guangdong",China,Asia,Steel,Sit Down,2006,98.4,45,2788.8,10,NA,NA,NA,5520
 Abismo,Parque de Atracciones de Madrid,Madrid,Madrid,Spain,Europe,Steel,Sit Down,2006,151.6,65.2,1476.4,2,NA,4,NA,3600
 Adrenaline Peak,Oaks Amusement Park,Portland,Oregon,United States,North America,Steel,Sit Down,2018,72,45,1050,3,NA,NA,97,NA
