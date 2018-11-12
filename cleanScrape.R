@@ -1,3 +1,6 @@
+require(tidyverse)
+require(magrittr)
+
 load("details.RData")
 
 onlyNumber <- function(cl) {
