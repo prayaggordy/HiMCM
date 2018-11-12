@@ -11,6 +11,7 @@ combineDetails <- function(inV) {
 }
 getDF <- function(URL) {
 	pg <- read_html(URL)
+	show(URL)
 	details <- pg %>%
 		html_nodes(xpath = "//*[@id='contentN']/table") %>% #found with inspect element's "copy xpath"
 		html_text() %>%
@@ -52,7 +53,7 @@ urc <- read_html("https://www.ultimaterollercoaster.com/coasters/browse/a-to-z")
 	magrittr::extract(. != "#top") %>%
 	paste("https://www.ultimaterollercoaster.com", ., sep = '')
 
-details <- lapply(head(urc, 20), getDF) %>%
+details <- lapply(urc, getDF) %>%
 	bind_rows() %>%
 	rename_all(tolower) %>%
 	set_colnames(gsub(gsub(names(.), pattern = "[()]", replacement = ""), pattern = "([[:punct:]])|\\s+", replacement = "_"))
