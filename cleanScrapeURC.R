@@ -22,6 +22,6 @@ details <- details %>%
 				 year_opened = as.numeric(year_opened),
 				 duration_sec = 60*ride_time,
 				 inversions = as.numeric(inversions)) %>%
-	select(-trains, -ride_time)
+	select(-trains, -ride_time, -rating, -votes)
 
 write_csv(details, "exampleDetails.csv")
