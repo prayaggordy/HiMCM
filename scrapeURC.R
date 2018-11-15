@@ -65,5 +65,5 @@ details <- lapply(urc, getDF) %>%
 	rename_all(tolower) %>%
 	set_colnames(gsub(gsub(names(.), pattern = "[()]", replacement = ""), pattern = "([[:punct:]])|\\s+", replacement = "_"))
 
-write_delim(details, "scrapedDetails.csv")
-save(details, file = "details.RData")
+# write_delim(details, "scrapedDetails.csv")
+# save(details, file = "details.RData")
