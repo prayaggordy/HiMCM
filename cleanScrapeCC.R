@@ -8,4 +8,4 @@ detailsCC <- detailsCC %>%
 				 opening_year = ifelse(substring(opening_date, nchar(opening_date)-2, nchar(opening_date)-2) == "/", ifelse(as.integer(substring(opening_date, nchar(opening_date)-1, nchar(opening_date)))<=18, paste(20, substring(opening_date, nchar(opening_date)-1, nchar(opening_date)), sep = ''), paste(19, substring(opening_date, nchar(opening_date)-1, nchar(opening_date)), sep = '')), opening_date)) %>%
 	select(name, park, country, score, status, manufacturer, construction, launch, restraint, type, opening_year, height, speed, length, inversions)
 
-write_csv(details, "finalTrainingData.csv")
+write_csv(detailsCC, "finalTrainingData.csv")
