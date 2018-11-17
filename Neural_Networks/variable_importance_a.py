@@ -8,24 +8,26 @@ from sklearn.ensemble import RandomForestClassifier
 
 # Load Dataset
 root_dir = os.path.abspath('./')
-df = pd.DataFrame.from_csv(os.path.join(root_dir, 'finalTrainingData.csv'), sep=',', index_col=None)
+df = pd.read_csv(os.path.join(root_dir, 'joinedTestingData.csv'), sep=',', index_col=None)
 print(df.columns.tolist())
 print(df)
-data = df[['name', 'park', 'country', 'status', 'manufacturer', 'construction', 'launch', 'restraint', 'type', 'opening_year', 'height', 'speed', 'length', 'inversions']]
-data = pd.get_dummies(data)
+
+df = df.drop('park', axis=1)
+df = df.drop('status', axis=1)
 
 #Selected columns based on feature selection
 #selectedColumns = ['Timepoint', 'Time', 'Dose', 'Event_a', 'Event_b', 'Event_f','SurgeryType']
 #data = data[selectedColumns]
 
-print(data.columns.tolist())
 
+print(df.columns.tolist())
 # Specify the data
-X = data.drop('SurgeryType', 1)
+X = df.drop('score', axis=1)
 # Specify the target labels and flatten the array
-y=np.array(data['score'].astype(int))
+y=np.array(df['score'].astype(float))
 nb_classes=4
-
+print(X)
+print(y)
 
 Y=y
 #from keras.utils import np_utils
