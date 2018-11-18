@@ -1,6 +1,6 @@
 from keras.models import Sequential
 import keras
-
+from keras.layers import BatchNormalization
 import csv
 
 results = []
@@ -52,11 +52,16 @@ print(y_train)
 print(y_test)
 # create model
 model = Sequential()
+model.add(BatchNormalization())
 model.add(Dense(12, input_dim=12, activation='relu'))
+model.add(BatchNormalization())
 model.add(Dense(16, activation='relu'))
+model.add(BatchNormalization())
 model.add(Dense(16, activation='relu'))
+model.add(BatchNormalization())
 model.add(Dense(1))
-model.compile(loss='mean_squared_error', optimizer='adam', metrics=['accuracy'])
+rms_prop = keras.optimizers.RMSprop(lr=0.001, rho=0.9, epsilon=None, decay=0.0)
+model.compile(loss='mean_squared_error', optimizer=rms_prop, metrics=['mae'])
 import numpy as np
 X_test = np.asarray(X_test)
 print(X_test.shape)
@@ -66,8 +71,18 @@ X_train = np.asarray(X_train)
 print(X_train.shape)
 y_train = np.asarray(y_train)
 
-history = model.fit(X_train, y_train, epochs=1000, batch_size=100)
+history = model.fit(X_train, y_train, epochs=1000, batch_size=100, validation_split=0.1)
+def plot_history(history):
+    import matplotlib.pyplot as plt
+    plt.figure()
+    plt.xlabel('Epoch')
+    plt.ylabel('Mean Abs Error [1000$]')
+    plt.plot(history.epoch, np.array(history.history['mean_absolute_error']),
+           label='Train Loss')
+    plt.legend()
+    plt.show()
 
+plot_history(history)
 
 from sklearn import metrics
 import numpy as np
