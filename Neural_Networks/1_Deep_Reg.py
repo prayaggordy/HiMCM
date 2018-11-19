@@ -105,6 +105,14 @@ def chart_regression(pred,y,sort=True):
     a = plt.plot(t['y'].tolist(),label='expected')
     b = plt.plot(t['pred'].tolist(),label='prediction')
     plt.plot(yhat, label='smooth')
+
+    finaArra = []
+    finaArra.append(t['y'].tolist())
+    finaArra.append(t['pred'].tolist())
+    import csv
+    with open("deep_first_col_is_expected_second_col_is_predicted.csv", "w") as f:
+        writer = csv.writer(fina)
+        writer.writerows(results)
     """
     HI PRAYAG
 

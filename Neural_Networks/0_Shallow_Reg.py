@@ -15,6 +15,7 @@ def remove_col(arra, index):
 
     return arra
 results = remove_col(results, 0)
+results = remove_col(results, 0)
 resul = results[1:]
 
 fina = []
@@ -53,7 +54,7 @@ print(y_test)
 # create model
 model = Sequential()
 model.add(BatchNormalization())
-model.add(Dense(12, input_dim=12, activation='relu'))
+model.add(Dense(11, input_dim=11, activation='relu'))
 model.add(BatchNormalization())
 model.add(Dense(1))
 rms_prop = keras.optimizers.RMSprop(lr=0.001, rho=0.9, epsilon=None, decay=0.0)
@@ -102,6 +103,13 @@ def chart_regression(pred,y,sort=True):
     plt.plot(t['pred'].tolist(),label='prediction')
     plt.plot(yhat, label='smooth')
 
+    finaArra = []
+    finaArra.append(t['y'].tolist())
+    finaArra.append(t['pred'].tolist())
+    import csv
+    with open("shallow_first_col_is_expected_second_col_is_predicted.csv", "w") as f:
+        writer = csv.writer(fina)
+        writer.writerows(results)
     """
     HI PRAYAG
     
