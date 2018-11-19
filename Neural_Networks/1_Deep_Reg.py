@@ -24,7 +24,6 @@ def remove_col(arra, index):
     return arra
 results = remove_col(results, 0)
 results = remove_col(results, 0)
-resultsTwo = remove_col(resultsTwo, 0)
 
 resul = results[1:]
 susa = resultsTwo[1:]
@@ -48,11 +47,12 @@ import random
 random.shuffle(fina)
 random.seed(128)
 
-res = fina[25:]
+res = fina[1:]
 test = fina[1:50]
 X_train = []
 y_train = []
 for row in res:
+    print(row)
     X_train.append(row[0:11])
     y_train.append(row[11])
 
@@ -95,7 +95,7 @@ X_train = np.asarray(X_train)
 print(X_train.shape)
 y_train = np.asarray(y_train)
 
-history = model.fit(X_train, y_train, epochs=500, batch_size=100, validation_split=0.1)
+history = model.fit(X_train, y_train, epochs=1000, batch_size=100, validation_split=0.1)
 def plot_history(history):
     import matplotlib.pyplot as plt
     plt.figure()
@@ -134,7 +134,7 @@ def chart_regression(pred,y,sort=True):
     finaArra.append(t['y'].tolist())
     finaArra.append(t['pred'].tolist())
     import csv
-    with open("2deep_first_col_is_expected_second_col_is_predicted.csv", "w") as f:
+    with open("3_1000deep_first_col_is_expected_second_col_is_predicted.csv", "w") as f:
         writer = csv.writer(f)
         writer.writerows(finaArra)
     """

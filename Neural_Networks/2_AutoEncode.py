@@ -58,7 +58,7 @@ for row in fina:
 import numpy as np
 X_train = np.asarray(X_train)
 
-model.fit(X_train, X_train, epochs=1500)
+model.fit(X_train, X_train, epochs=100)
 
 results = []
 with open("yesNA.csv") as csvfile:
@@ -106,7 +106,7 @@ allf = out.tolist()
 print(X_tra[0])
 
 finis = []
-finis.append(results[0])
+
 count = 0
 for row in allf:
     counter = 0
@@ -123,6 +123,15 @@ for row in allf:
     print(rower)
     finis.append(rower)
     count += 1
+
+def add_col(arra, fin_array):
+    count = 0
+    for row in arra:
+        row.append(fin_array[count])
+        count += 1
+    return arra
+finis = add_col(finis, y_train)
+finis.insert(0, results[0])
 import csv
 with open("S_filledNA.csv", "w") as f:
     writer = csv.writer(f)
