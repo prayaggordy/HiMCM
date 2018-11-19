@@ -4,7 +4,7 @@ from keras.layers import BatchNormalization
 import csv
 
 results = []
-with open("sec_real_final.csv") as csvfile:
+with open("joinedTestingData.csv") as csvfile:
     reader = csv.reader(csvfile) # change contents to floats
     for row in reader: # each row is a list
         results.append(row)
@@ -31,19 +31,19 @@ import random
 random.shuffle(fina)
 random.seed(128)
 
-res = fina[1:]
+res = fina[25:]
 test = fina[1:50]
 X_train = []
 y_train = []
 for row in res:
-    X_train.append(row[0:12])
-    y_train.append(row[12])
+    X_train.append(row[0:11])
+    y_train.append(row[11])
 
 X_test = []
 y_test = []
 for row in test:
-    X_test.append(row[0:12])
-    y_test.append(row[12])
+    X_test.append(row[0:11])
+    y_test.append(row[11])
 
 from keras.layers import Dense
 
@@ -68,7 +68,7 @@ X_train = np.asarray(X_train)
 print(X_train.shape)
 y_train = np.asarray(y_train)
 
-history = model.fit(X_train, y_train, epochs=1500, batch_size=100, validation_split=0.1)
+history = model.fit(X_train, y_train, epochs=500   , batch_size=100, validation_split=0.1)
 def plot_history(history):
     import matplotlib.pyplot as plt
     plt.figure()
@@ -103,13 +103,20 @@ def chart_regression(pred,y,sort=True):
     plt.plot(t['pred'].tolist(),label='prediction')
     plt.plot(yhat, label='smooth')
 
+    plt.ylabel('output')
+    plt.legend()
+    plt.show()
+
+
     finaArra = []
+    print(t['y'].tolist())
+    print(t['pred'].tolist())
     finaArra.append(t['y'].tolist())
     finaArra.append(t['pred'].tolist())
     import csv
-    with open("shallow_first_col_is_expected_second_col_is_predicted.csv", "w") as f:
-        writer = csv.writer(fina)
-        writer.writerows(results)
+    with open("2shallow_first_col_is_expected_second_col_is_predicted.csv", "w") as f:
+        writer = csv.writer(f)
+        writer.writerows(finaArra)
     """
     HI PRAYAG
     
@@ -118,9 +125,6 @@ def chart_regression(pred,y,sort=True):
     
     """
 
-    plt.ylabel('output')
-    plt.legend()
-    plt.show()
 # Plot the chart
 chart_regression(pred.flatten(),y_test)
 
