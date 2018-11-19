@@ -87,8 +87,18 @@ for cola in range(0, len(results[0])-1):
         rows = fin_rw
     else:
         print(rows)
-        first = pd.Categorical(rows)
-        rows = first.codes.tolist()
+        if "NA" in rows:
+            ns = rows.index("NA")
+            print("NA: "+str(ns))
+            first = pd.Categorical(rows)
+            rows = first.codes.tolist()
+            numbB = rows[ns]
+            for val in rows:
+                if val==numbB:
+                    val = 0
+        else:
+            first = pd.Categorical(rows)
+            rows = first.codes.tolist()
     rows.insert(0, colum[0])
     print(rows)
     results = add_col(results, rows)
@@ -97,6 +107,6 @@ for row in results:
     print(row)
     print(len(row))
 import csv
-with open("real_final.csv", "w") as f:
+with open("sec_real_final.csv", "w") as f:
     writer = csv.writer(f)
     writer.writerows(results)
