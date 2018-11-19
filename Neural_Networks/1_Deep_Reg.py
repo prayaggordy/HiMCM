@@ -96,6 +96,13 @@ print(X_train.shape)
 y_train = np.asarray(y_train)
 
 history = model.fit(X_train, y_train, epochs=1000, batch_size=100, validation_split=0.1)
+# serialize model to JSON
+model_json = model.to_json()
+with open("model.json", "w") as json_file:
+    json_file.write(model_json)
+# serialize weights to HDF5
+model.save_weights("model.h5")
+print("MODEL SAVED")
 def plot_history(history):
     import matplotlib.pyplot as plt
     plt.figure()
