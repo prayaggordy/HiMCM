@@ -24,8 +24,19 @@
     </script>-->
     <script type="text/javascript">
         async function getInfo() {
-            const model = await tf.loadModel('coaster_model.json');
-            model.predict(tf.tensor([])).print();
+            console.log([getVal($("#continent").val()), getVal($("#designer").val()),
+                getVal($("#material").val()), getVal($("#restraint").val()), getVal($("#year").val()),
+                getVal($("#launch").val()), getVal($("#type").val()), getVal($("#height").val()),
+                getVal($("#inversions").val()), getVal($("#speed").val()), getVal($("#length").val())]);
+            /*const model = await tf.loadModel('coaster_model.json'); t
+            model.predict(tf.tensor([getVal($("#continent").val()), getVal($("#designer").val()),
+                getVal($("#material").val()), getVal($("#restraint").val()), getVal($("#year").val()),
+                getVal($("#launch").val()), getVal($("#type").val()), getVal($("#height").val()),
+                getVal($("#inversions").val()), getVal($("#speed").val()), getVal($("#length").val())]));*/
+        }
+        function getVal(string){
+            if (string == "NaN") return NaN;
+            return parseInt(string);
         }
     </script>
     <script type="text/javascript" src="onpageload.js" defer></script>
@@ -47,7 +58,7 @@
         </div>
         <br/><br/>
         <div class="container has-text-centered">
-            <form>
+            <form onsubmit="return false">
                 <div class="control" style="width:400px; margin:auto; text-align: center">
 
                     <!--<input class="input" style="text-align:center !important;" type="text" name="name" id="name" placeholder="Name of coaster" value="">
@@ -62,7 +73,7 @@
                     <br/><br/>
                     <input class="input" type="number" style="text-align:center !important;" name="length" id="length" placeholder="Length (ft)" min="0" max="20000" value="">
                     <br/><br/>
-                    <select data-placeholder="Choose a country..." class="input chosen-single-with-deselect" id="country" tabindex="2">
+                    <select data-placeholder="Choose a continent..." class="input chosen-single-with-deselect" id="continent" tabindex="2">
                         <option value="NaN"></option>
                         <option value="1">Asia</option>
                         <option value="2">Europe</option>
