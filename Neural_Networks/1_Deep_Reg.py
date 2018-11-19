@@ -2,12 +2,20 @@ from keras.models import Sequential
 import keras
 from keras.layers import BatchNormalization
 import csv
+import os
+os.environ["PATH"] += os.pathsep + 'file:///home/gautom/anaconda3/envs/pyenv35/lib/graphviz/'
 
 results = []
-with open("joinedTestingData.csv") as csvfile:
+with open("noNA.csv") as csvfile:
     reader = csv.reader(csvfile) # change contents to floats
     for row in reader: # each row is a list
         results.append(row)
+
+resultsTwo = []
+with open("S_filledNA.csv") as csvfile:
+    reader = csv.reader(csvfile) # change contents to floats
+    for row in reader: # each row is a list
+        resultsTwo.append(row)
 
 def remove_col(arra, index):
     for row in arra:
@@ -16,12 +24,21 @@ def remove_col(arra, index):
     return arra
 results = remove_col(results, 0)
 results = remove_col(results, 0)
+resultsTwo = remove_col(resultsTwo, 0)
+
 resul = results[1:]
+susa = resultsTwo[1:]
+for row in susa:
+    resul.append(row)
+
+print(len(resul))
 
 fina = []
 for row in resul:
     rowa = []
     for val in row:
+        print(resul.index(row))
+        print(row)
         rowa.append(float(val))
     fina.append(rowa)
 
@@ -63,6 +80,12 @@ model.add(BatchNormalization())
 model.add(Dense(1))
 rms_prop = keras.optimizers.RMSprop(lr=0.001, rho=0.9, epsilon=None, decay=0.0)
 model.compile(loss='mean_squared_error', optimizer=rms_prop, metrics=['mae'])
+
+
+from keras.utils import plot_model
+plot_model(model, to_file='deep_model.png')
+
+
 import numpy as np
 X_test = np.asarray(X_test)
 print(X_test.shape)
