@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<!-- Written by Bryan Li and Gautom Das (Class of 2020)-->
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Rollercoaster Rating Estimator</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js" type="text/javascript"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" type="text/javascript"></script>
+    <script src="chosen/chosen.jquery.js"></script>
+    <link rel="stylesheet" href="chosen/chosen.css">
+    <!--<script src="chosen/chosen.proto.js"></script>-->
+    <!--<script>
+        function inverse() {
+            document.getElementById("inverse").className = "button is-danger";
+            document.getElementById("regular").className = "button";
+        }
+        function regular() {
+            document.getElementById("regular").className = "button is-danger";
+            document.getElementById("inverse").className = "button";
+        }
+    </script>-->
+    <script type="text/javascript">
+        async function getInfo() {
+            const model = await tf.loadModel('coaster_model.json');
+            model.predict(tf.tensor([])).print();
+        }
+    </script>
+    <script type="text/javascript" src="onpageload.js" defer></script>
+    <style>
+        .input{
+            width:75%;
+        }
+        .input, .chosen-single-with-deselect {
+            font-size: 15px;
+        }
+    </style>
+</head>
+<body>
+<br/>
+<div class="container" style="gap: 45% !important;">
+    <section class="section is-paddingless">
+        <div class="container has-text-centered">
+            <h1 class="title is-1">Rollercoaster Rating Estimator</h1>
+        </div>
+        <br/><br/>
+        <div class="container has-text-centered">
+            <form>
+                <div class="control" style="width:400px; margin:auto; text-align: center">
+
+                    <!--<input class="input" style="text-align:center !important;" type="text" name="name" id="name" placeholder="Name of coaster" value="">
+                    <br/><br/>-->
+                    <input class="input" type="number" style="text-align:center !important;" name="year" id="year" placeholder="Opening year" min="1884" value="">
+                    <br/><br/>
+                    <input class="input" type="number" style="text-align:center !important;" name="height" id="height" placeholder="Max height (ft)" min="0" max="1000" value="">
+                    <br/><br/>
+                    <input class="input" type="number" style="text-align:center !important;" name="inversions" id="inversions" placeholder="Number of inversions" min="0" max="100" value="">
+                    <br/><br/>
+                    <input class="input" type="number" style="text-align:center !important;" name="speed" id="speed" placeholder="Max speed (mph)" min="0" max="300" value="">
+                    <br/><br/>
+                    <input class="input" type="number" style="text-align:center !important;" name="length" id="length" placeholder="Length (ft)" min="0" max="20000" value="">
+                    <br/><br/>
+                    <select data-placeholder="Choose a country..." class="input chosen-single-with-deselect" id="country" tabindex="2">
+                        <option value="NaN"></option>
+                        <option value="1">Asia</option>
+                        <option value="2">Europe</option>
+                        <option value="3">North America</option>
+                        <option value="1">South America</option>
+                        <option value="1">Australia</option>
+                        <option value="1">Africa</option>
+                    </select>
+                    <br/><br/>
+                    <select data-placeholder="Choose a designer..." class="input chosen-single-with-deselect" id="designer" tabindex="2">
+                        <option value="NaN"></option>
+                        <option value="1">ACE Coaster Classic</option>
+                        <option value="2">Arrow</option>
+                        <option value="3">ART Engineering GmbH</option>
+                        <option value="4">B&M</option>
+                        <option value="5">Big Country Mitioneering</option>
+                        <option value="6">Caripro</option>
+                        <option value="7">CCI</option>
+                        <option value="8">Chance Rides</option>
+                        <option value="9">Charles Paige</option>
+                        <option value="10">Charlie Dinn</option>
+                        <option value="11">Cordes GmbH</option>
+                        <option value="12">Dinn Corp.</option>
+                        <option value="13">Drambour, Joseph</option>
+                        <option value="14">Dynamic Attractions</option>
+                        <option value="15">EOS rides</option>
+                        <option value="16">Fabbri</option>
+                        <option value="17">GCI</option>
+                        <option value="18">Gerstlauer</option>
+                        <option value="19">Giovanola</option>
+                        <option value="20">Gravity Group</option>
+                        <option value="21">Hopkins</option>
+                        <option value="22">Intamin</option>
+                        <option value="23">International Amusement Devices</option>
+                        <option value="24">John Miller</option>
+                        <option value="25">Kings Island</option>
+                        <option value="26">Kumbak</option>
+                        <option value="28">L&T Systems</option>
+                        <option value="27">L.A. Thompson Scenic Railway</option>
+                        <option value="29">Mack</option>
+                        <option value="30">Martin & Vleminckx</option>
+                        <option value="31">Maurer</option>
+                        <option value="32">Meisho Amusement Machines</option>
+                        <option value="33">Morgan</option>
+                        <option value="34">Pax</option>
+                        <option value="35">Philadelphia Toboggan Coaster</option>
+                        <option value="36">Pinfari</option>
+                        <option value="37">Premier Rides</option>
+                        <option value="38">Preston & Barbieri</option>
+                        <option value="39">RCCA</option>
+                        <option value="40">Reverchon</option>
+                        <option value="41">RMC</option>
+                        <option value="42">S&S</option>
+                        <option value="43">Sartori</option>
+                        <option value="44">SBF</option>
+                        <option value="45">Schwarzkopf</option>
+                        <option value="46">SetPoint</option>
+                        <option value="47">Soquet</option>
+                        <option value="48">Togo</option>
+                        <option value="49">Unknown</option>
+                        <option value="50">Vekoma</option>
+                        <option value="51">Walt Disney Imagineering</option>
+                        <option value="52">Wiegand</option>
+                        <option value="53">William J. Cobb</option>
+                        <option value="54">William Strickler</option>
+                        <option value="55">Zamperla</option>
+                        <option value="56">Zierer</option>
+                    </select>
+                    <br/><br/>
+                    <select data-placeholder="Choose a material type..." class="input chosen-single-with-deselect" id="material" tabindex="2">
+                        <option value="NaN"></option>
+                        <option value="5">Steel</option>
+                        <option value="9">Wooden</option>
+                        <option value="3">Hybrid</option>
+                    </select>
+                    <br/><br/>
+                    <select data-placeholder="Choose a restraint type..." class="input chosen-single-with-deselect" id="restraint" tabindex="2">
+                        <option value="NaN"></option>
+                        <option value="1">Flying restraint</option>
+                        <option value="2">Lap bar</option>
+                        <option value="3">None</option>
+                        <option value="4">Seatbelt</option>
+                        <option value="5">Shoulder harness</option>
+                        <option value="6">Vest restraint</option>
+                    </select>
+                    <br/><br/>
+                    <select data-placeholder="Choose a launch type..." class="input chosen-single-with-deselect" id="launch" tabindex="2">
+                        <option value="NaN"></option>
+                        <option value="1">Booster wheel lift hill</option>
+                        <option value="2">Booster wheel lift hill, Vertical lift</option>
+                        <option value="3">Cable lift hill</option>
+                        <option value="4">Chain lift hill</option>
+                        <option value="5">Chain lift hill, Booster wheel lift hill, Tire propelled launch</option>
+                        <option value="6">Chain lift hill, Compressed air launch</option>
+                        <option value="7">Chain lift hill, Magnetic Launch (LIM/LSM)</option>
+                        <option value="8">Chain lift hill, Tire propelled launch</option>
+                        <option value="9">Compressed air launch</option>
+                        <option value="10">Electrical launch</option>
+                        <option value="11">Electrical lift hill</option>
+                        <option value="12">Flywheel</option>
+                        <option value="13">Hydraulic cable launch</option>
+                        <option value="14">Magnetic Launch (LIM/LSM)</option>
+                        <option value="15">Spiral lift</option>
+                        <option value="16">Tire propelled launch</option>
+                        <option value="17">Vertical lift</option>
+                    </select>
+                    <br/><br/>
+                    <select data-placeholder="Choose a rollercoaster type..." class="input chosen-single-with-deselect" id="type" tabindex="2">
+                        <option value="NaN"></option>
+                        <option value="1">4th Dimension, ZacSpin</option>
+                        <option value="2">Air Powered</option>
+                        <option value="3">Batman Inverted Coaster</option>
+                        <option value="4">BigDipper</option>
+                        <option value="5">Bobsled</option>
+                        <option value="6">Bobsled, Family</option>
+                        <option value="7">Boomerang</option>
+                        <option value="8">Boomerang, Family</option>
+                        <option value="9">Boomerang, Multielement Shuttle</option>
+                        <option value="10">Dark Ride</option>
+                        <option value="11">Dive</option>
+                        <option value="12">Double Loop Corkscrew</option>
+                        <option value="13">Dual Wild Mouse</option>
+                        <option value="14">E-Powered</option>
+                        <option value="15">E-Powered, Dark Ride</option>
+                        <option value="16">E-Powered, Family</option>
+                        <option value="17">Eagle</option>
+                        <option value="18">El Loco</option>
+                        <option value="19">Enclosed Freeform</option>
+                        <option value="20">Enclosed Junior</option>
+                        <option value="21">Euro-Fighter</option>
+                        <option value="22">Family</option>
+                        <option value="23">Family Inverted</option>
+                        <option value="24">Family Launch Coaster</option>
+                        <option value="25">Family, Free Fall</option>
+                        <option value="26">Family, Indoor</option>
+                        <option value="27">Flying</option>
+                        <option value="28">Flying, Volare</option>
+                        <option value="29">Free Fall</option>
+                        <option value="30">Free Spin</option>
+                        <option value="31">Freeform</option>
+                        <option value="32">Freeform Mine Train</option>
+                        <option value="33">Freeform Powered</option>
+                        <option value="34">Giga</option>
+                        <option value="35">Giga, Hyper</option>
+                        <option value="36">Half Pipe</option>
+                        <option value="37">Hyper</option>
+                        <option value="38">Hyper, Out & Back</option>
+                        <option value="39">Hypercoaster</option>
+                        <option value="41">Indoor Freeform</option>
+                        <option value="43">Indoor Launched Multielement</option>
+                        <option value="42">Indoor Launched</option>
+                        <option value="40">Indoor</option>
+                        <option value="44">Infinity</option>
+                        <option value="45">Invertigo</option>
+                        <option value="46">Junior</option>
+                        <option value="47">Junior Coaster</option>
+                        <option value="48">Junior Twister</option>
+                        <option value="49">Launched</option>
+                        <option value="50">Launched Freeform</option>
+                        <option value="51">Launched Indoor</option>
+                        <option value="52">Launched Looping</option>
+                        <option value="53">Launched Multielement</option>
+                        <option value="54">Launched Spinning</option>
+                        <option value="55">Launched, Family</option>
+                        <option value="56">Loop Corkscrew</option>
+                        <option value="57">Looper</option>
+                        <option value="58">Looper, Indoor</option>
+                        <option value="59">Looper, Infinity</option>
+                        <option value="60">Looper, Raptor</option>
+                        <option value="61">Looper, Terrain</option>
+                        <option value="62">Looping</option>
+                        <option value="63">Megacoaster</option>
+                        <option value="64">Megalite</option>
+                        <option value="65">Mine Train</option>
+                        <option value="66">Mine Train, Family</option>
+                        <option value="67">Motocoaster</option>
+                        <option value="68">Motorbike</option>
+                        <option value="69">Multielement</option>
+                        <option value="70">Multielement Inverted Shuttle</option>
+                        <option value="71">Out & Back</option>
+                        <option value="72">Out & Back, Family</option>
+                        <option value="73">Rocket</option>
+                        <option value="74">Rocket, Strata</option>
+                        <option value="75">Screaming Squirrel</option>
+                        <option value="77">Shuttle Loop</option>
+                        <option value="76">Shuttle</option>
+                        <option value="78">Shuttle, Boomerang</option>
+                        <option value="79">Shuttle, Boomerang, Family</option>
+                        <option value="80">Shuttle, Looper</option>
+                        <option value="81">SLC</option>
+                        <option value="82">Speed Racer / Extended Jumbo Jet</option>
+                        <option value="83">Spinning</option>
+                        <option value="84">Spinning Cars, Twister</option>
+                        <option value="85">Spinning Freeform</option>
+                        <option value="86">Spinning Twister</option>
+                        <option value="87">Spinning Wild Mouse</option>
+                        <option value="88">Suspended Looping</option>
+                        <option value="89">Terrain</option>
+                        <option value="90">Triple Out and Back</option>
+                        <option value="91">Twister</option>
+                        <option value="92">Twister, Family</option>
+                        <option value="93">Twister, Terrain</option>
+                        <option value="94">Water Coaster</option>
+                        <option value="95">Wild Mouse</option>
+                        <option value="96">Wild Mouse, Indoor</option>
+                        <option value="97">X Car</option>
+                        <option value="98">YoungStar</option>
+                        <option value="99">ZacSpin</option>
+                        <option value="100">Zyklon Z47</option>
+                        <option value="101">Zyklon Z47, Family</option>
+                    </select>
+                    <br/><br/>
+                </div>
+                <input id="button" class="button is-info" type="submit" value="Generate" onclick="getInfo();">
+            </form>
+        </div>
+    </section>
+</div>
+</body>
+
+</html>
