@@ -4,7 +4,7 @@ from keras.layers import BatchNormalization
 import csv
 
 results = []
-with open("real_final.csv") as csvfile:
+with open("sec_real_final.csv") as csvfile:
     reader = csv.reader(csvfile) # change contents to floats
     for row in reader: # each row is a list
         results.append(row)
@@ -30,7 +30,7 @@ import random
 random.shuffle(fina)
 random.seed(128)
 
-res = fina[51:]
+res = fina[1:]
 test = fina[1:50]
 X_train = []
 y_train = []
@@ -67,7 +67,7 @@ X_train = np.asarray(X_train)
 print(X_train.shape)
 y_train = np.asarray(y_train)
 
-history = model.fit(X_train, y_train, epochs=1000, batch_size=100, validation_split=0.1)
+history = model.fit(X_train, y_train, epochs=1500, batch_size=100, validation_split=0.1)
 def plot_history(history):
     import matplotlib.pyplot as plt
     plt.figure()
@@ -98,9 +98,18 @@ def chart_regression(pred,y,sort=True):
     yhat = savgol_filter(y, 49, 12)
     if sort:
         t.sort_values(by=['y'],inplace=True)
-    a = plt.plot(t['y'].tolist(),label='expected')
-    b = plt.plot(t['pred'].tolist(),label='prediction')
+    plt.plot(t['y'].tolist(),label='expected')
+    plt.plot(t['pred'].tolist(),label='prediction')
     plt.plot(yhat, label='smooth')
+
+    """
+    HI PRAYAG
+    
+    t['y'].tolist() this is the expected data > BLUE
+    t['pred'].tolist() this is the predicted data > Orange
+    
+    """
+
     plt.ylabel('output')
     plt.legend()
     plt.show()
