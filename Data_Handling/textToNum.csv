@@ -1,755 +1,725 @@
 name,nameI,continent,countryI,launch,launchI,type,typeI,restraint,restraintI,designer,designerI,construction,constructionI
-Steel Vengeance,1,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,RMC,43,Hybrid,3
-Fury 325,2,NorthAm,3,Chain lift hill,4,"Giga, Hyper",38,Lap bar,2,B&M,4,Steel,5
-Maverick,3,NorthAm,3,Magnetic Launch (LIM/LSM),14,Rocket,76,Shoulder harness,5,Intamin,24,Steel,5
-Twisted Timbers,4,NorthAm,3,Chain lift hill,4,Looper,60,Lap bar,2,RMC,43,Hybrid,3
-El Toro,5,NorthAm,3,Cable lift hill,3,Twister,97,Lap bar,2,Intamin,24,Wooden,9
-Wildfire,6,Europe,2,Chain lift hill,4,"Twister, Terrain",99,Lap bar,2,RMC,43,Wooden,9
-Eejanaika,7,Asia,1,Chain lift hill,4,0,0,Shoulder harness,5,S&S,44,Steel,5
-Lightning Rod,8,NorthAm,3,Magnetic Launch (LIM/LSM),14,0,0,Lap bar,2,RMC,43,Wooden,9
-Twisted Colossus,9,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,RMC,43,Hybrid,3
-Shambhala,10,Europe,2,Chain lift hill,4,Hyper,40,Lap bar,2,B&M,4,Steel,5
-Hyperion,11,Europe,2,Chain lift hill,4,"Hyper, Out & Back",41,Lap bar,2,Intamin,24,Steel,5
-Taron,12,Europe,2,Magnetic Launch (LIM/LSM),14,0,0,Lap bar,2,Intamin,24,Steel,5
-Wicked Cyclone,13,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,RMC,43,Hybrid,3
-Expedition Ge Force,14,Europe,2,Cable lift hill,3,Megacoaster,66,Lap bar,2,Intamin,24,Steel,5
-Helix,15,Europe,2,Magnetic Launch (LIM/LSM),14,"Looper, Terrain",64,Lap bar,2,Mack,31,Steel,5
-Wonder Woman Golden Lasso,16,NorthAm,3,Chain lift hill,4,"Looper, Raptor",63,Lap bar,2,RMC,43,Steel,5
-Storm Chaser,17,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,RMC,43,Steel,5
-Outlaw Run,18,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,RMC,43,Hybrid,3
-Twisted Cyclone,19,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,RMC,43,Hybrid,3
-Top Thrill Dragster,20,NorthAm,3,Hydraulic cable launch,13,"Rocket, Strata",77,Lap bar,2,Intamin,24,Steel,5
-Lech Coaster,21,Europe,2,Chain lift hill,4,Looper,60,Vest restraint,6,Vekoma,52,Steel,5
-Goliath,22,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,RMC,43,Wooden,9
-Iron Rattler,23,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,RMC,43,Hybrid,3
+Steel Vengeance,1,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,RMC,41,Hybrid,3
+Fury 325,2,NorthAm,3,Chain lift hill,4,"Giga, Hyper",35,Lap bar,2,B&M,4,Steel,5
+Maverick,3,NorthAm,3,Magnetic Launch (LIM/LSM),14,Rocket,73,Shoulder harness,5,Intamin,22,Steel,5
+Twisted Timbers,4,NorthAm,3,Chain lift hill,4,Looper,57,Lap bar,2,RMC,41,Hybrid,3
+El Toro,5,NorthAm,3,Cable lift hill,3,Twister,91,Lap bar,2,Intamin,22,Wooden,9
+Wildfire,6,Europe,2,Chain lift hill,4,"Twister, Terrain",93,Lap bar,2,RMC,41,Wooden,9
+Eejanaika,7,Asia,1,Chain lift hill,4,0,0,Shoulder harness,5,S&S,42,Steel,5
+Lightning Rod,8,NorthAm,3,Magnetic Launch (LIM/LSM),14,0,0,Lap bar,2,RMC,41,Wooden,9
+Twisted Colossus,9,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,RMC,41,Hybrid,3
+Shambhala,10,Europe,2,Chain lift hill,4,Hyper,37,Lap bar,2,B&M,4,Steel,5
+Hyperion,11,Europe,2,Chain lift hill,4,"Hyper, Out & Back",38,Lap bar,2,Intamin,22,Steel,5
+Taron,12,Europe,2,Magnetic Launch (LIM/LSM),14,0,0,Lap bar,2,Intamin,22,Steel,5
+Wicked Cyclone,13,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,RMC,41,Hybrid,3
+Expedition Ge Force,14,Europe,2,Cable lift hill,3,Megacoaster,63,Lap bar,2,Intamin,22,Steel,5
+Helix,15,Europe,2,Magnetic Launch (LIM/LSM),14,"Looper, Terrain",61,Lap bar,2,Mack,29,Steel,5
+Wonder Woman Golden Lasso,16,NorthAm,3,Chain lift hill,4,"Looper, Raptor",60,Lap bar,2,RMC,41,Steel,5
+Storm Chaser,17,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,RMC,41,Steel,5
+Outlaw Run,18,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,RMC,41,Hybrid,3
+Twisted Cyclone,19,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,RMC,41,Hybrid,3
+Top Thrill Dragster,20,NorthAm,3,Hydraulic cable launch,13,"Rocket, Strata",74,Lap bar,2,Intamin,22,Steel,5
+Lech Coaster,21,Europe,2,Chain lift hill,4,Looper,57,Vest restraint,6,Vekoma,50,Steel,5
+Goliath,22,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,RMC,41,Wooden,9
+Iron Rattler,23,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,RMC,41,Hybrid,3
 X2,24,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,Arrow,2,Steel,5
-iSpeed,25,Europe,2,Magnetic Launch (LIM/LSM),14,Rocket,76,Shoulder harness,5,Intamin,24,Steel,5
+iSpeed,25,Europe,2,Magnetic Launch (LIM/LSM),14,Rocket,73,Shoulder harness,5,Intamin,22,Steel,5
 Katun,26,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Intimidator 305,27,NorthAm,3,Cable lift hill,3,Giga,37,Shoulder harness,5,Intamin,24,Steel,5
+Intimidator 305,27,NorthAm,3,Cable lift hill,3,Giga,34,Shoulder harness,5,Intamin,22,Steel,5
 Flying Dinosaur,28,Asia,1,Chain lift hill,4,0,0,Flying restraint,1,B&M,4,Steel,5
-Flying Aces,29,Asia,1,Cable lift hill,3,0,0,Lap bar,2,Intamin,24,Steel,5
-Phoenix,30,NorthAm,3,Chain lift hill,4,Out & Back,74,Lap bar,2,Philadelphia Toboggan Coaster,37,Wooden,9
-Time Traveler,31,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched Spinning,57,Lap bar,2,Mack,31,Steel,5
-Millennium Force,32,NorthAm,3,Cable lift hill,3,Giga,37,Lap bar,2,Intamin,24,Steel,5
-Mako,33,NorthAm,3,Chain lift hill,4,"Hyper, Out & Back",41,Lap bar,2,B&M,4,Steel,5
-Griffon,34,NorthAm,3,Chain lift hill,4,Dive,12,Shoulder harness,5,B&M,4,Steel,5
-Goliath,35,Europe,2,Cable lift hill,3,Megacoaster,66,Lap bar,2,Intamin,24,Steel,5
-Joker,36,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,RMC,43,Hybrid,3
-Balder,37,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,Intamin,24,Wooden,9
+Flying Aces,29,Asia,1,Cable lift hill,3,0,0,Lap bar,2,Intamin,22,Steel,5
+Phoenix,30,NorthAm,3,Chain lift hill,4,Out & Back,71,Lap bar,2,Philadelphia Toboggan Coaster,35,Wooden,9
+Time Traveler,31,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched Spinning,54,Lap bar,2,Mack,29,Steel,5
+Millennium Force,32,NorthAm,3,Cable lift hill,3,Giga,34,Lap bar,2,Intamin,22,Steel,5
+Mako,33,NorthAm,3,Chain lift hill,4,"Hyper, Out & Back",38,Lap bar,2,B&M,4,Steel,5
+Griffon,34,NorthAm,3,Chain lift hill,4,Dive,11,Shoulder harness,5,B&M,4,Steel,5
+Goliath,35,Europe,2,Cable lift hill,3,Megacoaster,63,Lap bar,2,Intamin,22,Steel,5
+Joker,36,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,RMC,41,Hybrid,3
+Balder,37,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,Intamin,22,Wooden,9
 Lightning Run,38,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Chance Rides,8,Steel,5
-Nemesis,39,Europe,2,Chain lift hill,4,Terrain,95,Shoulder harness,5,B&M,4,Steel,5
-Schwur des Kärnan,40,Europe,2,Chain lift hill,4,Infinity,47,Lap bar,2,Gerstlauer,20,Steel,5
+Nemesis,39,Europe,2,Chain lift hill,4,Terrain,89,Shoulder harness,5,B&M,4,Steel,5
+Schwur des Kärnan,40,Europe,2,Chain lift hill,4,Infinity,44,Lap bar,2,Gerstlauer,18,Steel,5
 OzIris,41,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Goliath,42,NorthAm,3,Chain lift hill,4,Hyper,40,Lap bar,2,B&M,4,Steel,5
-New Texas Giant,43,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,RMC,43,Hybrid,3
+Goliath,42,NorthAm,3,Chain lift hill,4,Hyper,37,Lap bar,2,B&M,4,Steel,5
+New Texas Giant,43,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,RMC,41,Hybrid,3
 Fenix,44,Europe,2,Chain lift hill,4,0,0,Vest restraint,6,B&M,4,Steel,5
-Superman : the Ride,45,NorthAm,3,Chain lift hill,4,Megacoaster,66,Lap bar,2,Intamin,24,Steel,5
+Superman : the Ride,45,NorthAm,3,Chain lift hill,4,Megacoaster,63,Lap bar,2,Intamin,22,Steel,5
 Montu,46,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-SheiKra,47,NorthAm,3,Chain lift hill,4,Dive,12,Shoulder harness,5,B&M,4,Steel,5
-Xcelerator,48,NorthAm,3,Hydraulic cable launch,13,Rocket,76,Lap bar,2,Intamin,24,Steel,5
-Skyrush,49,NorthAm,3,Cable lift hill,3,Megacoaster,66,Shoulder harness,5,Intamin,24,Steel,5
-Tron Lightcycle Power Run,50,Asia,1,Magnetic Launch (LIM/LSM),14,0,0,Shoulder harness,5,Vekoma,52,Steel,5
+SheiKra,47,NorthAm,3,Chain lift hill,4,Dive,11,Shoulder harness,5,B&M,4,Steel,5
+Xcelerator,48,NorthAm,3,Hydraulic cable launch,13,Rocket,73,Lap bar,2,Intamin,22,Steel,5
+Skyrush,49,NorthAm,3,Cable lift hill,3,Megacoaster,63,Shoulder harness,5,Intamin,22,Steel,5
+Tron Lightcycle Power Run,50,Asia,1,Magnetic Launch (LIM/LSM),14,0,0,Shoulder harness,5,Vekoma,50,Steel,5
 Afterburn,51,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
 Tatsu,52,NorthAm,3,Chain lift hill,4,0,0,Flying restraint,1,B&M,4,Steel,5
 Superman la Atraccion de Acero,53,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Kingda Ka,54,NorthAm,3,Hydraulic cable launch,13,"Rocket, Strata",77,Shoulder harness,5,Intamin,24,Steel,5
-Nitro,55,NorthAm,3,Chain lift hill,4,Hyper,40,Lap bar,2,B&M,4,Steel,5
+Kingda Ka,54,NorthAm,3,Hydraulic cable launch,13,"Rocket, Strata",74,Shoulder harness,5,Intamin,22,Steel,5
+Nitro,55,NorthAm,3,Chain lift hill,4,Hyper,37,Lap bar,2,B&M,4,Steel,5
 Thunderbird,56,NorthAm,3,Magnetic Launch (LIM/LSM),14,0,0,Shoulder harness,5,B&M,4,Steel,5
 Manta,57,NorthAm,3,Chain lift hill,4,0,0,Flying restraint,1,B&M,4,Steel,5
-Kawasemi,58,Asia,1,Cable lift hill,3,Megalite,67,0,0,Intamin,24,Steel,5
-Piraten,59,Europe,2,Chain lift hill,4,Megalite,67,Lap bar,2,Intamin,24,Steel,5
+Kawasemi,58,Asia,1,Cable lift hill,3,Megalite,64,0,0,Intamin,22,Steel,5
+Piraten,59,Europe,2,Chain lift hill,4,Megalite,64,Lap bar,2,Intamin,22,Steel,5
 GateKeeper,60,NorthAm,3,Chain lift hill,4,0,0,Flying restraint,1,B&M,4,Steel,5
 Black Mamba,61,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Do-Dodonpa,62,Asia,1,Compressed air launch,9,Air Powered,2,Lap bar,2,S&S,44,Steel,5
+Do-Dodonpa,62,Asia,1,Compressed air launch,9,Air Powered,2,Lap bar,2,S&S,42,Steel,5
 The Monster,63,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Alpina Blitz,64,Europe,2,Chain lift hill,4,Megacoaster,66,Lap bar,2,Mack,31,Steel,5
+Alpina Blitz,64,Europe,2,Chain lift hill,4,Megacoaster,63,Lap bar,2,Mack,29,Steel,5
 Alpengeist,65,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Troy,66,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,GCI,19,Wooden,9
-Ravine Flyer II,67,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Gravity Group,22,Hybrid,3
-Icon,68,Europe,2,Magnetic Launch (LIM/LSM),14,Looper,60,Lap bar,2,Mack,31,Steel,5
-Battlestar Galactica - CYLON,69,Asia,1,Electrical lift hill,11,0,0,Shoulder harness,5,Vekoma,52,Steel,5
-Stealth,70,Europe,2,Hydraulic cable launch,13,Rocket,76,Shoulder harness,5,Intamin,24,Steel,5
+Troy,66,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,GCI,17,Wooden,9
+Ravine Flyer II,67,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Gravity Group,20,Hybrid,3
+Icon,68,Europe,2,Magnetic Launch (LIM/LSM),14,Looper,57,Lap bar,2,Mack,29,Steel,5
+Battlestar Galactica - CYLON,69,Asia,1,Electrical lift hill,11,0,0,Shoulder harness,5,Vekoma,50,Steel,5
+Stealth,70,Europe,2,Hydraulic cable launch,13,Rocket,73,Shoulder harness,5,Intamin,22,Steel,5
 Superman Krypton Coaster,71,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Behemoth,72,NorthAm,3,Chain lift hill,4,Hyper,40,Lap bar,2,B&M,4,Steel,5
-Wodan : Timbur Coaster,73,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,GCI,19,Wooden,9
-Red Force,74,Europe,2,Magnetic Launch (LIM/LSM),14,"Rocket, Strata",77,Lap bar,2,Intamin,24,Steel,5
-Apollo's Chariot,75,NorthAm,3,Chain lift hill,4,Hyper,40,Lap bar,2,B&M,4,Steel,5
-Full Throttle,76,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched Looping,55,Lap bar,2,Premier Rides,39,Steel,5
-Storm Runner,77,NorthAm,3,Hydraulic cable launch,13,Rocket,76,Shoulder harness,5,Intamin,24,Steel,5
-Mystic Timbers,78,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,GCI,19,Wooden,9
-Junker,79,Europe,2,Magnetic Launch (LIM/LSM),14,0,0,Lap bar,2,Gerstlauer,20,Infinity,4
-Revenge of the Mummy,80,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched Indoor,54,Lap bar,2,Premier Rides,39,Steel,5
+Behemoth,72,NorthAm,3,Chain lift hill,4,Hyper,37,Lap bar,2,B&M,4,Steel,5
+Wodan : Timbur Coaster,73,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,GCI,17,Wooden,9
+Red Force,74,Europe,2,Magnetic Launch (LIM/LSM),14,"Rocket, Strata",74,Lap bar,2,Intamin,22,Steel,5
+Apollo's Chariot,75,NorthAm,3,Chain lift hill,4,Hyper,37,Lap bar,2,B&M,4,Steel,5
+Full Throttle,76,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched Looping,52,Lap bar,2,Premier Rides,37,Steel,5
+Storm Runner,77,NorthAm,3,Hydraulic cable launch,13,Rocket,73,Shoulder harness,5,Intamin,22,Steel,5
+Mystic Timbers,78,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,GCI,17,Wooden,9
+Junker,79,Europe,2,Magnetic Launch (LIM/LSM),14,0,0,Lap bar,2,Gerstlauer,18,Infinity,4
+Revenge of the Mummy,80,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched Indoor,51,Lap bar,2,Premier Rides,37,Steel,5
 Talon,81,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Mr Freeze Reverse Blast,82,NorthAm,3,Magnetic Launch (LIM/LSM),14,Shuttle,79,Lap bar,2,Premier Rides,39,Steel,5
-Colossos,83,Europe,2,Chain lift hill,4,Out & Back,74,Lap bar,2,Intamin,24,Wooden,9
-Cheetah Hunt,84,NorthAm,3,Magnetic Launch (LIM/LSM),14,Rocket,76,Shoulder harness,5,Intamin,24,Steel,5
-Harry Potter and the Escape from Gringotts,85,NorthAm,3,Magnetic Launch (LIM/LSM),14,Dark Ride,11,Lap bar,2,Intamin,24,Steel,5
-Mr. Freeze Reverse Blast,86,NorthAm,3,Magnetic Launch (LIM/LSM),14,0,0,Lap bar,2,Premier Rides,39,Steel,5
-Diamondback,87,NorthAm,3,Chain lift hill,4,Hyper,40,Lap bar,2,B&M,4,Steel,5
+Mr Freeze Reverse Blast,82,NorthAm,3,Magnetic Launch (LIM/LSM),14,Shuttle,76,Lap bar,2,Premier Rides,37,Steel,5
+Colossos,83,Europe,2,Chain lift hill,4,Out & Back,71,Lap bar,2,Intamin,22,Wooden,9
+Cheetah Hunt,84,NorthAm,3,Magnetic Launch (LIM/LSM),14,Rocket,73,Shoulder harness,5,Intamin,22,Steel,5
+Harry Potter and the Escape from Gringotts,85,NorthAm,3,Magnetic Launch (LIM/LSM),14,Dark Ride,10,Lap bar,2,Intamin,22,Steel,5
+Mr. Freeze Reverse Blast,86,NorthAm,3,Magnetic Launch (LIM/LSM),14,0,0,Lap bar,2,Premier Rides,37,Steel,5
+Diamondback,87,NorthAm,3,Chain lift hill,4,Hyper,37,Lap bar,2,B&M,4,Steel,5
 Galactica,88,Europe,2,Chain lift hill,4,0,0,Flying restraint,1,B&M,4,Steel,5
-Fluch Von Novgorod,89,Europe,2,"Chain lift hill, Magnetic Launch (LIM/LSM)",7,Euro-Fighter,22,Shoulder harness,5,Gerstlauer,20,Steel,5
-Goliath,90,NorthAm,3,Chain lift hill,4,Hyper,40,Lap bar,2,B&M,4,Steel,5
-Blue Fire,91,Europe,2,Magnetic Launch (LIM/LSM),14,Looper,60,Lap bar,2,Mack,31,Steel,5
+Fluch Von Novgorod,89,Europe,2,"Chain lift hill, Magnetic Launch (LIM/LSM)",7,Euro-Fighter,21,Shoulder harness,5,Gerstlauer,18,Steel,5
+Goliath,90,NorthAm,3,Chain lift hill,4,Hyper,37,Lap bar,2,B&M,4,Steel,5
+Blue Fire,91,Europe,2,Magnetic Launch (LIM/LSM),14,Looper,57,Lap bar,2,Mack,29,Steel,5
 Beast,92,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Charlie Dinn,10,Wooden,9
 Patriot,93,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Incredible Hulk,94,NorthAm,3,Tire propelled launch,16,Looper,60,Shoulder harness,5,B&M,4,Steel,5
-Kumba,95,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,B&M,4,Steel,5
-Baron 1898,96,Europe,2,Chain lift hill,4,Dive,12,Shoulder harness,5,B&M,4,Steel,5
+Incredible Hulk,94,NorthAm,3,Tire propelled launch,16,Looper,57,Shoulder harness,5,B&M,4,Steel,5
+Kumba,95,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,B&M,4,Steel,5
+Baron 1898,96,Europe,2,Chain lift hill,4,Dive,11,Shoulder harness,5,B&M,4,Steel,5
 Medusa,97,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Incredicoaster,98,NorthAm,3,Magnetic Launch (LIM/LSM),14,Looper,60,Shoulder harness,5,Intamin,24,Steel,5
-Mine Blower,99,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Gravity Group,22,Wooden,9
-Lost Gravity,100,Europe,2,Chain lift hill,4,BigDipper,4,Lap bar,2,Mack,31,Steel,5
-Stunt Fall,101,Europe,2,Cable lift hill,3,Multielement Inverted Shuttle,73,Shoulder harness,5,Vekoma,52,Steel,5
-Oblivion - The Black Hole,102,Europe,2,Chain lift hill,4,Dive,12,Shoulder harness,5,B&M,4,Steel,5
-PowderKeg,103,NorthAm,3,"Chain lift hill, Compressed air launch",6,Air Powered,2,Lap bar,2,S&S,44,Steel,5
+Incredicoaster,98,NorthAm,3,Magnetic Launch (LIM/LSM),14,Looper,57,Shoulder harness,5,Intamin,22,Steel,5
+Mine Blower,99,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Gravity Group,20,Wooden,9
+Lost Gravity,100,Europe,2,Chain lift hill,4,BigDipper,4,Lap bar,2,Mack,29,Steel,5
+Stunt Fall,101,Europe,2,Cable lift hill,3,Multielement Inverted Shuttle,70,Shoulder harness,5,Vekoma,50,Steel,5
+Oblivion - The Black Hole,102,Europe,2,Chain lift hill,4,Dive,11,Shoulder harness,5,B&M,4,Steel,5
+PowderKeg,103,NorthAm,3,"Chain lift hill, Compressed air launch",6,Air Powered,2,Lap bar,2,S&S,42,Steel,5
 Raptor,104,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Wildfire,105,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,B&M,4,Steel,5
-Verbolten,106,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched,52,Lap bar,2,Zierer,58,Steel,5
-Hair Raiser,107,Asia,1,Chain lift hill,4,Looper,60,Shoulder harness,5,B&M,4,Steel,5
-Expedition Everest,108,NorthAm,3,Chain lift hill,4,Freeform Mine Train,35,Lap bar,2,Vekoma,52,Steel,5
-Star Trek: Operation Enterprise,109,Europe,2,Magnetic Launch (LIM/LSM),14,Looper,60,Lap bar,2,Mack,31,Steel,5
-Revenge of the Mummy,110,Asia,1,Magnetic Launch (LIM/LSM),14,Indoor Launched,45,Shoulder harness,5,Premier Rides,39,Steel,5
-Monster,111,NorthAm,3,Chain lift hill,4,Infinity,47,Lap bar,2,Gerstlauer,20,Steel,5
-El Toro,112,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,GCI,19,Wooden,9
-Olympia looping,113,Asia,1,Booster wheel lift hill,1,Looper,60,Shoulder harness,5,Schwarzkopf,47,Steel,5
+Wildfire,105,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,B&M,4,Steel,5
+Verbolten,106,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched,49,Lap bar,2,Zierer,56,Steel,5
+Hair Raiser,107,Asia,1,Chain lift hill,4,Looper,57,Shoulder harness,5,B&M,4,Steel,5
+Expedition Everest,108,NorthAm,3,Chain lift hill,4,Freeform Mine Train,32,Lap bar,2,Vekoma,50,Steel,5
+Star Trek: Operation Enterprise,109,Europe,2,Magnetic Launch (LIM/LSM),14,Looper,57,Lap bar,2,Mack,29,Steel,5
+Revenge of the Mummy,110,Asia,1,Magnetic Launch (LIM/LSM),14,Indoor Launched,42,Shoulder harness,5,Premier Rides,37,Steel,5
+Monster,111,NorthAm,3,Chain lift hill,4,Infinity,44,Lap bar,2,Gerstlauer,18,Steel,5
+El Toro,112,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,GCI,17,Wooden,9
+Olympia looping,113,Asia,1,Booster wheel lift hill,1,Looper,57,Shoulder harness,5,Schwarzkopf,45,Steel,5
 Kraken,114,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Karacho,115,Europe,2,Magnetic Launch (LIM/LSM),14,Infinity,47,Lap bar,2,Gerstlauer,20,Steel,5
-Oblivion,116,Europe,2,Chain lift hill,4,Dive,12,Shoulder harness,5,B&M,4,Steel,5
-"Volcano, the Blast Coaster",117,NorthAm,3,Magnetic Launch (LIM/LSM),14,0,0,Shoulder harness,5,Intamin,24,Steel,5
-Intimidator,118,NorthAm,3,0,0,Hyper,40,Lap bar,2,B&M,4,Steel,5
-Big Grizzly Mountain Runaway Mine Cars,119,Asia,1,"Chain lift hill, Magnetic Launch (LIM/LSM)",7,Mine Train,68,Lap bar,2,Vekoma,52,Steel,5
+Karacho,115,Europe,2,Magnetic Launch (LIM/LSM),14,Infinity,44,Lap bar,2,Gerstlauer,18,Steel,5
+Oblivion,116,Europe,2,Chain lift hill,4,Dive,11,Shoulder harness,5,B&M,4,Steel,5
+"Volcano, the Blast Coaster",117,NorthAm,3,Magnetic Launch (LIM/LSM),14,0,0,Shoulder harness,5,Intamin,22,Steel,5
+Intimidator,118,NorthAm,3,0,0,Hyper,37,Lap bar,2,B&M,4,Steel,5
+Big Grizzly Mountain Runaway Mine Cars,119,Asia,1,"Chain lift hill, Magnetic Launch (LIM/LSM)",7,Mine Train,65,Lap bar,2,Vekoma,50,Steel,5
 The Swarm,120,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Formuła,121,Europe,2,Magnetic Launch (LIM/LSM),14,Looper,60,Shoulder harness,5,Vekoma,52,Steel,5
-Formula Rossa,122,Asia,1,Hydraulic cable launch,13,Launched,52,Lap bar,2,Intamin,24,Steel,5
+Formuła,121,Europe,2,Magnetic Launch (LIM/LSM),14,Looper,57,Shoulder harness,5,Vekoma,50,Steel,5
+Formula Rossa,122,Asia,1,Hydraulic cable launch,13,Launched,49,Lap bar,2,Intamin,22,Steel,5
 Raptor,123,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Silverstar,124,Europe,2,Chain lift hill,4,"Hyper, Out & Back",41,Lap bar,2,B&M,4,Steel,5
-Boulder Dash,125,NorthAm,3,Chain lift hill,4,Out & Back,74,Lap bar,2,CCI,7,Wooden,9
-Leviathan,126,NorthAm,3,Chain lift hill,4,"Giga, Hyper",38,Lap bar,2,B&M,4,Steel,5
-Dragon Khan,127,Europe,2,Chain lift hill,4,Looper,60,Shoulder harness,5,B&M,4,Steel,5
-Gold Rush,128,Europe,2,Magnetic Launch (LIM/LSM),14,Infinity,47,Lap bar,2,Gerstlauer,20,Steel,5
-Yukon Quad,129,Europe,2,Tire propelled launch,16,Family Launch Coaster,25,Lap bar,2,Intamin,24,Steel,5
-Hollywood Dream : The Ride,130,Asia,1,Chain lift hill,4,Megacoaster,66,Lap bar,2,B&M,4,Steel,5
+Silverstar,124,Europe,2,Chain lift hill,4,"Hyper, Out & Back",38,Lap bar,2,B&M,4,Steel,5
+Boulder Dash,125,NorthAm,3,Chain lift hill,4,Out & Back,71,Lap bar,2,CCI,7,Wooden,9
+Leviathan,126,NorthAm,3,Chain lift hill,4,"Giga, Hyper",35,Lap bar,2,B&M,4,Steel,5
+Dragon Khan,127,Europe,2,Chain lift hill,4,Looper,57,Shoulder harness,5,B&M,4,Steel,5
+Gold Rush,128,Europe,2,Magnetic Launch (LIM/LSM),14,Infinity,44,Lap bar,2,Gerstlauer,18,Steel,5
+Yukon Quad,129,Europe,2,Tire propelled launch,16,Family Launch Coaster,24,Lap bar,2,Intamin,22,Steel,5
+Hollywood Dream : The Ride,130,Asia,1,Chain lift hill,4,Megacoaster,63,Lap bar,2,B&M,4,Steel,5
 Flug der Dämonen,131,Europe,2,Chain lift hill,4,0,0,Flying restraint,1,B&M,4,Steel,5
-Joris en de Draak (Vuur),132,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,GCI,19,Wooden,9
-Dragon Challenge : Chinese Fireball,133,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Flight Deck,134,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,B&M,4,Steel,5
-The Smiler,135,Europe,2,Chain lift hill,4,Infinity,47,Lap bar,2,Gerstlauer,20,Steel,5
-Wild Eagle,136,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Joris en de Draak (Water),137,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,GCI,19,Wooden,9
-Shock,138,Europe,2,Magnetic Launch (LIM/LSM),14,Looper,60,Lap bar,2,Maurer,33,Steel,5
-Superman - Ride Of Steel,139,NorthAm,3,Chain lift hill,4,Megacoaster,66,Lap bar,2,Intamin,24,Steel,5
-Timber,140,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,Gravity Group,22,Wooden,9
-Lisebergbanan,141,Europe,2,Chain lift hill,4,Terrain,95,Lap bar,2,Schwarzkopf,47,Steel,5
-Silver Bullet,142,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Anubis,143,Europe,2,Magnetic Launch (LIM/LSM),14,Looper,60,Shoulder harness,5,Gerstlauer,20,Steel,5
-Great Bear,144,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Rutschebanen,145,Europe,2,Cable lift hill,3,Out & Back,74,Lap bar,2,L.A. Thompson Scenic Railway,29,Wooden,9
-Hangtime,146,NorthAm,3,Chain lift hill,4,"Looper, Infinity",62,Lap bar,2,Gerstlauer,20,Steel,5
-Thunder dolphin,147,Asia,1,Cable lift hill,3,Hyper,40,Lap bar,2,Intamin,24,Steel,5
-Inferno,148,Europe,2,0,0,"Family, Free Fall",26,None,3,Intamin,24,Steel,5
-Dominator,149,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Fahrenheit,150,NorthAm,3,Chain lift hill,4,Looper,60,Lap bar,2,Intamin,24,Steel,5
-The Voyage,151,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Gravity Group,22,Wooden,9
-Wood Express,152,Europe,2,Chain lift hill,4,"Twister, Family",98,Lap bar,2,Gravity Group,22,Hybrid,3
-Dragon Challenge : Hungarian Horntail,153,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Altair,154,Europe,2,0,0,0,0,None,3,Intamin,24,0,0
-Pulsar,155,Europe,2,Magnetic Launch (LIM/LSM),14,Shuttle,79,Lap bar,2,Mack,31,Steel,5
-Krake,156,Europe,2,Chain lift hill,4,Dive,12,Shoulder harness,5,B&M,4,Steel,5
-Batman : Arkham Asylum,157,Europe,2,Chain lift hill,4,Batman Inverted Coaster,3,Shoulder harness,5,B&M,4,Steel,5
-Superman - Ultimate Flight,158,NorthAm,3,Chain lift hill,4,0,0,Flying restraint,1,B&M,4,Steel,5
-Banshee,159,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Dæmonen,160,Europe,2,Chain lift hill,4,Looper,60,Shoulder harness,5,B&M,4,Steel,5
-Bizarro,161,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Twister,162,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,Gravity Group,22,Wooden,9
-Megafobia,163,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,CCI,7,Wooden,9
-Wild Mouse,164,Europe,2,Chain lift hill,4,Wild Mouse,101,Seatbelt,4,Unknown,51,Wooden,9
-Sky Scream,165,Europe,2,Magnetic Launch (LIM/LSM),14,Looping,65,Lap bar,2,Premier Rides,39,Steel,5
-Thunderbird,166,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,GCI,19,Wooden,9
-Wooden Warrior,167,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Gravity Group,22,Wooden,9
-Lynet,168,Europe,2,Hydraulic cable launch,13,Looper,60,Shoulder harness,5,Gerstlauer,20,Steel,5
-X-Flight,169,NorthAm,3,Chain lift hill,4,0,0,Flying restraint,1,B&M,4,Steel,5
-Superman - Ultimate Flight,170,NorthAm,3,Chain lift hill,4,0,0,Flying restraint,1,B&M,4,Steel,5
-Tornado,171,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,Intamin,24,Steel,5
-Tennessee Tornado,172,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,Arrow,2,Steel,5
-White Lightning,173,NorthAm,3,Chain lift hill,4,Out & Back,74,Lap bar,2,GCI,19,Wooden,9
-Phantom's Revenge,174,NorthAm,3,Chain lift hill,4,Hyper,40,Lap bar,2,Arrow,2,Steel,5
-Pegase Express,175,Europe,2,"Chain lift hill, Booster wheel lift hill, Tire propelled launch",5,0,0,Lap bar,2,Gerstlauer,20,Steel,5
-Heidi the Ride,176,Europe,2,Chain lift hill,4,"Out & Back, Family",75,Lap bar,2,GCI,19,Wooden,9
-Winja's Force,177,Europe,2,Vertical lift,17,0,0,Lap bar,2,Maurer,33,Steel,5
-Revenge of the Mummy the Ride,178,NorthAm,3,Magnetic Launch (LIM/LSM),14,0,0,Lap bar,2,Premier Rides,39,0,0
-Superman Ultimate Fight,179,NorthAm,3,Magnetic Launch (LIM/LSM),14,0,0,Lap bar,2,Premier Rides,39,Steel,5
-GhostRider,180,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,GCI,19,Wooden,9
-Colorado Adventure,181,Europe,2,Booster wheel lift hill,1,Mine Train,68,Lap bar,2,Vekoma,52,Steel,5
-Abismo,182,Europe,2,Chain lift hill,4,X Car,103,Lap bar,2,Maurer,33,Steel,5
-Nemesis Inferno,183,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Big Thunder Mountain,184,Europe,2,Chain lift hill,4,"Mine Train, Family",69,Lap bar,2,Vekoma,52,Steel,5
-Hydra the Revenge,185,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,B&M,4,Steel,5
-Fujiyama,186,Asia,1,Chain lift hill,4,Hypercoaster,42,Lap bar,2,Togo,50,Steel,5
-Big Thunder Mountain,187,Asia,1,Chain lift hill,4,Mine Train,68,Lap bar,2,Vekoma,52,Steel,5
-Steel Force,188,NorthAm,3,Chain lift hill,4,Hyper,40,Lap bar,2,Morgan,35,Steel,5
-Rita,189,Europe,2,Hydraulic cable launch,13,Rocket,76,Shoulder harness,5,Intamin,24,Steel,5
-The Wicker Man,190,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,GCI,19,Wooden,9
-Muntanya Russa,191,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Vekoma,52,Steel,5
-Raging Bull,192,NorthAm,3,Chain lift hill,4,Hyper,40,Lap bar,2,B&M,4,Steel,5
-Wicked Twister,193,NorthAm,3,Magnetic Launch (LIM/LSM),14,Shuttle,79,Shoulder harness,5,Intamin,24,Steel,5
-Valravn,194,NorthAm,3,Chain lift hill,4,Dive,12,Vest restraint,6,B&M,4,Steel,5
-Dwervelwind,195,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Mack,31,Steel,5
-Desert Race,196,Europe,2,Hydraulic cable launch,13,Rocket,76,Lap bar,2,Intamin,24,Steel,5
-Winja's Fear,197,Europe,2,Vertical lift,17,0,0,Lap bar,2,Maurer,33,Steel,5
-American Thunder,198,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,GCI,19,Wooden,9
-Ukko,199,Europe,2,Chain lift hill,4,X Car,103,Shoulder harness,5,Maurer,33,Steel,5
-Juvelen,200,Europe,2,Tire propelled launch,16,Family Launch Coaster,25,Shoulder harness,5,Intamin,24,Steel,5
-Thunderhead,201,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,GCI,19,Wooden,9
-Gold Striker,202,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,GCI,19,Wooden,9
-Giant Dipper,203,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Unknown,51,Steel,5
-Batman The Ride,204,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Space Fantasy the Ride,205,Asia,1,0,0,0,0,Lap bar,2,Mack,31,Steel,5
-Mind Bender,206,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,Schwarzkopf,47,Steel,5
-Boardwalk Bullet,207,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Gravity Group,22,Wooden,9
-Mine Train Ulven,208,Europe,2,Booster wheel lift hill,1,Mine Train,68,Lap bar,2,Intamin,24,Steel,5
-Batman: The Ride,209,NorthAm,3,Chain lift hill,4,Free Spin,33,Shoulder harness,5,S&S,44,Steel,5
-Batman The Ride,210,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Vertical Velocity,211,NorthAm,3,Magnetic Launch (LIM/LSM),14,Shuttle,79,Shoulder harness,5,Intamin,24,Steel,5
-Dragon's Fury,212,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Maurer,33,Steel,5
-Space Mountain,213,NorthAm,3,Chain lift hill,4,Indoor,43,Lap bar,2,Dynamic Attractions,16,Steel,5
-Speed Monster,214,Europe,2,Hydraulic cable launch,13,Rocket,76,Shoulder harness,5,Intamin,24,Steel,5
-Tempesto,215,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched Looping,55,Lap bar,2,Premier Rides,39,Steel,5
-Riddler's Revenge,216,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Tarantula,217,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Maurer,33,Steel,5
-Thirteen,218,Europe,2,"Booster wheel lift hill, Vertical lift",2,Free Fall,32,Lap bar,2,Intamin,24,Steel,5
-Batwing,219,NorthAm,3,Chain lift hill,4,0,0,Flying restraint,1,Vekoma,52,Steel,5
-Vertical Velocity,220,NorthAm,3,Magnetic Launch (LIM/LSM),14,Shuttle,79,Shoulder harness,5,Intamin,24,Steel,5
-Joker,221,NorthAm,3,Chain lift hill,4,Free Spin,33,Shoulder harness,5,S&S,44,Steel,5
-Firehawk,222,NorthAm,3,Chain lift hill,4,Flying Dutchman,30,Flying restraint,1,Vekoma,52,Steel,5
-Seven Dwarfs Mine Train,223,Asia,1,Chain lift hill,4,Family,23,Lap bar,2,Vekoma,52,Steel,5
-Steel Dragon 2000,224,Asia,1,Chain lift hill,4,Giga,37,Lap bar,2,Morgan,35,Steel,5
-Steel Eel,225,NorthAm,3,Chain lift hill,4,Megacoaster,66,Lap bar,2,Morgan,35,Steel,5
-Orkanen,226,Europe,2,Booster wheel lift hill,1,0,0,Shoulder harness,5,Vekoma,52,0,0
-Batman The Ride,227,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-"Hollywood Rip, Ride, Rockit",228,NorthAm,3,Chain lift hill,4,X Car,103,Lap bar,2,Maurer,33,Steel,5
-Kirnu,229,Europe,2,Chain lift hill,4,ZacSpin,105,Shoulder harness,5,Intamin,24,Steel,5
-Wild West Mine Train,230,Asia,1,0,0,Mine Train,68,Lap bar,2,Zamperla,57,Steel,5
-Lightning Racer (Thunder),231,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,GCI,19,Wooden,9
-Van Helsing's Factory,232,Europe,2,Chain lift hill,4,Indoor,43,Lap bar,2,Gerstlauer,20,Steel,5
-Flight of the Pterosaur,233,Europe,2,0,0,0,0,None,3,Vekoma,52,0,0
-Sky Wheel,234,Europe,2,Chain lift hill,4,X Car,103,Lap bar,2,Maurer,33,Steel,5
-Big Thunder Mountain Railroad,235,NorthAm,3,Chain lift hill,4,Mine Train,68,Lap bar,2,Arrow,2,Steel,5
-Vampire,236,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Joker's Jinx,237,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched Multielement,56,Lap bar,2,Premier Rides,39,Steel,5
-Goliath,238,NorthAm,3,Chain lift hill,4,Hypercoaster,42,Lap bar,2,Giovanola,21,Steel,5
-Lightning Racer (Lightning),239,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,GCI,19,Wooden,9
-Jetline,240,Europe,2,Chain lift hill,4,Freeform,34,Lap bar,2,Schwarzkopf,47,Steel,5
-Joker,241,NorthAm,3,Chain lift hill,4,Free Spin,33,Shoulder harness,5,S&S,44,Steel,5
-Thunder Loop,242,Europe,2,Chain lift hill,4,Looper,60,Lap bar,2,Schwarzkopf,47,Steel,5
-Psyké underground,243,Europe,2,Magnetic Launch (LIM/LSM),14,"Shuttle, Looper",84,Lap bar,2,Schwarzkopf,47,Steel,5
-Magnum XL 200,244,NorthAm,3,Chain lift hill,4,Hyper,40,Lap bar,2,Arrow,2,Steel,5
-FireChaser Express,245,NorthAm,3,"Chain lift hill, Tire propelled launch",8,"Launched, Family",58,Lap bar,2,Gerstlauer,20,Steel,5
-Big Thunder Mountain Railroad,246,NorthAm,3,Chain lift hill,4,Mine Train,68,Lap bar,2,Walt Disney Imagineering,53,Steel,5
-Hollenblitz,247,Asia,1,Chain lift hill,4,0,0,Lap bar,2,EOS rides,17,Steel,5
-Superman : Escape from Krypton,248,NorthAm,3,Magnetic Launch (LIM/LSM),14,Shuttle,79,Lap bar,2,Intamin,24,Steel,5
-Ultimate,249,Europe,2,Chain lift hill,4,Mine Train,68,Lap bar,2,Big Country Mitioneering,5,Steel,5
-Manta,250,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched,52,Lap bar,2,Mack,31,Steel,5
-Batman : The dark Knight,251,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Joker,252,NorthAm,3,Chain lift hill,4,Free Spin,33,Shoulder harness,5,S&S,44,Steel,5
-The Boss,253,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,CCI,7,Wooden,9
-Batman The Ride,254,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Montezooma's Revenge,255,NorthAm,3,Hydraulic cable launch,13,Shuttle Loop,80,Lap bar,2,Schwarzkopf,47,Steel,5
-Space Mountain - Omega,256,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Arrow,2,Steel,5
-Die Vliegende Hollander,257,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Kumbak,28,Steel,5
-Space Mountain - Alpha,258,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Arrow,2,Steel,5
-Titan,259,NorthAm,3,Chain lift hill,4,Hyper,40,Lap bar,2,Giovanola,21,Steel,5
-Mystery Mine,260,NorthAm,3,Chain lift hill,4,Euro-Fighter,22,Shoulder harness,5,Gerstlauer,20,Steel,5
-Dragon Roller Coaster,261,Europe,2,Booster wheel lift hill,1,Family,23,Lap bar,2,Vekoma,52,Steel,5
-Twister,262,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Philadelphia Toboggan Coaster,37,Wooden,9
-Batman the Ride,263,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Scream!,264,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,B&M,4,Steel,5
-Rock'n Roller Coaster starringAerosmith,265,NorthAm,3,Magnetic Launch (LIM/LSM),14,Looper,60,Shoulder harness,5,Vekoma,52,Steel,5
-Le Twist,266,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Mack,31,Steel,5
-Flight of Fear,267,NorthAm,3,Magnetic Launch (LIM/LSM),14,Indoor Launched Multielement,46,Lap bar,2,Premier Rides,39,Steel,5
-Great White,268,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Tornado,269,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Intamin,24,Steel,5
-Iron Shark,270,NorthAm,3,Chain lift hill,4,Euro-Fighter,22,Lap bar,2,Gerstlauer,20,Steel,5
-Rougarou,271,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Georgia Scorcher,272,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Takabisha,273,Asia,1,Magnetic Launch (LIM/LSM),14,Euro-Fighter,22,Shoulder harness,5,Gerstlauer,20,Steel,5
-Bat,274,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,Arrow,2,Steel,5
-The Legend,275,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,CCI,7,Wooden,9
-Freischütz,276,Europe,2,Magnetic Launch (LIM/LSM),14,Rocket,76,Lap bar,2,Maurer,33,Steel,5
-Shockwave,277,NorthAm,3,Chain lift hill,4,Looper,60,Lap bar,2,Schwarzkopf,47,Steel,5
-Force One,278,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Zierer,58,Steel,5
-Possessed,279,NorthAm,3,Magnetic Launch (LIM/LSM),14,Shuttle,79,Shoulder harness,5,Intamin,24,Steel,5
-Mammut,280,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,Cordes GmbH,11,Wooden,9
-Viper,281,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Philadelphia Toboggan Coaster,37,Wooden,9
-Seven Dwarfs Mine Train,282,NorthAm,3,Chain lift hill,4,Mine Train,68,Lap bar,2,Vekoma,52,Steel,5
-Salama,283,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Maurer,33,Steel,5
-Speed,284,Europe,2,Chain lift hill,4,Euro-Fighter,22,Shoulder harness,5,Gerstlauer,20,Steel,5
-Alpina Bahn,285,Asia,1,Tire propelled launch,16,Looper,60,Lap bar,2,Schwarzkopf,47,Steel,5
-Superman - Ultimate Flight,286,NorthAm,3,Chain lift hill,4,0,0,Flying restraint,1,B&M,4,Steel,5
-Polar X-plorer,287,Europe,2,Chain lift hill,4,Free Fall,32,Lap bar,2,Zierer,58,Steel,5
-Ultra Twister Megaton,288,Asia,1,Cable lift hill,3,0,0,Shoulder harness,5,Togo,50,Steel,5
-Half Pipe,289,Europe,2,Magnetic Launch (LIM/LSM),14,Shuttle,79,Lap bar,2,Intamin,24,Steel,5
-Prowler,290,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,GCI,19,Wooden,9
-Saw - The Ride,291,Europe,2,Chain lift hill,4,Euro-Fighter,22,Shoulder harness,5,Gerstlauer,20,Steel,5
-G'sengte Sau,292,Europe,2,Chain lift hill,4,Bobsled,5,Lap bar,2,Gerstlauer,20,Steel,5
-Insane,293,Europe,2,Electrical lift hill,11,"4th Dimension, ZacSpin",1,Shoulder harness,5,Intamin,24,Steel,5
-Millennium Roller Coaster,294,Europe,2,Chain lift hill,4,Looper,60,Shoulder harness,5,Vekoma,52,Steel,5
-Journey to Atlantis,295,NorthAm,3,Chain lift hill,4,Water Coaster,100,Lap bar,2,Mack,31,Steel,5
-Timber Drop,296,Europe,2,Chain lift hill,4,El Loco,19,Shoulder harness,5,S&S,44,Steel,5
-Goliath,297,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Nighthawk• Carowinds,298,NorthAm,3,Chain lift hill,4,0,0,Flying restraint,1,Vekoma,52,Steel,5
-Formule X,299,Europe,2,Magnetic Launch (LIM/LSM),14,X Car,103,Lap bar,2,Maurer,33,Steel,5
-Switchback,300,NorthAm,3,Chain lift hill,4,Shuttle,79,Lap bar,2,Gravity Group,22,Wooden,9
-Crush's Coaster,301,Europe,2,Chain lift hill,4,Indoor,43,Lap bar,2,Maurer,33,Steel,5
-Tiki Waka,302,Europe,2,Chain lift hill,4,"Bobsled, Family",6,Lap bar,2,Gerstlauer,20,Steel,5
-Cyclops,303,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,CCI,7,Steel,5
-Formule 1,304,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Pax,36,Steel,5
-Gemini (Blue),305,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Arrow,2,Hybrid,3
-Cancan Coaster,306,Europe,2,Spiral lift,15,Family,23,Lap bar,2,Mack,31,Steel,5
-Vicky The Ride,307,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Gerstlauer,20,Steel,5
-Batman the Ride,308,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Rock'n Roller Coaster avec Aerosmith,309,Europe,2,Magnetic Launch (LIM/LSM),14,"Looper, Indoor",61,Shoulder harness,5,Vekoma,52,Steel,5
-Raptor Attack,310,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Schwarzkopf,47,Steel,5
-Kanonen,311,Europe,2,Hydraulic cable launch,13,Rocket,76,Shoulder harness,5,Intamin,24,Steel,5
-Kentucky Rumbler,312,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,GCI,19,Wooden,9
-Goliath,313,NorthAm,3,Cable lift hill,3,Multielement Inverted Shuttle,73,Shoulder harness,5,Vekoma,52,Steel,5
-Vilda Musen,314,Europe,2,Chain lift hill,4,Bobsled,5,Lap bar,2,Gerstlauer,20,Steel,5
-Dragon Fly,315,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Gerstlauer,20,Steel,5
-Hyperspace Mountain,316,Asia,1,0,0,0,0,Lap bar,2,Vekoma,52,Steel,5
-Nessie Superrollercoaster,317,Europe,2,Chain lift hill,4,Looper,60,Lap bar,2,Schwarzkopf,47,Steel,5
-Cobra,318,Europe,2,Chain lift hill,4,Bobsled,5,Lap bar,2,Gerstlauer,20,Steel,5
-American Eagle,319,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Intamin,24,Wooden,9
-Cornball Express,320,NorthAm,3,Cable lift hill,3,0,0,Lap bar,2,CCI,7,Wooden,9
-Sierra Sidewinder,321,NorthAm,3,Chain lift hill,4,Spinning Freeform,89,Lap bar,2,Mack,31,Steel,5
-Vuoristorata,322,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,Unknown,51,Wooden,9
-Arthur,323,Europe,2,Electrical launch,10,"E-Powered, Dark Ride",16,Lap bar,2,Mack,31,Steel,5
-Battlestar Galactica - HUMAN,324,Asia,1,Electrical lift hill,11,Looper,60,Shoulder harness,5,Vekoma,52,Steel,5
-Drachenritt,325,Europe,2,Chain lift hill,4,Bobsled,5,Lap bar,2,Gerstlauer,20,Steel,5
-SkyRider,326,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,Togo,50,Steel,5
-Thundercoaster,327,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,Vekoma,52,Wooden,9
-Joker,328,NorthAm,3,Chain lift hill,4,Free Spin,33,Shoulder harness,5,S&S,44,Steel,5
-Ultra Twister,329,Asia,1,Chain lift hill,4,0,0,Shoulder harness,5,Togo,50,Steel,5
-Raik,330,Europe,2,Booster wheel lift hill,1,"Boomerang, Family",8,Lap bar,2,Vekoma,52,Steel,5
-Megablitz,331,Europe,2,Chain lift hill,4,Triple Out and Back,96,Lap bar,2,Vekoma,52,Steel,5
-Pandemonium,332,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Gerstlauer,20,Steel,5
-Furius Baco,333,Europe,2,Hydraulic cable launch,13,0,0,Shoulder harness,5,Intamin,24,Steel,5
-Rage,334,Europe,2,Chain lift hill,4,Euro-Fighter,22,Shoulder harness,5,Gerstlauer,20,Steel,5
-Vertigo,335,Europe,2,Vertical lift,17,Suspended Glider,93,Lap bar,2,Doppelmayr,14,Steel,5
-Apocalypse,336,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,GCI,19,Wooden,9
-Loch Ness Monster,337,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,Arrow,2,Steel,5
-MotoGee,338,Europe,2,Tire propelled launch,16,0,0,Lap bar,2,Zamperla,57,Steel,5
-Outlaw,339,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,CCI,7,Wooden,9
-Gold rush,340,Europe,2,Booster wheel lift hill,1,Shuttle,79,Lap bar,2,Gerstlauer,20,Steel,5
-Falken,341,Europe,2,Chain lift hill,4,0,0,Lap bar,2,S&S,44,Steel,5
-Backlot Stunt Coaster,342,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched Freeform,53,Lap bar,2,Premier Rides,39,Steel,5
-Velociraptor,343,Europe,2,0,0,0,0,None,3,Vekoma,52,Family,2
-Matterhorn Bobsleds (A),344,NorthAm,3,Chain lift hill,4,Bobsled,5,None,3,Arrow,2,Steel,5
-Comet,345,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Philadelphia Toboggan Coaster,37,Steel,5
-Impulse,346,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Zierer,58,Steel,5
-Hyper Space Mountain,347,Europe,2,Hydraulic cable launch,13,"Looper, Indoor",61,Shoulder harness,5,Vekoma,52,Steel,5
-Thunder Run,348,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Dinn Corp.,12,Wooden,9
-Triops,349,Europe,2,Chain lift hill,4,Invertigo,48,Shoulder harness,5,Vekoma,52,Steel,5
-Shuttle Loop,350,Asia,1,Flywheel,12,Shuttle Loop,80,Lap bar,2,Schwarzkopf,47,Steel,5
-TNT Tren de la Mina,351,Europe,2,Chain lift hill,4,Mine Train,68,Lap bar,2,Gerstlauer,20,Steel,5
-Back Lot Stunt Coaster,352,NorthAm,3,Magnetic Launch (LIM/LSM),14,Family,23,Lap bar,2,Premier Rides,39,Steel,5
-Back Lot Stunt Coaster,353,NorthAm,3,Magnetic Launch (LIM/LSM),14,0,0,Lap bar,2,Premier Rides,39,Steel,5
-InvadR,354,NorthAm,3,0,0,Twister,97,Lap bar,2,GCI,19,Hybrid,3
-The Raven,355,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,CCI,7,Wooden,9
-Raging Spirits,356,Asia,1,Chain lift hill,4,Looper,60,Shoulder harness,5,Intamin,24,Steel,5
-Pandemonium,357,NorthAm,3,Chain lift hill,4,Spinning Twister,90,Lap bar,2,Gerstlauer,20,Steel,5
-Dare Devil Dive,358,NorthAm,3,Chain lift hill,4,Euro-Fighter,22,Lap bar,2,Gerstlauer,20,Steel,5
-"Correcaminos Bip, Bip",359,Europe,2,Booster wheel lift hill,1,YoungStar,104,Lap bar,2,Mack,31,Steel,5
-Tonnerre de Zeus,360,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,CCI,7,Wooden,9
-Flight of Fear,361,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched Multielement,56,Lap bar,2,Premier Rides,39,Steel,5
-Mamba,362,NorthAm,3,Chain lift hill,4,Hyper,40,Lap bar,2,Morgan,35,Steel,5
-Vampire,363,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,Arrow,2,Steel,5
-Undertow,364,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Maurer,33,Steel,5
-Blue Streak,365,NorthAm,3,Chain lift hill,4,Out & Back,74,Lap bar,2,Philadelphia Toboggan Coaster,37,Wooden,9
-Spinball Whizzer,366,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Maurer,33,Steel,5
-Speed Rockets,367,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Gerstlauer,20,Family,2
-Skatteøen,368,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Mack,31,Steel,5
-Heiße Fahrt,369,Europe,2,Chain lift hill,4,Bobsled,5,0,0,Gerstlauer,20,Steel,5
-Kvasten,370,Europe,2,Booster wheel lift hill,1,Family,23,Lap bar,2,Vekoma,52,Steel,5
-Sooperdooperlooper,371,NorthAm,3,Chain lift hill,4,Looper,60,Lap bar,2,Schwarzkopf,47,Steel,5
-Speed,372,Europe,2,Vertical lift,17,0,0,None,3,Intamin,24,Steel,5
-Pandemonium,373,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Gerstlauer,20,Steel,5
-Jack Rabbit,374,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,ACE Coaster Classic,1,Steel,5
-Scorpion,375,NorthAm,3,Chain lift hill,4,Looper,60,Lap bar,2,Schwarzkopf,47,Steel,5
-Pegasus,376,Europe,2,Booster wheel lift hill,1,Twister,97,Lap bar,2,Mack,31,Steel,5
-Xpress : Platform 13,377,Europe,2,Magnetic Launch (LIM/LSM),14,0,0,Shoulder harness,5,Vekoma,52,Steel,5
-Diabolik,378,Europe,2,Chain lift hill,4,Invertigo,48,Shoulder harness,5,Vekoma,52,Steel,5
-Loup Garou,379,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,Vekoma,52,Wooden,9
-Comet,380,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Philadelphia Toboggan Coaster,37,Steel,5
-Revolution,381,Europe,2,0,0,Shuttle,79,Shoulder harness,5,Arrow,2,Steel,5
-Gao,382,Asia,1,Chain lift hill,4,0,0,Lap bar,2,Meisho Amusement Machines,34,0,0
-Matterhorn Bobsleds (B),383,NorthAm,3,Chain lift hill,4,Bobsled,5,0,0,Arrow,2,Steel,5
-Regina,384,Asia,1,Chain lift hill,4,0,0,Lap bar,2,Intamin,24,Steel,5
-Poltergeist,385,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched Multielement,56,Shoulder harness,5,Premier Rides,39,Steel,5
-Steel Hawg,386,NorthAm,3,Chain lift hill,4,0,0,0,0,S&S,44,Steel,5
-Fuga da Atlantide,387,Europe,2,Cable lift hill,3,0,0,None,3,Intamin,24,Steel,5
-Poseïdon,388,Europe,2,Chain lift hill,4,Family,23,Lap bar,2,Mack,31,Steel,5
-Divertical,389,Europe,2,Vertical lift,17,0,0,Lap bar,2,Intamin,24,Steel,5
-Rutschebanen,390,Europe,2,Cable lift hill,3,0,0,Lap bar,2,ACE Coaster Classic,1,Steel,5
-Thor's Hammer,391,Europe,2,0,0,Bobsled,5,0,0,Gerstlauer,20,Steel,5
-Booster Bike,392,Europe,2,Magnetic Launch (LIM/LSM),14,Motorbike,71,Lap bar,2,Vekoma,52,Steel,5
-Racer,393,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Philadelphia Toboggan Coaster,37,Wooden,9
-Freedom Flyer,394,NorthAm,3,Booster wheel lift hill,1,Family,23,Lap bar,2,Vekoma,52,Steel,5
-Avalanche,395,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Mack,31,Steel,5
-Gemini (Red),396,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Arrow,2,Hybrid,3
-Whizzer,397,NorthAm,3,Electrical lift hill,11,Speed Racer / Extended Jumbo Jet,86,None,3,Schwarzkopf,47,Steel,5
-Hankatten,398,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Gerstlauer,20,Steel,5
-Stinger,399,NorthAm,3,Chain lift hill,4,"Shuttle, Invertigo",83,Shoulder harness,5,Vekoma,52,Steel,5
-Cobra,400,Europe,2,Cable lift hill,3,Shuttle,79,Shoulder harness,5,Vekoma,52,Steel,5
-Spinning Dragons,401,NorthAm,3,Chain lift hill,4,Spinning,87,Lap bar,2,Gerstlauer,20,Steel,5
-Thunderbolt,402,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,"Drambour, Joseph",15,Wooden,9
-Fiorano GT Challenge (Left),403,Asia,1,Magnetic Launch (LIM/LSM),14,0,0,Lap bar,2,Maurer,33,Steel,5
-Huracan,404,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Zierer,58,Steel,5
-Sky Rocket,405,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched,52,Lap bar,2,Premier Rides,39,Steel,5
-Wild Train,406,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Pax,36,Steel,5
-Zeus,407,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,CCI,7,Wooden,9
-Vortex,408,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,Arrow,2,Steel,5
-Racer 75 (Left Side),409,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Philadelphia Toboggan Coaster,37,Wooden,9
-Cobra's Curse,410,NorthAm,3,Vertical lift,17,0,0,Lap bar,2,Mack,31,Steel,5
-New Revolution,411,NorthAm,3,0,0,Looper,60,Lap bar,2,Schwarzkopf,47,Steel,5
-Racer,412,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,John Miller,26,Steel,5
-Big Dipper,413,Europe,2,Chain lift hill,4,0,0,Lap bar,2,William Strickler,56,Wooden,9
-Screamin' Eagle,414,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Philadelphia Toboggan Coaster,37,Wooden,9
-La Trace du Hourra,415,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Mack,31,Steel,5
-Bobbaan,416,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Giovanola,21,Steel,5
-Matterhorn Blitz,417,Europe,2,Vertical lift,17,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Milky Way (Blue),418,Asia,1,Chain lift hill,4,0,0,Shoulder harness,5,Togo,50,Steel,5
-Typhoon,419,Europe,2,Chain lift hill,4,Euro-Fighter,22,Shoulder harness,5,Gerstlauer,20,Steel,5
-Ninja,420,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,Arrow,2,Steel,5
-Wave Breaker: The Rescue Coaster,421,NorthAm,3,Tire propelled launch,16,0,0,None,3,Intamin,24,0,0
-Green Lantern,422,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Le Serpent,423,Europe,2,Booster wheel lift hill,1,Family,23,Lap bar,2,Zierer,58,Steel,5
-Hoosier Hurricane,424,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,CCI,7,Wooden,9
-Insider,425,Europe,2,0,0,"Wild Mouse, Indoor",102,Lap bar,2,Maurer,33,Steel,5
-Calamity Mine,426,Europe,2,Chain lift hill,4,Mine Train,68,Lap bar,2,Vekoma,52,Steel,5
-Grand National (Right),427,Europe,2,Chain lift hill,4,Twister,97,0,0,Unknown,51,Wooden,9
-Vogel Rok,428,Europe,2,Chain lift hill,4,Enclosed Freeform,20,Lap bar,2,Vekoma,52,Steel,5
-Boomerang,429,Europe,2,Booster wheel lift hill,1,"Shuttle, Boomerang, Family",82,Lap bar,2,Vekoma,52,Steel,5
-Schweizer Bobbahn,430,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Mack,31,Steel,5
-Fiorano GT Challenge (Right),431,Asia,1,Magnetic Launch (LIM/LSM),14,0,0,Lap bar,2,Maurer,33,Steel,5
-Boomerang,432,Europe,2,Chain lift hill,4,"Shuttle, Boomerang, Family",82,Lap bar,2,Vekoma,52,Steel,5
-Ben 10 Ultimate Mission,433,Europe,2,Booster wheel lift hill,1,Shuttle,79,Lap bar,2,Vekoma,52,Steel,5
-Tornado,434,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,Intamin,24,Steel,5
-Underground,435,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,CCI,7,Steel,5
-Mount Mara,436,Europe,2,Booster wheel lift hill,1,Indoor,43,Lap bar,2,Vekoma,52,Steel,5
-Patriot,437,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Steel Dragon,438,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Maurer,33,Steel,5
-Grand National (Left),439,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Charles Paige,9,Steel,5
-Big One,440,Europe,2,Chain lift hill,4,Hyper,40,Lap bar,2,Arrow,2,Steel,5
-Vild-Svinet,441,Europe,2,Cable lift hill,3,Euro-Fighter,22,Lap bar,2,Gerstlauer,20,Steel,5
-Supersplash,442,Europe,2,0,0,0,0,Lap bar,2,Mack,31,SuperSplash,6
-Looping Star,443,Asia,1,Cable lift hill,3,Looping,65,Lap bar,2,Schwarzkopf,47,Steel,5
-Colossus,444,NorthAm,3,Chain lift hill,4,Out & Back,74,Lap bar,2,International Amusement Devices,25,Wooden,9
-Nickelodeon Streak,445,Europe,2,Chain lift hill,4,Out & Back,74,None,3,Charles Paige,9,Wooden,9
-Thunderation,446,NorthAm,3,Chain lift hill,4,Mine Train,68,Lap bar,2,Arrow,2,Steel,5
-Pandemonium,447,NorthAm,3,Chain lift hill,4,"Spinning Cars, Twister",88,Lap bar,2,Gerstlauer,20,Steel,5
-Alpenexpress,448,Europe,2,0,0,E-Powered,15,Lap bar,2,Mack,31,Steel,5
-Tiger Express,449,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Kumali,450,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,Vekoma,52,Steel,5
-Feuerdrache,451,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Zierer,58,Steel,5
-Exterminator,452,NorthAm,3,Chain lift hill,4,Spinning Wild Mouse,91,Lap bar,2,Reverchon,42,Steel,5
-Super Railway,453,Asia,1,Chain lift hill,4,0,0,None,3,Schwarzkopf,47,Steel,5
-Thunderbolt,454,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,ACE Coaster Classic,1,Steel,5
-Fire In The Hole,455,NorthAm,3,0,0,0,0,Lap bar,2,Unknown,51,Steel,5
-Tranan,456,Europe,2,Chain lift hill,4,Eagle,18,None,3,S&S,44,Steel,5
-Atlantica SuperSplash,457,Europe,2,Chain lift hill,4,Water Coaster,100,Lap bar,2,Mack,31,Steel,5
-Euro Mir,458,Europe,2,Spiral lift,15,Spinning,87,Lap bar,2,Mack,31,Steel,5
-Eurosat,459,Europe,2,Spiral lift,15,Family,23,Lap bar,2,Mack,31,Steel,5
-Pegasus,460,NorthAm,3,0,0,0,0,0,0,CCI,7,Steel,5
-Falcon,461,Europe,2,0,0,Euro-Fighter,22,Shoulder harness,5,Gerstlauer,20,Steel,5
-Dark Knight,462,NorthAm,3,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Boomerang,463,Europe,2,Chain lift hill,4,"Boomerang, Multielement Shuttle",9,Lap bar,2,Vekoma,52,Steel,5
-Achterbahn,464,Europe,2,Chain lift hill,4,Family,23,Lap bar,2,Schwarzkopf,47,Steel,5
-Laff Trakk,465,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Maurer,33,Steel,5
-West Coaster,466,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Morgan,35,Steel,5
-Mammut,467,Europe,2,Chain lift hill,4,Mine Train,68,Lap bar,2,Vekoma,52,Steel,5
-Stampida (Blue),468,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,CCI,7,Wooden,9
-Shockwave,469,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,Intamin,24,Steel,5
-Wild One,470,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,John Miller,26,Steel,5
-Stampida (Red),471,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,CCI,7,Wooden,9
-Thunderhawk,472,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Philadelphia Toboggan Coaster,37,Wooden,9
-Woodstock Express,473,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Philadelphia Toboggan Coaster,37,Steel,5
-Wonder Mountain's Guardian,474,NorthAm,3,Chain lift hill,4,Free Fall,32,Lap bar,2,ART Engineering GmbH,3,Steel,5
-Invertigo,475,NorthAm,3,Chain lift hill,4,"Shuttle, Boomerang",81,Shoulder harness,5,Vekoma,52,Steel,5
-Blazing Fury,476,NorthAm,3,0,0,0,0,Lap bar,2,Unknown,51,Steel,5
-Halvar,477,Europe,2,Chain lift hill,4,Terrain,95,Lap bar,2,Vekoma,52,Steel,5
-Cyclone,478,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Unknown,51,Wooden,9
-Colossus,479,Europe,2,Chain lift hill,4,Multielement,72,Shoulder harness,5,Intamin,24,Steel,5
-Naga Bay,480,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Maurer,33,Steel,5
-Alpine Coaster,481,Europe,2,Cable lift hill,3,0,0,Seatbelt,4,Wiegand,54,Steel,5
-SuperSplash,482,Europe,2,Vertical lift,17,0,0,Lap bar,2,Mack,31,Steel,5
-Cobra,483,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,Intamin,24,Steel,5
-Adventure Express,484,NorthAm,3,Chain lift hill,4,Mine Train,68,Lap bar,2,Arrow,2,Steel,5
-EqWalizer,485,Europe,2,Cable lift hill,3,"Shuttle, Boomerang",81,Lap bar,2,Vekoma,52,Steel,5
-Dark Knight,486,NorthAm,3,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Avalanche,487,NorthAm,3,0,0,Bobsled,5,Lap bar,2,Mack,31,Steel,5
-Vonkaputous,488,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Premier Rides,39,Steel,5
-Mumbo Jumbo,489,Europe,2,Chain lift hill,4,El Loco,19,Shoulder harness,5,S&S,44,Steel,5
-Judge Roy Scream,490,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,William J. Cobb,55,Steel,5
-Wildcat,491,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,GCI,19,Wooden,9
-Aktium,492,Europe,2,0,0,0,0,None,3,Mack,31,0,0
-La Vibora,493,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Intamin,24,Steel,5
-Woodstock Express,494,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Philadelphia Toboggan Coaster,37,Wooden,9
-Spatiale Experience,495,Europe,2,Spiral lift,15,Indoor,43,Lap bar,2,Mack,31,Steel,5
-Devil's Mine,496,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Vekoma,52,Steel,5
-Grizzly,497,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Unknown,51,Wooden,9
-RC Racer,498,Europe,2,Magnetic Launch (LIM/LSM),14,Half Pipe,39,Shoulder harness,5,Intamin,24,Steel,5
-Robin Hood,499,Europe,2,Chain lift hill,4,Out & Back,74,Lap bar,2,Vekoma,52,Wooden,9
-Journey To Atlantis,500,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Mack,31,Steel,5
-Jimmy Neutron's Atomic Flyer,501,Europe,2,Chain lift hill,4,Family Inverted,24,Lap bar,2,Vekoma,52,Steel,5
-Racer 75 (Right Side),502,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Philadelphia Toboggan Coaster,37,Wooden,9
-Steeplechase,503,NorthAm,3,Flywheel,12,Motocoaster,70,0,0,Zamperla,57,Steel,5
-Roller Soaker,504,NorthAm,3,Cable lift hill,3,0,0,Lap bar,2,SetPoint,48,Steel,5
-Huracan,505,Europe,2,Chain lift hill,4,Euro-Fighter,22,Shoulder harness,5,Gerstlauer,20,Steel,5
-Speed of Sound,506,Europe,2,Chain lift hill,4,"Shuttle, Boomerang",81,Shoulder harness,5,Vekoma,52,Steel,5
-Bat Coaster,507,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,Pinfari,38,Steel,5
-Runaway Mine Train,508,Europe,2,0,0,E-Powered,15,Shoulder harness,5,Mack,31,Steel,5
-Velocity,509,Europe,2,Hydraulic cable launch,13,0,0,Lap bar,2,Vekoma,52,Steel,5
-Gletscherblitz,510,Europe,2,0,0,0,0,Lap bar,2,Mack,31,E-Powered,1
-Pony Express,511,NorthAm,3,Flywheel,12,Motocoaster,70,0,0,Zamperla,57,Steel,5
-Super 8er Bahn,512,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Pinfari,38,Steel,5
-Coastersaurus,513,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Martin & Vleminckx,32,Steel,5
-Gaz Express,514,Europe,2,Chain lift hill,4,"Mine Train, Family",69,Lap bar,2,Soquet,49,Steel,5
-Hochschaubahn,515,Europe,2,Chain lift hill,4,Family,23,None,3,Unknown,51,Wooden,9
-Comet,516,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Philadelphia Toboggan Coaster,37,Wooden,9
-Georgia Cyclone,517,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Dinn Corp.,12,Wooden,9
-Iron Dragon,518,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,Arrow,2,Steel,5
-Schweizer Bobbahn,519,Europe,2,Chain lift hill,4,Bobsled,5,Lap bar,2,Mack,31,Steel,5
-Odin Ekspressen,520,Europe,2,Electrical lift hill,11,Freeform Powered,36,Lap bar,2,Mack,31,Steel,5
-Psycho Mouse,521,NorthAm,3,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Arrow,2,Steel,5
-Linnunrata,522,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Zierer,58,Steel,5
-Le Grand canyon,523,Europe,2,Chain lift hill,4,Family,23,Lap bar,2,Soquet,49,Steel,5
-Train de Mine,524,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Soquet,49,Steel,5
-Le Train de la Mine d'Or,525,Europe,2,Electrical lift hill,11,E-Powered,15,Lap bar,2,Mack,31,Steel,5
-Apocalypse,526,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Spinner,527,Europe,2,0,0,0,0,Lap bar,2,Maurer,33,0,0
-Dawson Duel (Right),528,Europe,2,Cable lift hill,3,0,0,None,3,Wiegand,54,0,0
-Roar,529,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,GCI,19,Steel,5
-Dawson Duel (Left),530,Europe,2,0,0,0,0,None,3,Wiegand,54,Family,2
-Rasender Roland,531,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Vekoma,52,Steel,5
-Great American Scream Machine,532,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Philadelphia Toboggan Coaster,37,Wooden,9
-Jaguar!,533,NorthAm,3,Booster wheel lift hill,1,Family,23,Lap bar,2,Zierer,58,Steel,5
-Azteka,534,Europe,2,Chain lift hill,4,Family,23,Lap bar,2,Soquet,49,Steel,5
-Grizzly,535,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Kings Island,27,Steel,5
-Woodstock Express,536,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Philadelphia Toboggan Coaster,37,Wooden,9
-El Diablo,537,Europe,2,Chain lift hill,4,Mine Train,68,Lap bar,2,Arrow,2,Steel,5
-Joyride,538,Europe,2,Chain lift hill,4,0,0,Lap bar,2,L&T Systems,30,Steel,5
-Boomerang,539,Europe,2,Booster wheel lift hill,1,Enclosed Junior,21,Lap bar,2,Vekoma,52,Steel,5
-Roller Coaster Mayan,540,Europe,2,Chain lift hill,4,SLC,85,Shoulder harness,5,Vekoma,52,Steel,5
-Dynamite Express,541,Europe,2,Electrical lift hill,11,E-Powered,15,Lap bar,2,Mack,31,Steel,5
-Tabalugas Achterbahn,542,Europe,2,Booster wheel lift hill,1,"Family, Indoor",27,Lap bar,2,Zierer,58,Steel,5
-Grottenblitz,543,Europe,2,0,0,E-Powered,15,Lap bar,2,Mack,31,Steel,5
-Family Adventure,544,Europe,2,Booster wheel lift hill,1,Junior,49,Lap bar,2,Vekoma,52,Steel,5
-Cagliostro,545,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Maurer,33,Steel,5
-Olandese Volante,546,Europe,2,Chain lift hill,4,Mine Train,68,Lap bar,2,Vekoma,52,Steel,5
-Silver Streak,547,NorthAm,3,Booster wheel lift hill,1,Family,23,Shoulder harness,5,Vekoma,52,Steel,5
-X-Treme Racer,548,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Rioolrat,549,Europe,2,0,0,0,0,Lap bar,2,Vekoma,52,Steel,5
-Mean Streak,550,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Dinn Corp.,12,Wooden,9
-RC Racer,551,Asia,1,Magnetic Launch (LIM/LSM),14,Half Pipe,39,Shoulder harness,5,Intamin,24,Steel,5
-Flight of the Hippogriff,552,NorthAm,3,0,0,YoungStar,104,Lap bar,2,Mack,31,Steel,5
-Runaway Mountain,553,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Premier Rides,39,Steel,5
-Gold Rusher,554,NorthAm,3,Chain lift hill,4,Mine Train,68,Lap bar,2,Arrow,2,Steel,5
-Disaster Transport,555,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Intamin,24,Steel,5
-Timber Wolf,556,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Dinn Corp.,12,Wooden,9
-Bob Express,557,Europe,2,Electrical lift hill,11,E-Powered,15,Lap bar,2,Mack,31,Steel,5
-Mighty Canadian Minebuster,558,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Philadelphia Toboggan Coaster,37,Wooden,9
-Flying Dutchman Gold Mine,559,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Trailblazer,560,NorthAm,3,Chain lift hill,4,Mine Train,68,Lap bar,2,Arrow,2,Steel,5
-Steampunk Hunters,561,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Vekoma,52,Steel,5
-Grampus Jet,562,Asia,1,Chain lift hill,4,0,0,Shoulder harness,5,Vekoma,52,Steel,5
-Famous jack,563,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Reverchon,42,Steel,5
-Shaman,564,Europe,2,Chain lift hill,4,Looper,60,Shoulder harness,5,Vekoma,52,Steel,5
-Euro Loop,565,Europe,2,Chain lift hill,4,Looper,60,Shoulder harness,5,Vekoma,52,Steel,5
-Course de Bobsleigh,566,Europe,2,Electrical lift hill,11,0,0,Lap bar,2,Schwarzkopf,47,Steel,5
-Plohseidon,567,Europe,2,Booster wheel lift hill,1,Family,23,Lap bar,2,Zierer,58,Steel,5
-Indiana Jones et le Temple du Péril,568,Europe,2,Chain lift hill,4,Looper,60,Shoulder harness,5,Intamin,24,Steel,5
-Tornado,569,Europe,2,Chain lift hill,4,Looper,60,Shoulder harness,5,Soquet,49,Steel,5
-Big Apple Coaster,570,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,Togo,50,Steel,5
-L'Aérotrain,571,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Vekoma,52,Steel,5
-Vertigo,572,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Schlitt' Express,573,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Green Lantern : First Flight,574,NorthAm,3,Chain lift hill,4,ZacSpin,105,Shoulder harness,5,Intamin,24,Steel,5
-Racing,575,Europe,2,0,0,0,0,0,0,Zierer,58,Steel,5
-Blue Flyer,576,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Charles Paige,9,Steel,5
-Hurler,577,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Philadelphia Toboggan Coaster,37,Wooden,9
-Flying Cobras,578,NorthAm,3,Chain lift hill,4,"Shuttle, Boomerang",81,Shoulder harness,5,Vekoma,52,Steel,5
-Dragon,579,NorthAm,3,Chain lift hill,4,Looping,65,Shoulder harness,5,Hopkins,23,Steel,5
-Python,580,Europe,2,Chain lift hill,4,Loop Corkscrew,59,Shoulder harness,5,Vekoma,52,Steel,5
-Dragon,581,NorthAm,3,Booster wheel lift hill,1,0,0,Lap bar,2,Vekoma,52,Steel,5
-Euro Speed,582,Europe,2,0,0,E-Powered,15,Lap bar,2,Mack,31,Steel,5
-Ghoster Coaster,583,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Philadelphia Toboggan Coaster,37,Wooden,9
-Monstre,584,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,William J. Cobb,55,Wooden,9
-Crazy Mine,585,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Maurer,33,Steel,5
-La Machine à Vapeur,586,Europe,2,Electrical lift hill,11,E-Powered,15,Lap bar,2,Soquet,49,Steel,5
-Flagermusen,587,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Reverchon,42,Steel,5
-Dragen,588,Europe,2,Electrical lift hill,11,E-Powered,15,Lap bar,2,Mack,31,Steel,5
-Project X - Test Strecke,589,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Tickler,590,NorthAm,3,Chain lift hill,4,Spinning Wild Mouse,91,Shoulder harness,5,Zamperla,57,Steel,5
-Sky Spin,591,Europe,2,0,0,0,0,0,0,Maurer,33,Steel,5
-Hurler,592,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,CCI,7,Steel,5
-Shockwave,593,NorthAm,3,Chain lift hill,4,"Stand-Up, Looping",92,Shoulder harness,5,Togo,50,Steel,5
-Draak,594,Europe,2,Electrical lift hill,11,E-Powered,15,Lap bar,2,Mack,31,Steel,5
-Vilde Mus,595,Europe,2,0,0,0,0,None,3,Mack,31,Wild Mouse,8
-Les Souris Mécaniques,596,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Reverchon,42,Steel,5
-Rattlesnake,597,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Maurer,33,Steel,5
-Ricochet,598,NorthAm,3,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Skull Mountain,599,NorthAm,3,Booster wheel lift hill,1,Twister,97,Lap bar,2,Intamin,24,Wooden,9
-Neo's Twister,600,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Fabbri,18,Wild Mouse,8
-Ghost Chasers,601,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Furio,602,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Soquet,49,Steel,5
-Fly,603,NorthAm,3,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Viper,604,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,Arrow,2,Steel,5
-Wildcat,605,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Charlie Dinn,10,Steel,5
-Lost Coaster of Superstition Mountain,606,NorthAm,3,Chain lift hill,4,0,0,0,0,CCI,7,Wooden,9
-Déval' Train,607,Europe,2,Booster wheel lift hill,1,Junior Coaster,50,Lap bar,2,Vekoma,52,Steel,5
-Scorpion Express,608,Europe,2,0,0,E-Powered,15,Lap bar,2,Mack,31,Steel,5
-Temple of the Night Hawk,609,Europe,2,Chain lift hill,4,Indoor Freeform,44,Lap bar,2,Vekoma,52,Steel,5
-Virtual Express,610,Europe,2,Electrical lift hill,11,E-Powered,15,Lap bar,2,Zamperla,57,Steel,5
-Enchanted Airways,611,Asia,1,Chain lift hill,4,Junior,49,Lap bar,2,Vekoma,52,Steel,5
-Wild Beast,612,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Philadelphia Toboggan Coaster,37,Wooden,9
-Mine Expressen,613,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Vekoma,52,Steel,5
-Woodstock Express,614,NorthAm,3,Booster wheel lift hill,1,Junior Twister,51,Lap bar,2,Vekoma,52,Steel,5
-Gwazi - Tiger,615,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,GCI,19,Wooden,9
-Cobra,616,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,Sartori,45,Steel,5
-Apple Zapple,617,NorthAm,3,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Thunder Run,618,NorthAm,3,Electrical launch,10,E-Powered,15,Lap bar,2,Mack,31,Steel,5
-Flying Ace Aerial Chase,619,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,Vekoma,52,Steel,5
-Vortex,620,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
-Express,621,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Soquet,49,Steel,5
-Le Vol d'Icare,622,Europe,2,Booster wheel lift hill,1,Family,23,Lap bar,2,Zierer,58,Steel,5
-Woodstock Express,623,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Zamperla,57,Steel,5
-Wild Mouse,624,NorthAm,3,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Maurer,33,Steel,5
-Dragon,625,NorthAm,3,Booster wheel lift hill,1,0,0,Lap bar,2,Intamin,24,Steel,5
-Comet,626,Europe,2,Chain lift hill,4,Looper,60,Shoulder harness,5,Vekoma,52,Steel,5
-Wild Mouse,627,NorthAm,3,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Rollerskater,628,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Vekoma,52,Steel,5
-Canopy Flyer,629,Asia,1,Chain lift hill,4,Family,23,Lap bar,2,SetPoint,48,Steel,5
-Ednör,630,NorthAm,3,Chain lift hill,4,SLC,85,Shoulder harness,5,Vekoma,52,Steel,5
-Donderstenen,631,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Zierer,58,Steel,5
-Sand Serpent,632,NorthAm,3,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Maskerade,633,Europe,2,Vertical lift,17,Indoor,43,Lap bar,2,Gerstlauer,20,Steel,5
-Tulireki,634,Europe,2,0,0,0,0,Lap bar,2,Mack,31,Steel,5
-Green Scream,635,Europe,2,Booster wheel lift hill,1,Twister,97,Lap bar,2,Zierer,58,Steel,5
-Brontojet,636,Europe,2,Electrical lift hill,11,0,0,Lap bar,2,Schwarzkopf,47,Steel,5
-Pikajuna,637,Europe,2,Electrical lift hill,11,E-Powered,15,Lap bar,2,Mack,31,Steel,5
-Corkscrew,638,Europe,2,Chain lift hill,4,Corkscrew,10,Shoulder harness,5,Vekoma,52,Steel,5
-The Walking Dead - The Ride,639,Europe,2,Booster wheel lift hill,1,"Family, Indoor",27,Lap bar,2,Vekoma,52,Steel,5
-Sky Rider,640,Europe,2,Vertical lift,17,0,0,Lap bar,2,Caripro,6,Steel,5
-Carolina Goldrusher,641,NorthAm,3,Chain lift hill,4,Mine Train,68,Lap bar,2,Arrow,2,Hybrid,3
-Kung Fu Panda Master,642,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Fabbri,18,Steel,5
-Wild Mouse,643,NorthAm,3,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Zamperla,57,Steel,5
-Dragon Fire,644,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,Arrow,2,Steel,5
-G Force,645,Europe,2,Chain lift hill,4,Looper,60,Lap bar,2,Maurer,33,Steel,5
-Canyon Blaster,646,NorthAm,3,Chain lift hill,4,Mine Train,68,Lap bar,2,Arrow,2,Steel,5
-Speedy Bob (Left),647,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Big Loop,648,Europe,2,Chain lift hill,4,Double Loop Corkscrew,13,Shoulder harness,5,Vekoma,52,Steel,5
-La Souris verte,649,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Zamperla,57,Steel,5
-Demon,650,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,Arrow,2,Steel,5
-Cedar Creek Mine Ride,651,NorthAm,3,Chain lift hill,4,Mine Train,68,Lap bar,2,Arrow,2,Hybrid,3
-Tig'rr Coaster,652,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Schwarzkopf,47,0,0
-Anaconda,653,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,Arrow,2,Steel,5
-Tokio express,654,Asia,1,Electrical launch,10,"E-Powered, Family",17,Lap bar,2,Soquet,49,Steel,5
-Tornado,655,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,William J. Cobb,55,Steel,5
-Gadget's Go Coaster,656,NorthAm,3,Booster wheel lift hill,1,0,0,Lap bar,2,Vekoma,52,Steel,5
-Dragon,657,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Soquet,49,Steel,5
-Gotham City Gauntlet: Escape from Arkham Asylum,658,NorthAm,3,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Maurer,33,Steel,5
-Gwazi - Lion,659,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,GCI,19,Wooden,9
-Rolling Thunder,660,NorthAm,3,Chain lift hill,4,Twister,97,Lap bar,2,Don Rosser & Bill Cobb,13,Wooden,9
-Gruvbanan,661,Europe,2,0,0,0,0,Lap bar,2,Mack,31,E-Powered,1
-Twistrix,662,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Maurer,33,Steel,5
-Boomerang,663,Europe,2,Cable lift hill,3,"Shuttle, Boomerang",81,Shoulder harness,5,Vekoma,52,Steel,5
-Dream Hunters Society,664,Europe,2,Chain lift hill,4,Zyklon Z47,106,Lap bar,2,Unknown,51,Steel,5
-Vortex,665,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,Arrow,2,Steel,5
-Canyon Blaster,666,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,Arrow,2,Steel,5
-Silver Mine,667,Europe,2,Chain lift hill,4,"Flitzer, Family",28,Lap bar,2,Zierer,58,Steel,5
-Le Train de la Mine,668,Europe,2,0,0,Mine Train,68,Lap bar,2,Soquet,49,Steel,5
-Dizzy Mouse,669,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Reverchon,42,Steel,5
-Tyfonen,670,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Zamperla,57,Steel,5
-Runaway Mine Train,671,NorthAm,3,Chain lift hill,4,Mine Train,68,Lap bar,2,Arrow,2,Steel,5
-Formula One,672,Europe,2,Chain lift hill,4,Wild Mouse,101,Shoulder harness,5,Fabbri,18,Steel,5
-Primeval Whirl,673,NorthAm,3,Chain lift hill,4,Dual Wild Mouse,14,Lap bar,2,Reverchon,42,Steel,5
-Speedy Bob (Right),674,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Gold Digger,675,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,L&T Systems,30,Steel,5
-Tornado,676,Europe,2,Chain lift hill,4,Looper,60,Shoulder harness,5,Vekoma,52,Steel,5
-Kopermijn,677,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Maurer,33,Steel,5
-Drakkar,678,Europe,2,Chain lift hill,4,Junior Coaster,50,Lap bar,2,Soquet,49,Steel,5
-Infusion,679,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,Vekoma,52,Steel,5
-Primeval Whirl (2),680,NorthAm,3,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Reverchon,42,Steel,5
-Sequoia Adventure,681,Europe,2,0,0,Screaming Squirrel,78,Shoulder harness,5,S&S,44,Steel,5
-Goofy's Sky School,682,NorthAm,3,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Super Manège,683,NorthAm,3,Chain lift hill,4,Looper,60,Lap bar,2,Vekoma,52,Steel,5
-Soarin' Eagle,684,NorthAm,3,Spiral lift,15,Flying,29,Flying restraint,1,Zamperla,57,Steel,5
-Wild Mouse,685,Asia,1,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Crazy Mouse (Degousse),686,Asia,1,0,0,0,0,0,0,Reverchon,42,Steel,5
-Rockstar Coaster,687,NorthAm,3,0,0,0,0,None,3,Zamperla,57,0,0
-Puss in Boots Giant Journey,688,Asia,1,Spiral lift,15,Family,23,None,3,Zamperla,57,Steel,5
-River King Mine Train,689,NorthAm,3,Chain lift hill,4,Mine Train,68,Lap bar,2,Arrow,2,Steel,5
-Wild Mouse,690,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Maurer,33,Steel,5
-Wilde Maus,691,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Maurer,33,Steel,5
-Toboggan Nordique,692,NorthAm,3,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Zamperla,57,Steel,5
-Goudurix,693,Europe,2,Chain lift hill,4,Looper,60,Shoulder harness,5,Vekoma,52,Steel,5
-Dream catcher,694,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,Vekoma,52,Steel,5
-Kiddy Hawk,695,NorthAm,3,Booster wheel lift hill,1,Family,23,Shoulder harness,5,Vekoma,52,Steel,5
-Boomerang,696,NorthAm,3,Cable lift hill,3,"Boomerang, Multielement Shuttle",9,Shoulder harness,5,Vekoma,52,Steel,5
-Runaway Mine Train,697,NorthAm,3,Chain lift hill,4,Mine Train,68,Lap bar,2,Arrow,2,Steel,5
-Crazy Coaster,698,Europe,2,0,0,0,0,Lap bar,2,Reverchon,42,0,0
-Coast Rider,699,NorthAm,3,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Mack,31,Steel,5
-Train de la Mine,700,Europe,2,Chain lift hill,4,Family,23,Lap bar,2,Soquet,49,Steel,5
-Crazy Mouse,701,Asia,1,Chain lift hill,4,0,0,Lap bar,2,Reverchon,42,Steel,5
-Pegasus,702,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,Dinn Corp.,12,Wooden,9
-Bandit,703,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,RCCA,41,Wooden,9
-Orkanens Øje,704,Europe,2,Chain lift hill,4,Looper,60,Lap bar,2,Pinfari,38,Steel,5
-Cobra,705,Europe,2,Cable lift hill,3,"Boomerang, Multielement Shuttle",9,Shoulder harness,5,Vekoma,52,Steel,5
-Buffalo Mountain Coaster,706,Europe,2,0,0,E-Powered,15,Lap bar,2,Zamperla,57,Steel,5
-Turbo coaster,707,Europe,2,Chain lift hill,4,Looper,60,Shoulder harness,5,Pinfari,38,Steel,5
-Sidewinder,708,NorthAm,3,Cable lift hill,3,Shuttle,79,Lap bar,2,Vekoma,52,Steel,5
-Holly's Wilde Autofahrt,709,Europe,2,Chain lift hill,4,Wild Mouse,101,Lap bar,2,Maurer,33,Steel,5
-Dahlonega Mine Train,710,NorthAm,3,Chain lift hill,4,Mine Train,68,Lap bar,2,Arrow,2,Steel,5
-Anaconda,711,Europe,2,Chain lift hill,4,Out & Back,74,Lap bar,2,William J. Cobb,55,Wooden,9
-Boomerang Coast to Coaster,712,NorthAm,3,Cable lift hill,3,Shuttle,79,Shoulder harness,5,Vekoma,52,Steel,5
-Nitro,713,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Preston & Barbieri,40,Steel,5
-Bat,714,NorthAm,3,Cable lift hill,3,"Shuttle, Boomerang",81,Shoulder harness,5,Vekoma,52,Steel,5
-Vampire,715,Europe,2,Chain lift hill,4,Suspended Looping,94,Shoulder harness,5,Vekoma,52,Steel,5
-Corkscrew,716,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,Arrow,2,Steel,5
-Scary Toys Factory,717,Europe,2,Chain lift hill,4,Zyklon Z47,106,Lap bar,2,Unknown,51,Steel,5
-Carolina Cyclone,718,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,Arrow,2,Steel,5
-Flying Fish,719,Europe,2,0,0,E-Powered,15,Lap bar,2,Mack,31,Steel,5
-Super Wirbel,720,Europe,2,Chain lift hill,4,Corkscrew,10,Shoulder harness,5,Vekoma,52,Steel,5
-Spinning Out,721,NorthAm,3,Booster wheel lift hill,1,0,0,Lap bar,2,SBF,46,Steel,5
-Rexplorer,722,Europe,2,0,0,E-Powered,15,Lap bar,2,Mack,31,Steel,5
-Zoomerang,723,NorthAm,3,Cable lift hill,3,Shuttle,79,Shoulder harness,5,Vekoma,52,Steel,5
-Blue Tornado,724,Europe,2,Chain lift hill,4,Suspended Looping,94,Shoulder harness,5,Vekoma,52,Steel,5
-Loopen,725,Europe,2,Chain lift hill,4,Loop Corkscrew,59,Shoulder harness,5,Vekoma,52,Steel,5
-Magic Mouse,726,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,SBF,46,Steel,5
-Imoogi,727,Europe,2,Chain lift hill,4,"Zyklon Z47, Family",107,None,3,Pinfari,38,Steel,5
-Blue Hawk,728,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,Vekoma,52,Steel,5
-Ninja,729,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,Vekoma,52,Steel,5
-King,730,Asia,1,Chain lift hill,4,0,0,Shoulder harness,5,Soquet,49,Steel,5
-Steamin' Demon,731,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,Arrow,2,Steel,5
-Mind Eraser,732,NorthAm,3,Chain lift hill,4,SLC,85,Shoulder harness,5,Vekoma,52,Steel,5
-T3,733,NorthAm,3,Chain lift hill,4,Suspended Looping,94,Shoulder harness,5,Vekoma,52,Steel,5
-Master Thaï,734,Europe,2,Chain lift hill,4,Family,23,Lap bar,2,Preston & Barbieri,40,Steel,5
-Boomerang,735,NorthAm,3,Chain lift hill,4,Boomerang,7,Shoulder harness,5,Vekoma,52,Steel,5
-MP-Xpress,736,Europe,2,Chain lift hill,4,Suspended Looping,94,Shoulder harness,5,Vekoma,52,Steel,5
-Trombi,737,Europe,2,Electrical lift hill,11,0,0,Flying restraint,1,Zamperla,57,Steel,5
-Mind Eraser,738,NorthAm,3,Chain lift hill,4,SLC,85,Shoulder harness,5,Vekoma,52,Steel,5
-Boomerang Coast to Coaster,739,NorthAm,3,Chain lift hill,4,"Shuttle, Boomerang",81,Shoulder harness,5,Vekoma,52,Steel,5
-Boomerang,740,NorthAm,3,Cable lift hill,3,Shuttle,79,Shoulder harness,5,Vekoma,52,Steel,5
-Familienachterbahn,741,Europe,2,0,0,0,0,None,3,Zierer,58,Tivoli Medium,7
-Coaster Express,742,Europe,2,Chain lift hill,4,Twister,97,Lap bar,2,RCCA,41,Wooden,9
-Flashback,743,NorthAm,3,Chain lift hill,4,"Shuttle, Boomerang",81,Shoulder harness,5,Vekoma,52,Steel,5
-Limit,744,Europe,2,Chain lift hill,4,Suspended Looping,94,Shoulder harness,5,Vekoma,52,Steel,5
-Boomerang,745,NorthAm,3,Cable lift hill,3,"Shuttle, Boomerang",81,Shoulder harness,5,Vekoma,52,Steel,5
-Demon,746,NorthAm,3,Chain lift hill,4,Looper,60,Shoulder harness,5,Arrow,2,Steel,5
-Flight Deck,747,NorthAm,3,Chain lift hill,4,SLC,85,Shoulder harness,5,Vekoma,52,Steel,5
-El Paso-Express,748,Europe,2,Electrical launch,10,E-Powered,15,Lap bar,2,Schwarzkopf,47,Steel,5
-Time Warp,749,NorthAm,3,Electrical lift hill,11,"Flying, Volare",31,Flying restraint,1,Zamperla,57,Steel,5
-Looping,750,Europe,2,Electrical lift hill,11,Looper,60,Shoulder harness,5,Soquet,49,Steel,5
-Kong,751,NorthAm,3,Chain lift hill,4,SLC,85,Shoulder harness,5,Vekoma,52,Steel,5
-Viking Roller Coaster,752,Europe,2,Chain lift hill,4,Wild Mouse,101,Shoulder harness,5,SBF,46,Steel,5
-El Condor,753,Europe,2,Chain lift hill,4,Suspended Looping,94,Shoulder harness,5,Vekoma,52,Steel,5
-Volare,754,Europe,2,Spiral lift,15,"Flying, Volare",31,Flying restraint,1,Zamperla,57,Steel,5
+Joris en de Draak (Vuur),132,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,GCI,17,Wooden,9
+Flight Deck,133,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,B&M,4,Steel,5
+The Smiler,134,Europe,2,Chain lift hill,4,Infinity,44,Lap bar,2,Gerstlauer,18,Steel,5
+Wild Eagle,135,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Joris en de Draak (Water),136,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,GCI,17,Wooden,9
+Shock,137,Europe,2,Magnetic Launch (LIM/LSM),14,Looper,57,Lap bar,2,Maurer,31,Steel,5
+Superman - Ride Of Steel,138,NorthAm,3,Chain lift hill,4,Megacoaster,63,Lap bar,2,Intamin,22,Steel,5
+Timber,139,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,Gravity Group,20,Wooden,9
+Lisebergbanan,140,Europe,2,Chain lift hill,4,Terrain,89,Lap bar,2,Schwarzkopf,45,Steel,5
+Silver Bullet,141,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Anubis,142,Europe,2,Magnetic Launch (LIM/LSM),14,Looper,57,Shoulder harness,5,Gerstlauer,18,Steel,5
+Great Bear,143,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Rutschebanen,144,Europe,2,Cable lift hill,3,Out & Back,71,Lap bar,2,L.A. Thompson Scenic Railway,27,Wooden,9
+Hangtime,145,NorthAm,3,Chain lift hill,4,"Looper, Infinity",59,Lap bar,2,Gerstlauer,18,Steel,5
+Thunder dolphin,146,Asia,1,Cable lift hill,3,Hyper,37,Lap bar,2,Intamin,22,Steel,5
+Inferno,147,Europe,2,0,0,"Family, Free Fall",25,None,3,Intamin,22,Steel,5
+Dominator,148,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Fahrenheit,149,NorthAm,3,Chain lift hill,4,Looper,57,Lap bar,2,Intamin,22,Steel,5
+The Voyage,150,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Gravity Group,20,Wooden,9
+Wood Express,151,Europe,2,Chain lift hill,4,"Twister, Family",92,Lap bar,2,Gravity Group,20,Hybrid,3
+Altair,152,Europe,2,0,0,0,0,None,3,Intamin,22,0,0
+Pulsar,153,Europe,2,Magnetic Launch (LIM/LSM),14,Shuttle,76,Lap bar,2,Mack,29,Steel,5
+Krake,154,Europe,2,Chain lift hill,4,Dive,11,Shoulder harness,5,B&M,4,Steel,5
+Batman : Arkham Asylum,155,Europe,2,Chain lift hill,4,Batman Inverted Coaster,3,Shoulder harness,5,B&M,4,Steel,5
+Superman - Ultimate Flight,156,NorthAm,3,Chain lift hill,4,0,0,Flying restraint,1,B&M,4,Steel,5
+Banshee,157,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Dæmonen,158,Europe,2,Chain lift hill,4,Looper,57,Shoulder harness,5,B&M,4,Steel,5
+Bizarro,159,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Twister,160,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,Gravity Group,20,Wooden,9
+Megafobia,161,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,CCI,7,Wooden,9
+Sky Scream,162,Europe,2,Magnetic Launch (LIM/LSM),14,Looping,62,Lap bar,2,Premier Rides,37,Steel,5
+Thunderbird,163,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,GCI,17,Wooden,9
+Wooden Warrior,164,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Gravity Group,20,Wooden,9
+Lynet,165,Europe,2,Hydraulic cable launch,13,Looper,57,Shoulder harness,5,Gerstlauer,18,Steel,5
+X-Flight,166,NorthAm,3,Chain lift hill,4,0,0,Flying restraint,1,B&M,4,Steel,5
+Superman - Ultimate Flight,167,NorthAm,3,Chain lift hill,4,0,0,Flying restraint,1,B&M,4,Steel,5
+Tornado,168,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,Intamin,22,Steel,5
+Tennessee Tornado,169,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,Arrow,2,Steel,5
+White Lightning,170,NorthAm,3,Chain lift hill,4,Out & Back,71,Lap bar,2,GCI,17,Wooden,9
+Phantom's Revenge,171,NorthAm,3,Chain lift hill,4,Hyper,37,Lap bar,2,Arrow,2,Steel,5
+Pegase Express,172,Europe,2,"Chain lift hill, Booster wheel lift hill, Tire propelled launch",5,0,0,Lap bar,2,Gerstlauer,18,Steel,5
+Heidi the Ride,173,Europe,2,Chain lift hill,4,"Out & Back, Family",72,Lap bar,2,GCI,17,Wooden,9
+Winja's Force,174,Europe,2,Vertical lift,17,0,0,Lap bar,2,Maurer,31,Steel,5
+Revenge of the Mummy the Ride,175,NorthAm,3,Magnetic Launch (LIM/LSM),14,0,0,Lap bar,2,Premier Rides,37,0,0
+Superman Ultimate Fight,176,NorthAm,3,Magnetic Launch (LIM/LSM),14,0,0,Lap bar,2,Premier Rides,37,Steel,5
+GhostRider,177,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,GCI,17,Wooden,9
+Colorado Adventure,178,Europe,2,Booster wheel lift hill,1,Mine Train,65,Lap bar,2,Vekoma,50,Steel,5
+Abismo,179,Europe,2,Chain lift hill,4,X Car,97,Lap bar,2,Maurer,31,Steel,5
+Nemesis Inferno,180,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Big Thunder Mountain,181,Europe,2,Chain lift hill,4,"Mine Train, Family",66,Lap bar,2,Vekoma,50,Steel,5
+Hydra the Revenge,182,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,B&M,4,Steel,5
+Fujiyama,183,Asia,1,Chain lift hill,4,Hypercoaster,39,Lap bar,2,Togo,48,Steel,5
+Big Thunder Mountain,184,Asia,1,Chain lift hill,4,Mine Train,65,Lap bar,2,Vekoma,50,Steel,5
+Steel Force,185,NorthAm,3,Chain lift hill,4,Hyper,37,Lap bar,2,Morgan,33,Steel,5
+Rita,186,Europe,2,Hydraulic cable launch,13,Rocket,73,Shoulder harness,5,Intamin,22,Steel,5
+The Wicker Man,187,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,GCI,17,Wooden,9
+Muntanya Russa,188,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Vekoma,50,Steel,5
+Raging Bull,189,NorthAm,3,Chain lift hill,4,Hyper,37,Lap bar,2,B&M,4,Steel,5
+Wicked Twister,190,NorthAm,3,Magnetic Launch (LIM/LSM),14,Shuttle,76,Shoulder harness,5,Intamin,22,Steel,5
+Valravn,191,NorthAm,3,Chain lift hill,4,Dive,11,Vest restraint,6,B&M,4,Steel,5
+Dwervelwind,192,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Mack,29,Steel,5
+Desert Race,193,Europe,2,Hydraulic cable launch,13,Rocket,73,Lap bar,2,Intamin,22,Steel,5
+Winja's Fear,194,Europe,2,Vertical lift,17,0,0,Lap bar,2,Maurer,31,Steel,5
+American Thunder,195,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,GCI,17,Wooden,9
+Ukko,196,Europe,2,Chain lift hill,4,X Car,97,Shoulder harness,5,Maurer,31,Steel,5
+Juvelen,197,Europe,2,Tire propelled launch,16,Family Launch Coaster,24,Shoulder harness,5,Intamin,22,Steel,5
+Thunderhead,198,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,GCI,17,Wooden,9
+Gold Striker,199,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,GCI,17,Wooden,9
+Giant Dipper,200,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Unknown,49,Steel,5
+Batman The Ride,201,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Space Fantasy the Ride,202,Asia,1,0,0,0,0,Lap bar,2,Mack,29,Steel,5
+Mind Bender,203,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,Schwarzkopf,45,Steel,5
+Boardwalk Bullet,204,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Gravity Group,20,Wooden,9
+Mine Train Ulven,205,Europe,2,Booster wheel lift hill,1,Mine Train,65,Lap bar,2,Intamin,22,Steel,5
+Batman: The Ride,206,NorthAm,3,Chain lift hill,4,Free Spin,30,Shoulder harness,5,S&S,42,Steel,5
+Batman The Ride,207,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Vertical Velocity,208,NorthAm,3,Magnetic Launch (LIM/LSM),14,Shuttle,76,Shoulder harness,5,Intamin,22,Steel,5
+Dragon's Fury,209,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Maurer,31,Steel,5
+Space Mountain,210,NorthAm,3,Chain lift hill,4,Indoor,40,Lap bar,2,Dynamic Attractions,14,Steel,5
+Speed Monster,211,Europe,2,Hydraulic cable launch,13,Rocket,73,Shoulder harness,5,Intamin,22,Steel,5
+Tempesto,212,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched Looping,52,Lap bar,2,Premier Rides,37,Steel,5
+Riddler's Revenge,213,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Tarantula,214,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Maurer,31,Steel,5
+Thirteen,215,Europe,2,"Booster wheel lift hill, Vertical lift",2,Free Fall,29,Lap bar,2,Intamin,22,Steel,5
+Batwing,216,NorthAm,3,Chain lift hill,4,0,0,Flying restraint,1,Vekoma,50,Steel,5
+Vertical Velocity,217,NorthAm,3,Magnetic Launch (LIM/LSM),14,Shuttle,76,Shoulder harness,5,Intamin,22,Steel,5
+Joker,218,NorthAm,3,Chain lift hill,4,Free Spin,30,Shoulder harness,5,S&S,42,Steel,5
+Seven Dwarfs Mine Train,219,Asia,1,Chain lift hill,4,Family,22,Lap bar,2,Vekoma,50,Steel,5
+Steel Dragon 2000,220,Asia,1,Chain lift hill,4,Giga,34,Lap bar,2,Morgan,33,Steel,5
+Steel Eel,221,NorthAm,3,Chain lift hill,4,Megacoaster,63,Lap bar,2,Morgan,33,Steel,5
+Orkanen,222,Europe,2,Booster wheel lift hill,1,0,0,Shoulder harness,5,Vekoma,50,0,0
+Batman The Ride,223,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+"Hollywood Rip, Ride, Rockit",224,NorthAm,3,Chain lift hill,4,X Car,97,Lap bar,2,Maurer,31,Steel,5
+Kirnu,225,Europe,2,Chain lift hill,4,ZacSpin,99,Shoulder harness,5,Intamin,22,Steel,5
+Wild West Mine Train,226,Asia,1,0,0,Mine Train,65,Lap bar,2,Zamperla,55,Steel,5
+Lightning Racer (Thunder),227,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,GCI,17,Wooden,9
+Van Helsing's Factory,228,Europe,2,Chain lift hill,4,Indoor,40,Lap bar,2,Gerstlauer,18,Steel,5
+Flight of the Pterosaur,229,Europe,2,0,0,0,0,None,3,Vekoma,50,0,0
+Sky Wheel,230,Europe,2,Chain lift hill,4,X Car,97,Lap bar,2,Maurer,31,Steel,5
+Big Thunder Mountain Railroad,231,NorthAm,3,Chain lift hill,4,Mine Train,65,Lap bar,2,Arrow,2,Steel,5
+Vampire,232,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Joker's Jinx,233,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched Multielement,53,Lap bar,2,Premier Rides,37,Steel,5
+Goliath,234,NorthAm,3,Chain lift hill,4,Hypercoaster,39,Lap bar,2,Giovanola,19,Steel,5
+Lightning Racer (Lightning),235,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,GCI,17,Wooden,9
+Jetline,236,Europe,2,Chain lift hill,4,Freeform,31,Lap bar,2,Schwarzkopf,45,Steel,5
+Joker,237,NorthAm,3,Chain lift hill,4,Free Spin,30,Shoulder harness,5,S&S,42,Steel,5
+Thunder Loop,238,Europe,2,Chain lift hill,4,Looper,57,Lap bar,2,Schwarzkopf,45,Steel,5
+Psyké underground,239,Europe,2,Magnetic Launch (LIM/LSM),14,"Shuttle, Looper",80,Lap bar,2,Schwarzkopf,45,Steel,5
+Magnum XL 200,240,NorthAm,3,Chain lift hill,4,Hyper,37,Lap bar,2,Arrow,2,Steel,5
+FireChaser Express,241,NorthAm,3,"Chain lift hill, Tire propelled launch",8,"Launched, Family",55,Lap bar,2,Gerstlauer,18,Steel,5
+Big Thunder Mountain Railroad,242,NorthAm,3,Chain lift hill,4,Mine Train,65,Lap bar,2,Walt Disney Imagineering,51,Steel,5
+Hollenblitz,243,Asia,1,Chain lift hill,4,0,0,Lap bar,2,EOS rides,15,Steel,5
+Superman : Escape from Krypton,244,NorthAm,3,Magnetic Launch (LIM/LSM),14,Shuttle,76,Lap bar,2,Intamin,22,Steel,5
+Ultimate,245,Europe,2,Chain lift hill,4,Mine Train,65,Lap bar,2,Big Country Mitioneering,5,Steel,5
+Manta,246,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched,49,Lap bar,2,Mack,29,Steel,5
+Batman : The dark Knight,247,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Joker,248,NorthAm,3,Chain lift hill,4,Free Spin,30,Shoulder harness,5,S&S,42,Steel,5
+The Boss,249,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,CCI,7,Wooden,9
+Batman The Ride,250,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Montezooma's Revenge,251,NorthAm,3,Hydraulic cable launch,13,Shuttle Loop,77,Lap bar,2,Schwarzkopf,45,Steel,5
+Space Mountain - Omega,252,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Arrow,2,Steel,5
+Die Vliegende Hollander,253,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Kumbak,26,Steel,5
+Space Mountain - Alpha,254,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Arrow,2,Steel,5
+Titan,255,NorthAm,3,Chain lift hill,4,Hyper,37,Lap bar,2,Giovanola,19,Steel,5
+Mystery Mine,256,NorthAm,3,Chain lift hill,4,Euro-Fighter,21,Shoulder harness,5,Gerstlauer,18,Steel,5
+Dragon Roller Coaster,257,Europe,2,Booster wheel lift hill,1,Family,22,Lap bar,2,Vekoma,50,Steel,5
+Twister,258,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Philadelphia Toboggan Coaster,35,Wooden,9
+Batman the Ride,259,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Scream!,260,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,B&M,4,Steel,5
+Rock'n Roller Coaster starringAerosmith,261,NorthAm,3,Magnetic Launch (LIM/LSM),14,Looper,57,Shoulder harness,5,Vekoma,50,Steel,5
+Le Twist,262,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Mack,29,Steel,5
+Flight of Fear,263,NorthAm,3,Magnetic Launch (LIM/LSM),14,Indoor Launched Multielement,43,Lap bar,2,Premier Rides,37,Steel,5
+Great White,264,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Tornado,265,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Intamin,22,Steel,5
+Iron Shark,266,NorthAm,3,Chain lift hill,4,Euro-Fighter,21,Lap bar,2,Gerstlauer,18,Steel,5
+Rougarou,267,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Georgia Scorcher,268,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Takabisha,269,Asia,1,Magnetic Launch (LIM/LSM),14,Euro-Fighter,21,Shoulder harness,5,Gerstlauer,18,Steel,5
+Bat,270,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,Arrow,2,Steel,5
+The Legend,271,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,CCI,7,Wooden,9
+Freischütz,272,Europe,2,Magnetic Launch (LIM/LSM),14,Rocket,73,Lap bar,2,Maurer,31,Steel,5
+Shockwave,273,NorthAm,3,Chain lift hill,4,Looper,57,Lap bar,2,Schwarzkopf,45,Steel,5
+Force One,274,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Zierer,56,Steel,5
+Possessed,275,NorthAm,3,Magnetic Launch (LIM/LSM),14,Shuttle,76,Shoulder harness,5,Intamin,22,Steel,5
+Mammut,276,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,Cordes GmbH,11,Wooden,9
+Viper,277,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Philadelphia Toboggan Coaster,35,Wooden,9
+Seven Dwarfs Mine Train,278,NorthAm,3,Chain lift hill,4,Mine Train,65,Lap bar,2,Vekoma,50,Steel,5
+Salama,279,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Maurer,31,Steel,5
+Speed,280,Europe,2,Chain lift hill,4,Euro-Fighter,21,Shoulder harness,5,Gerstlauer,18,Steel,5
+Alpina Bahn,281,Asia,1,Tire propelled launch,16,Looper,57,Lap bar,2,Schwarzkopf,45,Steel,5
+Superman - Ultimate Flight,282,NorthAm,3,Chain lift hill,4,0,0,Flying restraint,1,B&M,4,Steel,5
+Polar X-plorer,283,Europe,2,Chain lift hill,4,Free Fall,29,Lap bar,2,Zierer,56,Steel,5
+Ultra Twister Megaton,284,Asia,1,Cable lift hill,3,0,0,Shoulder harness,5,Togo,48,Steel,5
+Half Pipe,285,Europe,2,Magnetic Launch (LIM/LSM),14,Shuttle,76,Lap bar,2,Intamin,22,Steel,5
+Prowler,286,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,GCI,17,Wooden,9
+Saw - The Ride,287,Europe,2,Chain lift hill,4,Euro-Fighter,21,Shoulder harness,5,Gerstlauer,18,Steel,5
+G'sengte Sau,288,Europe,2,Chain lift hill,4,Bobsled,5,Lap bar,2,Gerstlauer,18,Steel,5
+Insane,289,Europe,2,Electrical lift hill,11,"4th Dimension, ZacSpin",1,Shoulder harness,5,Intamin,22,Steel,5
+Millennium Roller Coaster,290,Europe,2,Chain lift hill,4,Looper,57,Shoulder harness,5,Vekoma,50,Steel,5
+Journey to Atlantis,291,NorthAm,3,Chain lift hill,4,Water Coaster,94,Lap bar,2,Mack,29,Steel,5
+Timber Drop,292,Europe,2,Chain lift hill,4,El Loco,18,Shoulder harness,5,S&S,42,Steel,5
+Goliath,293,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Nighthawk• Carowinds,294,NorthAm,3,Chain lift hill,4,0,0,Flying restraint,1,Vekoma,50,Steel,5
+Formule X,295,Europe,2,Magnetic Launch (LIM/LSM),14,X Car,97,Lap bar,2,Maurer,31,Steel,5
+Switchback,296,NorthAm,3,Chain lift hill,4,Shuttle,76,Lap bar,2,Gravity Group,20,Wooden,9
+Crush's Coaster,297,Europe,2,Chain lift hill,4,Indoor,40,Lap bar,2,Maurer,31,Steel,5
+Tiki Waka,298,Europe,2,Chain lift hill,4,"Bobsled, Family",6,Lap bar,2,Gerstlauer,18,Steel,5
+Cyclops,299,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,CCI,7,Steel,5
+Formule 1,300,Europe,2,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Pax,34,Steel,5
+Gemini (Blue),301,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Arrow,2,Hybrid,3
+Cancan Coaster,302,Europe,2,Spiral lift,15,Family,22,Lap bar,2,Mack,29,Steel,5
+Vicky The Ride,303,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Gerstlauer,18,Steel,5
+Batman the Ride,304,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Rock'n Roller Coaster avec Aerosmith,305,Europe,2,Magnetic Launch (LIM/LSM),14,"Looper, Indoor",58,Shoulder harness,5,Vekoma,50,Steel,5
+Raptor Attack,306,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Schwarzkopf,45,Steel,5
+Kentucky Rumbler,307,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,GCI,17,Wooden,9
+Goliath,308,NorthAm,3,Cable lift hill,3,Multielement Inverted Shuttle,70,Shoulder harness,5,Vekoma,50,Steel,5
+Vilda Musen,309,Europe,2,Chain lift hill,4,Bobsled,5,Lap bar,2,Gerstlauer,18,Steel,5
+Dragon Fly,310,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Gerstlauer,18,Steel,5
+Hyperspace Mountain,311,Asia,1,0,0,0,0,Lap bar,2,Vekoma,50,Steel,5
+Nessie Superrollercoaster,312,Europe,2,Chain lift hill,4,Looper,57,Lap bar,2,Schwarzkopf,45,Steel,5
+Cobra,313,Europe,2,Chain lift hill,4,Bobsled,5,Lap bar,2,Gerstlauer,18,Steel,5
+American Eagle,314,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Intamin,22,Wooden,9
+Cornball Express,315,NorthAm,3,Cable lift hill,3,0,0,Lap bar,2,CCI,7,Wooden,9
+Sierra Sidewinder,316,NorthAm,3,Chain lift hill,4,Spinning Freeform,85,Lap bar,2,Mack,29,Steel,5
+Vuoristorata,317,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,Unknown,49,Wooden,9
+Arthur,318,Europe,2,Electrical launch,10,"E-Powered, Dark Ride",15,Lap bar,2,Mack,29,Steel,5
+Battlestar Galactica - HUMAN,319,Asia,1,Electrical lift hill,11,Looper,57,Shoulder harness,5,Vekoma,50,Steel,5
+Drachenritt,320,Europe,2,Chain lift hill,4,Bobsled,5,Lap bar,2,Gerstlauer,18,Steel,5
+Thundercoaster,321,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,Vekoma,50,Wooden,9
+Joker,322,NorthAm,3,Chain lift hill,4,Free Spin,30,Shoulder harness,5,S&S,42,Steel,5
+Ultra Twister,323,Asia,1,Chain lift hill,4,0,0,Shoulder harness,5,Togo,48,Steel,5
+Raik,324,Europe,2,Booster wheel lift hill,1,"Boomerang, Family",8,Lap bar,2,Vekoma,50,Steel,5
+Megablitz,325,Europe,2,Chain lift hill,4,Triple Out and Back,90,Lap bar,2,Vekoma,50,Steel,5
+Pandemonium,326,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Gerstlauer,18,Steel,5
+Furius Baco,327,Europe,2,Hydraulic cable launch,13,0,0,Shoulder harness,5,Intamin,22,Steel,5
+Rage,328,Europe,2,Chain lift hill,4,Euro-Fighter,21,Shoulder harness,5,Gerstlauer,18,Steel,5
+Apocalypse,329,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,GCI,17,Wooden,9
+Loch Ness Monster,330,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,Arrow,2,Steel,5
+MotoGee,331,Europe,2,Tire propelled launch,16,0,0,Lap bar,2,Zamperla,55,Steel,5
+Outlaw,332,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,CCI,7,Wooden,9
+Gold rush,333,Europe,2,Booster wheel lift hill,1,Shuttle,76,Lap bar,2,Gerstlauer,18,Steel,5
+Falken,334,Europe,2,Chain lift hill,4,0,0,Lap bar,2,S&S,42,Steel,5
+Backlot Stunt Coaster,335,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched Freeform,50,Lap bar,2,Premier Rides,37,Steel,5
+Velociraptor,336,Europe,2,0,0,0,0,None,3,Vekoma,50,Family,2
+Matterhorn Bobsleds (A),337,NorthAm,3,Chain lift hill,4,Bobsled,5,None,3,Arrow,2,Steel,5
+Comet,338,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Philadelphia Toboggan Coaster,35,Steel,5
+Impulse,339,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Zierer,56,Steel,5
+Hyper Space Mountain,340,Europe,2,Hydraulic cable launch,13,"Looper, Indoor",58,Shoulder harness,5,Vekoma,50,Steel,5
+Thunder Run,341,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Dinn Corp.,12,Wooden,9
+Triops,342,Europe,2,Chain lift hill,4,Invertigo,45,Shoulder harness,5,Vekoma,50,Steel,5
+Shuttle Loop,343,Asia,1,Flywheel,12,Shuttle Loop,77,Lap bar,2,Schwarzkopf,45,Steel,5
+TNT Tren de la Mina,344,Europe,2,Chain lift hill,4,Mine Train,65,Lap bar,2,Gerstlauer,18,Steel,5
+Back Lot Stunt Coaster,345,NorthAm,3,Magnetic Launch (LIM/LSM),14,Family,22,Lap bar,2,Premier Rides,37,Steel,5
+Back Lot Stunt Coaster,346,NorthAm,3,Magnetic Launch (LIM/LSM),14,0,0,Lap bar,2,Premier Rides,37,Steel,5
+InvadR,347,NorthAm,3,0,0,Twister,91,Lap bar,2,GCI,17,Hybrid,3
+The Raven,348,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,CCI,7,Wooden,9
+Raging Spirits,349,Asia,1,Chain lift hill,4,Looper,57,Shoulder harness,5,Intamin,22,Steel,5
+Pandemonium,350,NorthAm,3,Chain lift hill,4,Spinning Twister,86,Lap bar,2,Gerstlauer,18,Steel,5
+Dare Devil Dive,351,NorthAm,3,Chain lift hill,4,Euro-Fighter,21,Lap bar,2,Gerstlauer,18,Steel,5
+"Correcaminos Bip, Bip",352,Europe,2,Booster wheel lift hill,1,YoungStar,98,Lap bar,2,Mack,29,Steel,5
+Tonnerre de Zeus,353,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,CCI,7,Wooden,9
+Flight of Fear,354,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched Multielement,53,Lap bar,2,Premier Rides,37,Steel,5
+Mamba,355,NorthAm,3,Chain lift hill,4,Hyper,37,Lap bar,2,Morgan,33,Steel,5
+Vampire,356,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,Arrow,2,Steel,5
+Undertow,357,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Maurer,31,Steel,5
+Blue Streak,358,NorthAm,3,Chain lift hill,4,Out & Back,71,Lap bar,2,Philadelphia Toboggan Coaster,35,Wooden,9
+Spinball Whizzer,359,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Maurer,31,Steel,5
+Speed Rockets,360,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Gerstlauer,18,Family,2
+Skatteøen,361,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Mack,29,Steel,5
+Heiße Fahrt,362,Europe,2,Chain lift hill,4,Bobsled,5,0,0,Gerstlauer,18,Steel,5
+Kvasten,363,Europe,2,Booster wheel lift hill,1,Family,22,Lap bar,2,Vekoma,50,Steel,5
+Sooperdooperlooper,364,NorthAm,3,Chain lift hill,4,Looper,57,Lap bar,2,Schwarzkopf,45,Steel,5
+Speed,365,Europe,2,Vertical lift,17,0,0,None,3,Intamin,22,Steel,5
+Pandemonium,366,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Gerstlauer,18,Steel,5
+Jack Rabbit,367,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,ACE Coaster Classic,1,Steel,5
+Scorpion,368,NorthAm,3,Chain lift hill,4,Looper,57,Lap bar,2,Schwarzkopf,45,Steel,5
+Pegasus,369,Europe,2,Booster wheel lift hill,1,Twister,91,Lap bar,2,Mack,29,Steel,5
+Xpress : Platform 13,370,Europe,2,Magnetic Launch (LIM/LSM),14,0,0,Shoulder harness,5,Vekoma,50,Steel,5
+Diabolik,371,Europe,2,Chain lift hill,4,Invertigo,45,Shoulder harness,5,Vekoma,50,Steel,5
+Loup Garou,372,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,Vekoma,50,Wooden,9
+Comet,373,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Philadelphia Toboggan Coaster,35,Steel,5
+Revolution,374,Europe,2,0,0,Shuttle,76,Shoulder harness,5,Arrow,2,Steel,5
+Gao,375,Asia,1,Chain lift hill,4,0,0,Lap bar,2,Meisho Amusement Machines,32,0,0
+Matterhorn Bobsleds (B),376,NorthAm,3,Chain lift hill,4,Bobsled,5,0,0,Arrow,2,Steel,5
+Regina,377,Asia,1,Chain lift hill,4,0,0,Lap bar,2,Intamin,22,Steel,5
+Poltergeist,378,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched Multielement,53,Shoulder harness,5,Premier Rides,37,Steel,5
+Steel Hawg,379,NorthAm,3,Chain lift hill,4,0,0,0,0,S&S,42,Steel,5
+Fuga da Atlantide,380,Europe,2,Cable lift hill,3,0,0,None,3,Intamin,22,Steel,5
+Poseïdon,381,Europe,2,Chain lift hill,4,Family,22,Lap bar,2,Mack,29,Steel,5
+Divertical,382,Europe,2,Vertical lift,17,0,0,Lap bar,2,Intamin,22,Steel,5
+Rutschebanen,383,Europe,2,Cable lift hill,3,0,0,Lap bar,2,ACE Coaster Classic,1,Steel,5
+Thor's Hammer,384,Europe,2,0,0,Bobsled,5,0,0,Gerstlauer,18,Steel,5
+Booster Bike,385,Europe,2,Magnetic Launch (LIM/LSM),14,Motorbike,68,Lap bar,2,Vekoma,50,Steel,5
+Racer,386,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Philadelphia Toboggan Coaster,35,Wooden,9
+Freedom Flyer,387,NorthAm,3,Booster wheel lift hill,1,Family,22,Lap bar,2,Vekoma,50,Steel,5
+Avalanche,388,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Mack,29,Steel,5
+Gemini (Red),389,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Arrow,2,Hybrid,3
+Whizzer,390,NorthAm,3,Electrical lift hill,11,Speed Racer / Extended Jumbo Jet,82,None,3,Schwarzkopf,45,Steel,5
+Hankatten,391,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Gerstlauer,18,Steel,5
+Cobra,392,Europe,2,Cable lift hill,3,Shuttle,76,Shoulder harness,5,Vekoma,50,Steel,5
+Spinning Dragons,393,NorthAm,3,Chain lift hill,4,Spinning,83,Lap bar,2,Gerstlauer,18,Steel,5
+Thunderbolt,394,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,"Drambour, Joseph",13,Wooden,9
+Fiorano GT Challenge (Left),395,Asia,1,Magnetic Launch (LIM/LSM),14,0,0,Lap bar,2,Maurer,31,Steel,5
+Huracan,396,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Zierer,56,Steel,5
+Sky Rocket,397,NorthAm,3,Magnetic Launch (LIM/LSM),14,Launched,49,Lap bar,2,Premier Rides,37,Steel,5
+Wild Train,398,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Pax,34,Steel,5
+Zeus,399,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,CCI,7,Wooden,9
+Vortex,400,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,Arrow,2,Steel,5
+Racer 75 (Left Side),401,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Philadelphia Toboggan Coaster,35,Wooden,9
+Cobra's Curse,402,NorthAm,3,Vertical lift,17,0,0,Lap bar,2,Mack,29,Steel,5
+New Revolution,403,NorthAm,3,0,0,Looper,57,Lap bar,2,Schwarzkopf,45,Steel,5
+Racer,404,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,John Miller,24,Steel,5
+Big Dipper,405,Europe,2,Chain lift hill,4,0,0,Lap bar,2,William Strickler,54,Wooden,9
+Screamin' Eagle,406,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Philadelphia Toboggan Coaster,35,Wooden,9
+La Trace du Hourra,407,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Mack,29,Steel,5
+Bobbaan,408,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Giovanola,19,Steel,5
+Matterhorn Blitz,409,Europe,2,Vertical lift,17,Wild Mouse,95,Lap bar,2,Mack,29,Steel,5
+Milky Way (Blue),410,Asia,1,Chain lift hill,4,0,0,Shoulder harness,5,Togo,48,Steel,5
+Typhoon,411,Europe,2,Chain lift hill,4,Euro-Fighter,21,Shoulder harness,5,Gerstlauer,18,Steel,5
+Ninja,412,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,Arrow,2,Steel,5
+Wave Breaker: The Rescue Coaster,413,NorthAm,3,Tire propelled launch,16,0,0,None,3,Intamin,22,0,0
+Green Lantern,414,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Le Serpent,415,Europe,2,Booster wheel lift hill,1,Family,22,Lap bar,2,Zierer,56,Steel,5
+Hoosier Hurricane,416,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,CCI,7,Wooden,9
+Insider,417,Europe,2,0,0,"Wild Mouse, Indoor",96,Lap bar,2,Maurer,31,Steel,5
+Calamity Mine,418,Europe,2,Chain lift hill,4,Mine Train,65,Lap bar,2,Vekoma,50,Steel,5
+Grand National (Right),419,Europe,2,Chain lift hill,4,Twister,91,0,0,Unknown,49,Wooden,9
+Vogel Rok,420,Europe,2,Chain lift hill,4,Enclosed Freeform,19,Lap bar,2,Vekoma,50,Steel,5
+Boomerang,421,Europe,2,Booster wheel lift hill,1,"Shuttle, Boomerang, Family",79,Lap bar,2,Vekoma,50,Steel,5
+Schweizer Bobbahn,422,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Mack,29,Steel,5
+Fiorano GT Challenge (Right),423,Asia,1,Magnetic Launch (LIM/LSM),14,0,0,Lap bar,2,Maurer,31,Steel,5
+Boomerang,424,Europe,2,Chain lift hill,4,"Shuttle, Boomerang, Family",79,Lap bar,2,Vekoma,50,Steel,5
+Ben 10 Ultimate Mission,425,Europe,2,Booster wheel lift hill,1,Shuttle,76,Lap bar,2,Vekoma,50,Steel,5
+Tornado,426,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,Intamin,22,Steel,5
+Underground,427,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,CCI,7,Steel,5
+Mount Mara,428,Europe,2,Booster wheel lift hill,1,Indoor,40,Lap bar,2,Vekoma,50,Steel,5
+Patriot,429,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Steel Dragon,430,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Maurer,31,Steel,5
+Grand National (Left),431,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Charles Paige,9,Steel,5
+Big One,432,Europe,2,Chain lift hill,4,Hyper,37,Lap bar,2,Arrow,2,Steel,5
+Vild-Svinet,433,Europe,2,Cable lift hill,3,Euro-Fighter,21,Lap bar,2,Gerstlauer,18,Steel,5
+Supersplash,434,Europe,2,0,0,0,0,Lap bar,2,Mack,29,SuperSplash,6
+Looping Star,435,Asia,1,Cable lift hill,3,Looping,62,Lap bar,2,Schwarzkopf,45,Steel,5
+Colossus,436,NorthAm,3,Chain lift hill,4,Out & Back,71,Lap bar,2,International Amusement Devices,23,Wooden,9
+Nickelodeon Streak,437,Europe,2,Chain lift hill,4,Out & Back,71,None,3,Charles Paige,9,Wooden,9
+Thunderation,438,NorthAm,3,Chain lift hill,4,Mine Train,65,Lap bar,2,Arrow,2,Steel,5
+Pandemonium,439,NorthAm,3,Chain lift hill,4,"Spinning Cars, Twister",84,Lap bar,2,Gerstlauer,18,Steel,5
+Alpenexpress,440,Europe,2,0,0,E-Powered,14,Lap bar,2,Mack,29,Steel,5
+Tiger Express,441,Europe,2,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Mack,29,Steel,5
+Kumali,442,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,Vekoma,50,Steel,5
+Feuerdrache,443,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Zierer,56,Steel,5
+Exterminator,444,NorthAm,3,Chain lift hill,4,Spinning Wild Mouse,87,Lap bar,2,Reverchon,40,Steel,5
+Super Railway,445,Asia,1,Chain lift hill,4,0,0,None,3,Schwarzkopf,45,Steel,5
+Thunderbolt,446,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,ACE Coaster Classic,1,Steel,5
+Fire In The Hole,447,NorthAm,3,0,0,0,0,Lap bar,2,Unknown,49,Steel,5
+Tranan,448,Europe,2,Chain lift hill,4,Eagle,17,None,3,S&S,42,Steel,5
+Atlantica SuperSplash,449,Europe,2,Chain lift hill,4,Water Coaster,94,Lap bar,2,Mack,29,Steel,5
+Euro Mir,450,Europe,2,Spiral lift,15,Spinning,83,Lap bar,2,Mack,29,Steel,5
+Eurosat,451,Europe,2,Spiral lift,15,Family,22,Lap bar,2,Mack,29,Steel,5
+Pegasus,452,NorthAm,3,0,0,0,0,0,0,CCI,7,Steel,5
+Falcon,453,Europe,2,0,0,Euro-Fighter,21,Shoulder harness,5,Gerstlauer,18,Steel,5
+Dark Knight,454,NorthAm,3,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Mack,29,Steel,5
+Boomerang,455,Europe,2,Chain lift hill,4,"Boomerang, Multielement Shuttle",9,Lap bar,2,Vekoma,50,Steel,5
+Achterbahn,456,Europe,2,Chain lift hill,4,Family,22,Lap bar,2,Schwarzkopf,45,Steel,5
+Laff Trakk,457,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Maurer,31,Steel,5
+West Coaster,458,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Morgan,33,Steel,5
+Mammut,459,Europe,2,Chain lift hill,4,Mine Train,65,Lap bar,2,Vekoma,50,Steel,5
+Stampida (Blue),460,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,CCI,7,Wooden,9
+Shockwave,461,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,Intamin,22,Steel,5
+Wild One,462,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,John Miller,24,Steel,5
+Stampida (Red),463,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,CCI,7,Wooden,9
+Thunderhawk,464,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Philadelphia Toboggan Coaster,35,Wooden,9
+Woodstock Express,465,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Philadelphia Toboggan Coaster,35,Steel,5
+Wonder Mountain's Guardian,466,NorthAm,3,Chain lift hill,4,Free Fall,29,Lap bar,2,ART Engineering GmbH,3,Steel,5
+Invertigo,467,NorthAm,3,Chain lift hill,4,"Shuttle, Boomerang",78,Shoulder harness,5,Vekoma,50,Steel,5
+Blazing Fury,468,NorthAm,3,0,0,0,0,Lap bar,2,Unknown,49,Steel,5
+Halvar,469,Europe,2,Chain lift hill,4,Terrain,89,Lap bar,2,Vekoma,50,Steel,5
+Cyclone,470,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Unknown,49,Wooden,9
+Colossus,471,Europe,2,Chain lift hill,4,Multielement,69,Shoulder harness,5,Intamin,22,Steel,5
+Naga Bay,472,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Maurer,31,Steel,5
+Alpine Coaster,473,Europe,2,Cable lift hill,3,0,0,Seatbelt,4,Wiegand,52,Steel,5
+SuperSplash,474,Europe,2,Vertical lift,17,0,0,Lap bar,2,Mack,29,Steel,5
+Adventure Express,475,NorthAm,3,Chain lift hill,4,Mine Train,65,Lap bar,2,Arrow,2,Steel,5
+EqWalizer,476,Europe,2,Cable lift hill,3,"Shuttle, Boomerang",78,Lap bar,2,Vekoma,50,Steel,5
+Dark Knight,477,NorthAm,3,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Mack,29,Steel,5
+Avalanche,478,NorthAm,3,0,0,Bobsled,5,Lap bar,2,Mack,29,Steel,5
+Mumbo Jumbo,479,Europe,2,Chain lift hill,4,El Loco,18,Shoulder harness,5,S&S,42,Steel,5
+Judge Roy Scream,480,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,William J. Cobb,53,Steel,5
+Wildcat,481,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,GCI,17,Wooden,9
+Aktium,482,Europe,2,0,0,0,0,None,3,Mack,29,0,0
+La Vibora,483,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Intamin,22,Steel,5
+Woodstock Express,484,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Philadelphia Toboggan Coaster,35,Wooden,9
+Spatiale Experience,485,Europe,2,Spiral lift,15,Indoor,40,Lap bar,2,Mack,29,Steel,5
+Devil's Mine,486,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Vekoma,50,Steel,5
+Grizzly,487,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Unknown,49,Wooden,9
+RC Racer,488,Europe,2,Magnetic Launch (LIM/LSM),14,Half Pipe,36,Shoulder harness,5,Intamin,22,Steel,5
+Journey To Atlantis,489,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Mack,29,Steel,5
+Jimmy Neutron's Atomic Flyer,490,Europe,2,Chain lift hill,4,Family Inverted,23,Lap bar,2,Vekoma,50,Steel,5
+Racer 75 (Right Side),491,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Philadelphia Toboggan Coaster,35,Wooden,9
+Steeplechase,492,NorthAm,3,Flywheel,12,Motocoaster,67,0,0,Zamperla,55,Steel,5
+Huracan,493,Europe,2,Chain lift hill,4,Euro-Fighter,21,Shoulder harness,5,Gerstlauer,18,Steel,5
+Speed of Sound,494,Europe,2,Chain lift hill,4,"Shuttle, Boomerang",78,Shoulder harness,5,Vekoma,50,Steel,5
+Bat Coaster,495,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,Pinfari,36,Steel,5
+Runaway Mine Train,496,Europe,2,0,0,E-Powered,14,Shoulder harness,5,Mack,29,Steel,5
+Velocity,497,Europe,2,Hydraulic cable launch,13,0,0,Lap bar,2,Vekoma,50,Steel,5
+Gletscherblitz,498,Europe,2,0,0,0,0,Lap bar,2,Mack,29,E-Powered,1
+Pony Express,499,NorthAm,3,Flywheel,12,Motocoaster,67,0,0,Zamperla,55,Steel,5
+Super 8er Bahn,500,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Pinfari,36,Steel,5
+Coastersaurus,501,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Martin & Vleminckx,30,Steel,5
+Gaz Express,502,Europe,2,Chain lift hill,4,"Mine Train, Family",66,Lap bar,2,Soquet,47,Steel,5
+Hochschaubahn,503,Europe,2,Chain lift hill,4,Family,22,None,3,Unknown,49,Wooden,9
+Comet,504,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Philadelphia Toboggan Coaster,35,Wooden,9
+Georgia Cyclone,505,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Dinn Corp.,12,Wooden,9
+Iron Dragon,506,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,Arrow,2,Steel,5
+Schweizer Bobbahn,507,Europe,2,Chain lift hill,4,Bobsled,5,Lap bar,2,Mack,29,Steel,5
+Odin Ekspressen,508,Europe,2,Electrical lift hill,11,Freeform Powered,33,Lap bar,2,Mack,29,Steel,5
+Psycho Mouse,509,NorthAm,3,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Arrow,2,Steel,5
+Linnunrata,510,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Zierer,56,Steel,5
+Le Grand canyon,511,Europe,2,Chain lift hill,4,Family,22,Lap bar,2,Soquet,47,Steel,5
+Train de Mine,512,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Soquet,47,Steel,5
+Le Train de la Mine d'Or,513,Europe,2,Electrical lift hill,11,E-Powered,14,Lap bar,2,Mack,29,Steel,5
+Apocalypse,514,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Spinner,515,Europe,2,0,0,0,0,Lap bar,2,Maurer,31,0,0
+Dawson Duel (Right),516,Europe,2,Cable lift hill,3,0,0,None,3,Wiegand,52,0,0
+Roar,517,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,GCI,17,Steel,5
+Dawson Duel (Left),518,Europe,2,0,0,0,0,None,3,Wiegand,52,Family,2
+Rasender Roland,519,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Vekoma,50,Steel,5
+Great American Scream Machine,520,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Philadelphia Toboggan Coaster,35,Wooden,9
+Jaguar!,521,NorthAm,3,Booster wheel lift hill,1,Family,22,Lap bar,2,Zierer,56,Steel,5
+Azteka,522,Europe,2,Chain lift hill,4,Family,22,Lap bar,2,Soquet,47,Steel,5
+Grizzly,523,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Kings Island,25,Steel,5
+Woodstock Express,524,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Philadelphia Toboggan Coaster,35,Wooden,9
+El Diablo,525,Europe,2,Chain lift hill,4,Mine Train,65,Lap bar,2,Arrow,2,Steel,5
+Joyride,526,Europe,2,Chain lift hill,4,0,0,Lap bar,2,L&T Systems,28,Steel,5
+Boomerang,527,Europe,2,Booster wheel lift hill,1,Enclosed Junior,20,Lap bar,2,Vekoma,50,Steel,5
+Roller Coaster Mayan,528,Europe,2,Chain lift hill,4,SLC,81,Shoulder harness,5,Vekoma,50,Steel,5
+Dynamite Express,529,Europe,2,Electrical lift hill,11,E-Powered,14,Lap bar,2,Mack,29,Steel,5
+Tabalugas Achterbahn,530,Europe,2,Booster wheel lift hill,1,"Family, Indoor",26,Lap bar,2,Zierer,56,Steel,5
+Grottenblitz,531,Europe,2,0,0,E-Powered,14,Lap bar,2,Mack,29,Steel,5
+Cagliostro,532,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Maurer,31,Steel,5
+Olandese Volante,533,Europe,2,Chain lift hill,4,Mine Train,65,Lap bar,2,Vekoma,50,Steel,5
+Silver Streak,534,NorthAm,3,Booster wheel lift hill,1,Family,22,Shoulder harness,5,Vekoma,50,Steel,5
+X-Treme Racer,535,Europe,2,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Mack,29,Steel,5
+Rioolrat,536,Europe,2,0,0,0,0,Lap bar,2,Vekoma,50,Steel,5
+Mean Streak,537,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Dinn Corp.,12,Wooden,9
+RC Racer,538,Asia,1,Magnetic Launch (LIM/LSM),14,Half Pipe,36,Shoulder harness,5,Intamin,22,Steel,5
+Flight of the Hippogriff,539,NorthAm,3,0,0,YoungStar,98,Lap bar,2,Mack,29,Steel,5
+Runaway Mountain,540,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Premier Rides,37,Steel,5
+Gold Rusher,541,NorthAm,3,Chain lift hill,4,Mine Train,65,Lap bar,2,Arrow,2,Steel,5
+Timber Wolf,542,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Dinn Corp.,12,Wooden,9
+Bob Express,543,Europe,2,Electrical lift hill,11,E-Powered,14,Lap bar,2,Mack,29,Steel,5
+Mighty Canadian Minebuster,544,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Philadelphia Toboggan Coaster,35,Wooden,9
+Trailblazer,545,NorthAm,3,Chain lift hill,4,Mine Train,65,Lap bar,2,Arrow,2,Steel,5
+Steampunk Hunters,546,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Vekoma,50,Steel,5
+Grampus Jet,547,Asia,1,Chain lift hill,4,0,0,Shoulder harness,5,Vekoma,50,Steel,5
+Famous jack,548,Europe,2,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Reverchon,40,Steel,5
+Shaman,549,Europe,2,Chain lift hill,4,Looper,57,Shoulder harness,5,Vekoma,50,Steel,5
+Euro Loop,550,Europe,2,Chain lift hill,4,Looper,57,Shoulder harness,5,Vekoma,50,Steel,5
+Course de Bobsleigh,551,Europe,2,Electrical lift hill,11,0,0,Lap bar,2,Schwarzkopf,45,Steel,5
+Plohseidon,552,Europe,2,Booster wheel lift hill,1,Family,22,Lap bar,2,Zierer,56,Steel,5
+Indiana Jones et le Temple du Péril,553,Europe,2,Chain lift hill,4,Looper,57,Shoulder harness,5,Intamin,22,Steel,5
+Tornado,554,Europe,2,Chain lift hill,4,Looper,57,Shoulder harness,5,Soquet,47,Steel,5
+Big Apple Coaster,555,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,Togo,48,Steel,5
+L'Aérotrain,556,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Vekoma,50,Steel,5
+Vertigo,557,Europe,2,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Mack,29,Steel,5
+Schlitt' Express,558,Europe,2,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Mack,29,Steel,5
+Green Lantern : First Flight,559,NorthAm,3,Chain lift hill,4,ZacSpin,99,Shoulder harness,5,Intamin,22,Steel,5
+Racing,560,Europe,2,0,0,0,0,0,0,Zierer,56,Steel,5
+Blue Flyer,561,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Charles Paige,9,Steel,5
+Hurler,562,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Philadelphia Toboggan Coaster,35,Wooden,9
+Flying Cobras,563,NorthAm,3,Chain lift hill,4,"Shuttle, Boomerang",78,Shoulder harness,5,Vekoma,50,Steel,5
+Dragon,564,NorthAm,3,Chain lift hill,4,Looping,62,Shoulder harness,5,Hopkins,21,Steel,5
+Python,565,Europe,2,Chain lift hill,4,Loop Corkscrew,56,Shoulder harness,5,Vekoma,50,Steel,5
+Dragon,566,NorthAm,3,Booster wheel lift hill,1,0,0,Lap bar,2,Vekoma,50,Steel,5
+Euro Speed,567,Europe,2,0,0,E-Powered,14,Lap bar,2,Mack,29,Steel,5
+Ghoster Coaster,568,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Philadelphia Toboggan Coaster,35,Wooden,9
+Monstre,569,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,William J. Cobb,53,Wooden,9
+Crazy Mine,570,Europe,2,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Maurer,31,Steel,5
+La Machine à Vapeur,571,Europe,2,Electrical lift hill,11,E-Powered,14,Lap bar,2,Soquet,47,Steel,5
+Flagermusen,572,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Reverchon,40,Steel,5
+Dragen,573,Europe,2,Electrical lift hill,11,E-Powered,14,Lap bar,2,Mack,29,Steel,5
+Project X - Test Strecke,574,Europe,2,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Mack,29,Steel,5
+Tickler,575,NorthAm,3,Chain lift hill,4,Spinning Wild Mouse,87,Shoulder harness,5,Zamperla,55,Steel,5
+Sky Spin,576,Europe,2,0,0,0,0,0,0,Maurer,31,Steel,5
+Hurler,577,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,CCI,7,Steel,5
+Draak,578,Europe,2,Electrical lift hill,11,E-Powered,14,Lap bar,2,Mack,29,Steel,5
+Vilde Mus,579,Europe,2,0,0,0,0,None,3,Mack,29,Wild Mouse,8
+Les Souris Mécaniques,580,Europe,2,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Reverchon,40,Steel,5
+Rattlesnake,581,Europe,2,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Maurer,31,Steel,5
+Ricochet,582,NorthAm,3,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Mack,29,Steel,5
+Skull Mountain,583,NorthAm,3,Booster wheel lift hill,1,Twister,91,Lap bar,2,Intamin,22,Wooden,9
+Neo's Twister,584,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Fabbri,16,Wild Mouse,8
+Ghost Chasers,585,Europe,2,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Mack,29,Steel,5
+Furio,586,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Soquet,47,Steel,5
+Fly,587,NorthAm,3,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Mack,29,Steel,5
+Viper,588,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,Arrow,2,Steel,5
+Wildcat,589,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Charlie Dinn,10,Steel,5
+Lost Coaster of Superstition Mountain,590,NorthAm,3,Chain lift hill,4,0,0,0,0,CCI,7,Wooden,9
+Déval' Train,591,Europe,2,Booster wheel lift hill,1,Junior Coaster,47,Lap bar,2,Vekoma,50,Steel,5
+Scorpion Express,592,Europe,2,0,0,E-Powered,14,Lap bar,2,Mack,29,Steel,5
+Temple of the Night Hawk,593,Europe,2,Chain lift hill,4,Indoor Freeform,41,Lap bar,2,Vekoma,50,Steel,5
+Virtual Express,594,Europe,2,Electrical lift hill,11,E-Powered,14,Lap bar,2,Zamperla,55,Steel,5
+Enchanted Airways,595,Asia,1,Chain lift hill,4,Junior,46,Lap bar,2,Vekoma,50,Steel,5
+Wild Beast,596,NorthAm,3,Chain lift hill,4,Twister,91,Lap bar,2,Philadelphia Toboggan Coaster,35,Wooden,9
+Mine Expressen,597,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Vekoma,50,Steel,5
+Woodstock Express,598,NorthAm,3,Booster wheel lift hill,1,Junior Twister,48,Lap bar,2,Vekoma,50,Steel,5
+Cobra,599,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,Sartori,43,Steel,5
+Apple Zapple,600,NorthAm,3,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Mack,29,Steel,5
+Thunder Run,601,NorthAm,3,Electrical launch,10,E-Powered,14,Lap bar,2,Mack,29,Steel,5
+Flying Ace Aerial Chase,602,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,Vekoma,50,Steel,5
+Vortex,603,NorthAm,3,Chain lift hill,4,0,0,Shoulder harness,5,B&M,4,Steel,5
+Express,604,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Soquet,47,Steel,5
+Le Vol d'Icare,605,Europe,2,Booster wheel lift hill,1,Family,22,Lap bar,2,Zierer,56,Steel,5
+Woodstock Express,606,Europe,2,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Zamperla,55,Steel,5
+Wild Mouse,607,NorthAm,3,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Maurer,31,Steel,5
+Dragon,608,NorthAm,3,Booster wheel lift hill,1,0,0,Lap bar,2,Intamin,22,Steel,5
+Comet,609,Europe,2,Chain lift hill,4,Looper,57,Shoulder harness,5,Vekoma,50,Steel,5
+Wild Mouse,610,NorthAm,3,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Mack,29,Steel,5
+Rollerskater,611,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Vekoma,50,Steel,5
+Canopy Flyer,612,Asia,1,Chain lift hill,4,Family,22,Lap bar,2,SetPoint,46,Steel,5
+Ednör,613,NorthAm,3,Chain lift hill,4,SLC,81,Shoulder harness,5,Vekoma,50,Steel,5
+Donderstenen,614,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Zierer,56,Steel,5
+Sand Serpent,615,NorthAm,3,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Mack,29,Steel,5
+Maskerade,616,Europe,2,Vertical lift,17,Indoor,40,Lap bar,2,Gerstlauer,18,Steel,5
+Tulireki,617,Europe,2,0,0,0,0,Lap bar,2,Mack,29,Steel,5
+Green Scream,618,Europe,2,Booster wheel lift hill,1,Twister,91,Lap bar,2,Zierer,56,Steel,5
+Brontojet,619,Europe,2,Electrical lift hill,11,0,0,Lap bar,2,Schwarzkopf,45,Steel,5
+Pikajuna,620,Europe,2,Electrical lift hill,11,E-Powered,14,Lap bar,2,Mack,29,Steel,5
+The Walking Dead - The Ride,621,Europe,2,Booster wheel lift hill,1,"Family, Indoor",26,Lap bar,2,Vekoma,50,Steel,5
+Sky Rider,622,Europe,2,Vertical lift,17,0,0,Lap bar,2,Caripro,6,Steel,5
+Carolina Goldrusher,623,NorthAm,3,Chain lift hill,4,Mine Train,65,Lap bar,2,Arrow,2,Hybrid,3
+Kung Fu Panda Master,624,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Fabbri,16,Steel,5
+Wild Mouse,625,NorthAm,3,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Zamperla,55,Steel,5
+Dragon Fire,626,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,Arrow,2,Steel,5
+G Force,627,Europe,2,Chain lift hill,4,Looper,57,Lap bar,2,Maurer,31,Steel,5
+Canyon Blaster,628,NorthAm,3,Chain lift hill,4,Mine Train,65,Lap bar,2,Arrow,2,Steel,5
+Big Loop,629,Europe,2,Chain lift hill,4,Double Loop Corkscrew,12,Shoulder harness,5,Vekoma,50,Steel,5
+La Souris verte,630,Europe,2,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Zamperla,55,Steel,5
+Demon,631,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,Arrow,2,Steel,5
+Cedar Creek Mine Ride,632,NorthAm,3,Chain lift hill,4,Mine Train,65,Lap bar,2,Arrow,2,Hybrid,3
+Tig'rr Coaster,633,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,Schwarzkopf,45,0,0
+Anaconda,634,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,Arrow,2,Steel,5
+Tokio express,635,Asia,1,Electrical launch,10,"E-Powered, Family",16,Lap bar,2,Soquet,47,Steel,5
+Tornado,636,NorthAm,3,Chain lift hill,4,0,0,Lap bar,2,William J. Cobb,53,Steel,5
+Gadget's Go Coaster,637,NorthAm,3,Booster wheel lift hill,1,0,0,Lap bar,2,Vekoma,50,Steel,5
+Dragon,638,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Soquet,47,Steel,5
+Gotham City Gauntlet: Escape from Arkham Asylum,639,NorthAm,3,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Maurer,31,Steel,5
+Gruvbanan,640,Europe,2,0,0,0,0,Lap bar,2,Mack,29,E-Powered,1
+Twistrix,641,Europe,2,Booster wheel lift hill,1,0,0,Lap bar,2,Maurer,31,Steel,5
+Boomerang,642,Europe,2,Cable lift hill,3,"Shuttle, Boomerang",78,Shoulder harness,5,Vekoma,50,Steel,5
+Dream Hunters Society,643,Europe,2,Chain lift hill,4,Zyklon Z47,100,Lap bar,2,Unknown,49,Steel,5
+Vortex,644,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,Arrow,2,Steel,5
+Canyon Blaster,645,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,Arrow,2,Steel,5
+Le Train de la Mine,646,Europe,2,0,0,Mine Train,65,Lap bar,2,Soquet,47,Steel,5
+Dizzy Mouse,647,Europe,2,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Reverchon,40,Steel,5
+Tyfonen,648,Europe,2,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Zamperla,55,Steel,5
+Runaway Mine Train,649,NorthAm,3,Chain lift hill,4,Mine Train,65,Lap bar,2,Arrow,2,Steel,5
+Formula One,650,Europe,2,Chain lift hill,4,Wild Mouse,95,Shoulder harness,5,Fabbri,16,Steel,5
+Primeval Whirl,651,NorthAm,3,Chain lift hill,4,Dual Wild Mouse,13,Lap bar,2,Reverchon,40,Steel,5
+Speedy Bob (Right),652,Europe,2,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Mack,29,Steel,5
+Gold Digger,653,Europe,2,Chain lift hill,4,Wild Mouse,95,Lap bar,2,L&T Systems,28,Steel,5
+Tornado,654,Europe,2,Chain lift hill,4,Looper,57,Shoulder harness,5,Vekoma,50,Steel,5
+Kopermijn,655,Europe,2,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Maurer,31,Steel,5
+Drakkar,656,Europe,2,Chain lift hill,4,Junior Coaster,47,Lap bar,2,Soquet,47,Steel,5
+Infusion,657,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,Vekoma,50,Steel,5
+Primeval Whirl (2),658,NorthAm,3,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Reverchon,40,Steel,5
+Sequoia Adventure,659,Europe,2,0,0,Screaming Squirrel,75,Shoulder harness,5,S&S,42,Steel,5
+Goofy's Sky School,660,NorthAm,3,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Mack,29,Steel,5
+Super Manège,661,NorthAm,3,Chain lift hill,4,Looper,57,Lap bar,2,Vekoma,50,Steel,5
+Soarin' Eagle,662,NorthAm,3,Spiral lift,15,Flying,27,Flying restraint,1,Zamperla,55,Steel,5
+Wild Mouse,663,Asia,1,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Mack,29,Steel,5
+Crazy Mouse (Degousse),664,Asia,1,0,0,0,0,0,0,Reverchon,40,Steel,5
+Rockstar Coaster,665,NorthAm,3,0,0,0,0,None,3,Zamperla,55,0,0
+Puss in Boots Giant Journey,666,Asia,1,Spiral lift,15,Family,22,None,3,Zamperla,55,Steel,5
+River King Mine Train,667,NorthAm,3,Chain lift hill,4,Mine Train,65,Lap bar,2,Arrow,2,Steel,5
+Wilde Maus,668,Europe,2,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Maurer,31,Steel,5
+Toboggan Nordique,669,NorthAm,3,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Zamperla,55,Steel,5
+Goudurix,670,Europe,2,Chain lift hill,4,Looper,57,Shoulder harness,5,Vekoma,50,Steel,5
+Dream catcher,671,Europe,2,Chain lift hill,4,0,0,Shoulder harness,5,Vekoma,50,Steel,5
+Kiddy Hawk,672,NorthAm,3,Booster wheel lift hill,1,Family,22,Shoulder harness,5,Vekoma,50,Steel,5
+Runaway Mine Train,673,NorthAm,3,Chain lift hill,4,Mine Train,65,Lap bar,2,Arrow,2,Steel,5
+Crazy Coaster,674,Europe,2,0,0,0,0,Lap bar,2,Reverchon,40,0,0
+Coast Rider,675,NorthAm,3,Chain lift hill,4,Wild Mouse,95,Lap bar,2,Mack,29,Steel,5
+Train de la Mine,676,Europe,2,Chain lift hill,4,Family,22,Lap bar,2,Soquet,47,Steel,5
+Crazy Mouse,677,Asia,1,Chain lift hill,4,0,0,Lap bar,2,Reverchon,40,Steel,5
+Bandit,678,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,RCCA,39,Wooden,9
+Orkanens Øje,679,Europe,2,Chain lift hill,4,Looper,57,Lap bar,2,Pinfari,36,Steel,5
+Cobra,680,Europe,2,Cable lift hill,3,"Boomerang, Multielement Shuttle",9,Shoulder harness,5,Vekoma,50,Steel,5
+Buffalo Mountain Coaster,681,Europe,2,0,0,E-Powered,14,Lap bar,2,Zamperla,55,Steel,5
+Turbo coaster,682,Europe,2,Chain lift hill,4,Looper,57,Shoulder harness,5,Pinfari,36,Steel,5
+Sidewinder,683,NorthAm,3,Cable lift hill,3,Shuttle,76,Lap bar,2,Vekoma,50,Steel,5
+Dahlonega Mine Train,684,NorthAm,3,Chain lift hill,4,Mine Train,65,Lap bar,2,Arrow,2,Steel,5
+Anaconda,685,Europe,2,Chain lift hill,4,Out & Back,71,Lap bar,2,William J. Cobb,53,Wooden,9
+Boomerang Coast to Coaster,686,NorthAm,3,Cable lift hill,3,Shuttle,76,Shoulder harness,5,Vekoma,50,Steel,5
+Nitro,687,Europe,2,Chain lift hill,4,0,0,Lap bar,2,Preston & Barbieri,38,Steel,5
+Bat,688,NorthAm,3,Cable lift hill,3,"Shuttle, Boomerang",78,Shoulder harness,5,Vekoma,50,Steel,5
+Vampire,689,Europe,2,Chain lift hill,4,Suspended Looping,88,Shoulder harness,5,Vekoma,50,Steel,5
+Corkscrew,690,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,Arrow,2,Steel,5
+Scary Toys Factory,691,Europe,2,Chain lift hill,4,Zyklon Z47,100,Lap bar,2,Unknown,49,Steel,5
+Carolina Cyclone,692,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,Arrow,2,Steel,5
+Flying Fish,693,Europe,2,0,0,E-Powered,14,Lap bar,2,Mack,29,Steel,5
+Spinning Out,694,NorthAm,3,Booster wheel lift hill,1,0,0,Lap bar,2,SBF,44,Steel,5
+Rexplorer,695,Europe,2,0,0,E-Powered,14,Lap bar,2,Mack,29,Steel,5
+Zoomerang,696,NorthAm,3,Cable lift hill,3,Shuttle,76,Shoulder harness,5,Vekoma,50,Steel,5
+Blue Tornado,697,Europe,2,Chain lift hill,4,Suspended Looping,88,Shoulder harness,5,Vekoma,50,Steel,5
+Loopen,698,Europe,2,Chain lift hill,4,Loop Corkscrew,56,Shoulder harness,5,Vekoma,50,Steel,5
+Imoogi,699,Europe,2,Chain lift hill,4,"Zyklon Z47, Family",101,None,3,Pinfari,36,Steel,5
+Blue Hawk,700,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,Vekoma,50,Steel,5
+Ninja,701,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,Vekoma,50,Steel,5
+King,702,Asia,1,Chain lift hill,4,0,0,Shoulder harness,5,Soquet,47,Steel,5
+Steamin' Demon,703,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,Arrow,2,Steel,5
+Mind Eraser,704,NorthAm,3,Chain lift hill,4,SLC,81,Shoulder harness,5,Vekoma,50,Steel,5
+T3,705,NorthAm,3,Chain lift hill,4,Suspended Looping,88,Shoulder harness,5,Vekoma,50,Steel,5
+Master Thaï,706,Europe,2,Chain lift hill,4,Family,22,Lap bar,2,Preston & Barbieri,38,Steel,5
+Boomerang,707,NorthAm,3,Chain lift hill,4,Boomerang,7,Shoulder harness,5,Vekoma,50,Steel,5
+MP-Xpress,708,Europe,2,Chain lift hill,4,Suspended Looping,88,Shoulder harness,5,Vekoma,50,Steel,5
+Trombi,709,Europe,2,Electrical lift hill,11,0,0,Flying restraint,1,Zamperla,55,Steel,5
+Mind Eraser,710,NorthAm,3,Chain lift hill,4,SLC,81,Shoulder harness,5,Vekoma,50,Steel,5
+Boomerang Coast to Coaster,711,NorthAm,3,Chain lift hill,4,"Shuttle, Boomerang",78,Shoulder harness,5,Vekoma,50,Steel,5
+Boomerang,712,NorthAm,3,Cable lift hill,3,Shuttle,76,Shoulder harness,5,Vekoma,50,Steel,5
+Familienachterbahn,713,Europe,2,0,0,0,0,None,3,Zierer,56,Tivoli Medium,7
+Coaster Express,714,Europe,2,Chain lift hill,4,Twister,91,Lap bar,2,RCCA,39,Wooden,9
+Flashback,715,NorthAm,3,Chain lift hill,4,"Shuttle, Boomerang",78,Shoulder harness,5,Vekoma,50,Steel,5
+Limit,716,Europe,2,Chain lift hill,4,Suspended Looping,88,Shoulder harness,5,Vekoma,50,Steel,5
+Boomerang,717,NorthAm,3,Cable lift hill,3,"Shuttle, Boomerang",78,Shoulder harness,5,Vekoma,50,Steel,5
+Demon,718,NorthAm,3,Chain lift hill,4,Looper,57,Shoulder harness,5,Arrow,2,Steel,5
+Flight Deck,719,NorthAm,3,Chain lift hill,4,SLC,81,Shoulder harness,5,Vekoma,50,Steel,5
+Time Warp,720,NorthAm,3,Electrical lift hill,11,"Flying, Volare",28,Flying restraint,1,Zamperla,55,Steel,5
+Kong,721,NorthAm,3,Chain lift hill,4,SLC,81,Shoulder harness,5,Vekoma,50,Steel,5
+Viking Roller Coaster,722,Europe,2,Chain lift hill,4,Wild Mouse,95,Shoulder harness,5,SBF,44,Steel,5
+El Condor,723,Europe,2,Chain lift hill,4,Suspended Looping,88,Shoulder harness,5,Vekoma,50,Steel,5
+Volare,724,Europe,2,Spiral lift,15,"Flying, Volare",28,Flying restraint,1,Zamperla,55,Steel,5
