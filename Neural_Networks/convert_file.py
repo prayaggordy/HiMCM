@@ -88,14 +88,22 @@ for cola in range(0, len(results[0])-1):
     else:
         print(rows)
         if "NA" in rows:
+            print("HEREEEE")
             ns = rows.index("NA")
             print("NA: "+str(ns))
             first = pd.Categorical(rows)
             rows = first.codes.tolist()
             numbB = rows[ns]
+            print(numbB)
+            newR = []
             for val in rows:
                 if val==numbB:
-                    val = 0
+                    newR.append(0)
+                else:
+                    newR.append(val)
+            print(rows)
+            rows = newR
+            print(newR)
         else:
             first = pd.Categorical(rows)
             rows = first.codes.tolist()
